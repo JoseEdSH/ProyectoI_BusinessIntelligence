@@ -1,0 +1,15 @@
+id_campania,nombre_campania,tipo_descuento,valor_descuento,fecha_inicio,fecha_fin
+1,Rebajas de Enero,Porcentaje,15,2025-01-05,2025-01-20
+2,San Valentin,Porcentaje,10,2025-02-07,2025-02-14
+3,Dia de la Madre,Monto fijo,5000,2025-08-01,2025-08-15
+4,Vacaciones de Verano,Porcentaje,20,2025-02-20,2025-03-10
+5,Aniversario de la Tienda,Porcentaje,25,2025-04-10,2025-04-20
+6,Regreso a Clases,Porcentaje,12,2025-01-25,2025-02-05
+7,Dia del Padre,Monto fijo,4000,2025-06-10,2025-06-16
+8,CyberDay,Porcentaje,30,2025-05-05,2025-05-07
+9,Medio Año,Porcentaje,18,2025-06-25,2025-07-05
+10,Independencia,Porcentaje,15,2025-09-10,2025-09-18
+11,Black Friday,Porcentaje,35,2025-11-24,2025-11-30
+12,Cyber Monday,Porcentaje,28,2025-12-01,2025-12-02
+13,Navidad,Monto fijo,6000,2025-12-05,2025-12-24
+14,Fin de Año,Porcentaje,20,2025-12-26,2025-12-31

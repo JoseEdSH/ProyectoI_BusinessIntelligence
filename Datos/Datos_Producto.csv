@@ -1,0 +1,181 @@
+id_producto,nombre_producto,id_categoria,id_marca,precio_unitario,costo_unitario
+1,Sudadera Apple,2,1,46345.86,22795.74
+2,Shorts Planeta,2,19,8625.53,4123.94
+3,Smartwatch LEGO,1,18,129735.47,85676.98
+4,Juguete para mascota Planeta,8,19,146269.19,66106.31
+5,Cómic Decathlon,7,11,30519.87,22498.15
+6,Pantalón L'Oréal,2,13,66539.35,36808.68
+7,Cámara digital Mars Petcare,1,24,97912.37,72644.59
+8,Protector solar Panini,5,21,159724.96,89204.87
+9,Vestido Samsung,2,2,139833.1,104254.87
+10,Sudadera L'Oréal,2,13,83253.62,58296.94
+11,Juego de mesa IKEA,6,7,50255.07,36736.27
+12,Organizador LEGO,3,18,46331.53,27274.36
+13,Mancuernas Nestlé Purina,4,22,152184.79,103911.77
+14,Televisor Decathlon,1,11,50390.14,25865.0
+15,Juego de mesa IKEA,6,7,91363.93,65362.21
+16,Lámpara de mesa Procter & Gamble (P&G),3,9,46653.07,28850.75
+17,Libro infantil Planeta,7,19,67073.37,50251.22
+18,Alimento para perro Sony,8,3,155415.22,77063.01
+19,Novela HarperCollins,7,20,71103.81,44707.7
+20,Crema facial LEGO,5,18,123410.16,59775.63
+21,Labial Panini,5,21,22744.73,13201.71
+22,Perfume Hasbro,5,17,92859.66,44751.23
+23,Mancuernas Inditex (Zara),4,5,137964.41,84408.52
+24,Parlante Bluetooth HarperCollins,1,20,89483.21,43270.53
+25,Crema facial Whirlpool,5,8,45634.27,28302.7
+26,Correa Sony,8,3,138552.69,67685.41
+27,Cortinas Procter & Gamble (P&G),3,9,157420.65,90822.49
+28,Mancuernas Central Garden & Pet,4,23,73621.64,47964.95
+29,Alimento para gato Nike,8,4,42771.43,23585.26
+30,Tenis para correr Planeta,4,19,4272.78,2830.09
+31,Camisa Samsung,2,2,15541.75,8103.49
+32,Tenis para correr LEGO,4,18,131033.4,93651.53
+33,Bicicleta Mattel,4,16,36702.55,17583.43
+34,Libro infantil Estée Lauder,7,14,155899.1,72688.17
+35,Shorts Samsung,2,2,131893.81,91030.17
+36,Colchoneta de yoga IKEA,4,7,82404.6,47511.57
+37,Bicicleta Sony,4,3,146019.94,103205.44
+38,Smartwatch Sony,1,3,32437.07,19322.51
+39,Libro de cocina Samsung,7,2,70078.24,52249.82
+40,Cama para mascota Adidas,8,10,126296.7,84511.64
+41,Alimento para gato Inditex (Zara),8,5,55517.29,41116.82
+42,Parlante Bluetooth Mars Petcare,1,24,13118.25,8202.23
+43,Cortinas Samsung,3,2,17179.73,8688.61
+44,Balón de fútbol L'Oréal,4,13,169662.51,105343.9
+45,Laptop HarperCollins,1,20,77202.81,48259.61
+46,Set de maquillaje IKEA,5,7,129765.95,67686.67
+47,Labial Unilever,5,15,167436.24,
+48,Vestido Sony,2,3,92541.59,45321.04
+49,Camisa Whirlpool,2,8,53442.77,31074.59
+50,Set de maquillaje HarperCollins,5,20,96622.5,62839.31
+51,Sudadera Inditex (Zara),2,5,23430.87,11296.28
+52,Protector solar Adidas,5,10,40281.45,22270.17
+53,Shampoo Hasbro,5,17,47448.46,34279.03
+54,Novela Procter & Gamble (P&G),7,9,3627.59,2471.61
+55,Set de maquillaje LVMH (Louis Vuitton),5,6,81204.89,53733.29
+56,Chaqueta Sony,2,3,99569.48,69736.32
+57,Lámpara de mesa Estée Lauder,3,14,10403.71,5819.79
+58,Smartwatch Wilson,1,12,123725.8,80431.67
+59,Biografía HarperCollins,7,20,30355.94,22128.4
+60,Juego de sábanas Estée Lauder,3,14,34746.84,25272.98
+61,Biografía Nestlé Purina,7,22,146502.63,77652.5
+62,Camiseta L'Oréal,2,13,154971.01,80078.19
+63,Juguete para mascota Wilson,8,12,148234.94,105453.88
+64,Mancuernas L'Oréal,4,13,52312.74,24630.21
+65,Peluche Panini,6,21,73743.07,54890.28
+66,Tablet Nike,1,4,34606.5,25565.91
+67,Shorts HarperCollins,2,20,64186.62,44027.43
+68,Vestido L'Oréal,2,13,48085.88,
+69,Bicicleta Wilson,4,12,15385.36,9989.27
+70,Set de bloques Nestlé Purina,6,22,130396.5,70426.72
+71,Libro infantil Decathlon,7,11,126405.89,77906.95
+72,Biografía Nestlé Purina,7,22,162796.58,103319.58
+73,Tablet Adidas,1,10,40202.34,27567.86
+74,Rompecabezas Unilever,6,15,81262.28,41777.78
+75,Juego de sábanas Nestlé Purina,3,22,53230.19,34554.71
+76,Sudadera Whirlpool,2,8,42761.4,
+77,Colchoneta de yoga Mattel,4,16,153403.57,72383.24
+78,Guantes de boxeo Central Garden & Pet,4,23,70964.19,40442.2
+79,Televisor Nike,1,4,41734.88,28848.52
+80,Correa Samsung,8,2,47108.1,33187.7
+81,Correa Nestlé Purina,8,22,177856.96,111807.23
+82,Arena sanitaria HarperCollins,8,20,160887.59,92996.6
+83,Arena sanitaria LVMH (Louis Vuitton),8,6,155484.6,90961.74
+84,Shampoo Hasbro,5,17,113934.47,60656.35
+85,Labial Whirlpool,5,8,62445.01,44829.78
+86,Silla de comedor Whirlpool,3,8,125829.12,83289.53
+87,Ensayo Decathlon,7,11,85468.6,40057.4
+88,Biografía Planeta,7,19,6457.16,4611.68
+89,Juguete para mascota Apple,8,1,55854.44,31669.24
+90,Biografía LEGO,7,18,133030.23,91785.6
+91,Juguete para mascota Whirlpool,8,8,80142.97,36762.18
+92,Libro de cocina Mars Petcare,7,24,151769.5,110163.79
+93,Smartphone L'Oréal,1,13,17858.7,10332.76
+94,Set de ollas Samsung,3,2,70101.38,35996.92
+95,Libro infantil Procter & Gamble (P&G),7,9,47652.06,
+96,Smartwatch Wilson,1,12,118075.5,80807.32
+97,Smartwatch Whirlpool,1,8,151543.51,96442.4
+98,Alimento para perro Nestlé Purina,8,22,102822.62,52993.68
+99,Peluche LVMH (Louis Vuitton),6,6,110482.81,74507.14
+100,Juego de sábanas Adidas,3,10,105427.2,76821.23
+101,Biografía L'Oréal,7,13,38104.37,23915.42
+102,Guantes de boxeo Nike,4,4,139729.12,98521.32
+103,Camiseta Planeta,2,19,64455.07,37288.12
+104,Rompecabezas Apple,6,1,148552.57,71552.08
+105,Alimento para gato Central Garden & Pet,8,23,80081.22,53665.52
+106,Protector solar HarperCollins,5,20,140111.54,82590.45
+107,Perfume Decathlon,5,11,150039.39,71418.58
+108,Colchoneta de yoga Unilever,4,15,111028.71,
+109,Rompecabezas LVMH (Louis Vuitton),6,6,40545.21,27949.83
+110,Crema facial LEGO,5,18,94443.02,47912.54
+111,Ensayo Mattel,7,16,137195.14,90162.29
+112,Alimento para perro Unilever,8,15,19470.44,10056.07
+113,Protector solar Nestlé Purina,5,22,68316.62,42085.9
+114,Juego de mesa Wilson,6,12,83312.91,45154.51
+115,Balón de fútbol Decathlon,4,11,134489.95,98885.52
+116,Guantes de boxeo IKEA,4,7,88703.15,59198.31
+117,Perfume Nike,5,4,55435.62,30947.73
+118,Juego de sábanas Procter & Gamble (P&G),3,9,175450.2,108078.67
+119,Espejo decorativo Panini,3,21,136244.22,
+120,Shampoo Mattel,5,16,80962.98,40911.33
+121,Alimento para perro Nike,8,4,73925.22,34909.31
+122,Audífonos Inditex (Zara),1,5,146572.15,107692.08
+123,Colchoneta de yoga Nike,4,4,138306.49,87395.22
+124,Bicicleta Hasbro,4,17,82741.06,48222.84
+125,Ensayo Adidas,7,10,112921.84,71467.02
+126,Tenis para correr Panini,4,21,49842.36,23643.03
+127,Camiseta LVMH (Louis Vuitton),2,6,75307.61,49462.89
+128,Tablet Whirlpool,1,8,128131.18,84681.42
+129,Guantes de boxeo Procter & Gamble (P&G),4,9,107392.76,74226.84
+130,Vestido LEGO,2,18,117631.35,84991.41
+131,Chaqueta Samsung,2,2,143295.26,90062.96
+132,Crema facial Unilever,5,15,85959.54,46523.65
+133,Protector solar Hasbro,5,17,90401.75,42862.41
+134,Cómic Mars Petcare,7,24,109857.31,50288.22
+135,Tablet Nestlé Purina,1,22,104995.72,71285.03
+136,Alimento para gato Procter & Gamble (P&G),8,9,179459.35,104223.8
+137,Camisa Mattel,2,16,75277.61,41125.47
+138,Silla de comedor Decathlon,3,11,125780.24,67476.74
+139,Laptop Unilever,1,15,58669.54,32091.19
+140,Novela Hasbro,7,17,119405.89,73169.31
+141,Mancuernas Hasbro,4,17,113206.2,67872.54
+142,Tablet IKEA,1,7,100211.88,72984.5
+143,Alimento para perro Nike,8,4,175246.99,110872.02
+144,Cortinas Adidas,3,10,5420.38,3102.61
+145,Pantalón Unilever,2,15,117644.61,58374.24
+146,Set de maquillaje Hasbro,5,17,51396.21,35998.79
+147,Colchoneta de yoga Unilever,4,15,28601.63,14506.26
+148,Set de ollas Sony,3,3,139763.5,98718.27
+149,Labial Apple,5,1,131511.02,92221.15
+150,Cama para mascota Inditex (Zara),8,5,98328.76,54428.62
+151,Cómic Unilever,7,15,156919.5,116784.57
+152,Libro infantil Whirlpool,7,8,10725.57,7222.72
+153,Biografía L'Oréal,7,13,143253.68,92485.39
+154,Parlante Bluetooth Inditex (Zara),1,5,156936.96,111779.47
+155,Arena sanitaria Apple,8,1,28515.51,20282.51
+156,Sudadera Mattel,2,16,62925.34,41393.0
+157,Peluche Nestlé Purina,6,22,70261.66,38292.49
+158,Alimento para perro LEGO,8,18,112290.32,58439.37
+159,Set de maquillaje Whirlpool,5,8,18997.14,14124.4
+160,Chaqueta Unilever,2,15,125838.21,90732.77
+161,Parlante Bluetooth Adidas,1,10,69346.87,34234.53
+162,Lámpara de mesa LVMH (Louis Vuitton),3,6,16977.4,12075.21
+163,Colchoneta de yoga Mattel,4,16,28331.84,16668.9
+164,Crema facial Nestlé Purina,5,22,162106.81,95574.28
+165,Silla de comedor Sony,3,3,170306.71,127099.13
+166,Cómic Central Garden & Pet,7,23,83859.94,45337.74
+167,Alimento para gato Nike,8,4,70501.48,39317.81
+168,Set de maquillaje Apple,5,1,73057.62,33053.41
+169,Cámara digital HarperCollins,1,20,150412.49,108429.43
+170,Mancuernas HarperCollins,4,20,41763.8,21175.9
+171,Juego de sábanas Panini,3,21,162902.46,104893.25
+172,Correa Samsung,8,2,67580.44,33075.46
+173,Rompecabezas Mars Petcare,6,24,34088.29,16691.26
+174,Peluche Hasbro,6,17,164687.19,115139.7
+175,Arena sanitaria Adidas,8,10,157060.26,108571.01
+176,Vestido Inditex (Zara),2,5,155244.89,103589.48
+177,Rompecabezas Sony,6,3,5463.6,3338.1
+178,Shampoo Planeta,5,19,148567.86,108764.68
+179,Balón de fútbol Mattel,4,16,112659.8,82574.08
+180,Balón de fútbol Panini,4,21,115466.49,68042.12

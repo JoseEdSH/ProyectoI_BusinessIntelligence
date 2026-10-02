@@ -1,0 +1,2501 @@
+id_pedido,id_cliente,id_campania,fecha_pedido,canal_dispositivo,metodo_pago,estado_pedido,monto_total
+1,333,,2025-05-24,App móvil,Tarjeta de débito,Completado,831773.36
+2,276,14,2025-12-29,App escritorio,Tarjeta de débito,Completado,678650.05
+3,213,,2026-05-17,App móvil,SINPE Móvil,Completado,700012.43
+4,112,,2025-09-05,App escritorio,SINPE Móvil,Cancelado,90401.75
+5,32,,2025-07-14,App móvil,Tarjeta de débito,Devuelto,230546.23
+6,329,,2025-04-22,Web,Tarjeta de débito,Completado,393315.04
+7,36,,2026-07-22,Web,Tarjeta de débito,Completado,146452.94
+8,404,,2025-01-03,Web,Tarjeta de débito,Completado,117339.08
+9,57,,2025-09-22,Web,Tarjeta de crédito,Completado,377557.33
+10,90,3,2025-08-12,Web,SINPE Móvil,Completado,1051314.68
+11,263,,2026-06-11,Web,SINPE Móvil,Completado,270884.26
+12,235,,2026-04-03,App móvil,Tarjeta de crédito,Completado,147961.68
+13,252,,2026-03-31,App escritorio,Tarjeta de débito,Completado,99569.48
+14,141,,2026-03-24,App escritorio,PayPal,Completado,322178.28
+15,259,,2026-05-13,App escritorio,Tarjeta de débito,Completado,147144.14
+16,221,,2025-08-22,App móvil,Tarjeta de crédito,Completado,249211.8
+17,161,,2025-09-19,App móvil,Tarjeta de crédito,Completado,427343.0
+18,48,,2026-01-17,App escritorio,SINPE Móvil,Completado,332696.75
+19,344,9,2025-07-05,App escritorio,SINPE Móvil,Devuelto,60828.15
+20,308,2,2025-02-10,Web,SINPE Móvil,Completado,125787.15
+21,59,,2026-08-11,App escritorio,Tarjeta de crédito,Completado,162185.35
+22,312,,2025-10-01,App móvil,SINPE Móvil,Completado,379704.29
+23,4,3,2025-08-10,App escritorio,Tarjeta de crédito,Completado,1591347.25
+24,47,,2025-08-09,Web,SINPE Móvil,Completado,701271.04
+25,398,,2026-08-31,Web,Tarjeta de crédito,Completado,139729.12
+26,346,8,2025-05-07,App móvil,Tarjeta de crédito,Completado,672619.01
+27,177,,2025-10-18,App escritorio,Tarjeta de crédito,Completado,261563.7
+28,113,,2025-02-26,Web,SINPE Móvil,Completado,114406.52
+29,149,1,2025-01-20,App móvil,Tarjeta de débito,Completado,213842.85
+30,257,,2025-12-29,Web,PayPal,Completado,592939.76
+31,40,,2026-08-13,App escritorio,Tarjeta de crédito,Completado,233265.35
+32,208,6,2025-01-27,App escritorio,Tarjeta de crédito,Completado,66244.3
+33,224,,2025-09-07,Web,SINPE Móvil,Completado,523759.95
+34,382,9,2025-06-27,App escritorio,SINPE Móvil,Completado,223440.52
+35,180,,2025-06-01,Web,Tarjeta de débito,Completado,32285.8
+36,390,,2026-08-20,App móvil,PayPal,Completado,411290.48
+37,349,,2026-08-23,App móvil,SINPE Móvil,Completado,68316.62
+38,78,,2026-04-26,App móvil,SINPE Móvil,Completado,665151.15
+39,260,8,2025-05-06,App móvil,Tarjeta de crédito,Completado,162191.8
+40,315,,2026-05-01,App escritorio,PayPal,Completado,18997.14
+41,415,,2025-08-13,Web,PayPal,Completado,724221.71
+42,53,,2025-12-18,App escritorio,Tarjeta de débito,Devuelto,909721.02
+43,363,,2026-03-26,App móvil,SINPE Móvil,Completado,503316.48
+44,199,,2025-12-13,App escritorio,Tarjeta de crédito,Completado,1111527.84
+45,169,11,2025-11-27,App escritorio,Tarjeta de débito,Completado,36305.39
+46,171,8,2025-05-06,App escritorio,Tarjeta de crédito,Completado,74522.26
+47,159,,2026-08-11,App escritorio,Tarjeta de crédito,Completado,823435.95
+48,331,,2026-06-05,Web,SINPE Móvil,Completado,659469.05
+49,393,,2025-09-18,App móvil,Tarjeta de crédito,Devuelto,743495.2
+50,260,,2026-06-24,App escritorio,PayPal,Completado,726120.76
+51,79,,2026-07-09,App móvil,Tarjeta de débito,Completado,156938.22
+52,228,,2026-04-05,App móvil,Tarjeta de débito,Completado,371438.64
+53,189,,2026-05-15,App móvil,PayPal,Completado,293841.22
+54,83,,2026-08-21,Web,SINPE Móvil,Completado,787103.25
+55,284,,2026-07-21,Web,Tarjeta de débito,Cancelado,880601.44
+56,426,,2026-04-04,Web,PayPal,Completado,478642.75
+57,258,,2026-01-31,Web,Tarjeta de crédito,Devuelto,751062.39
+58,430,,2026-02-27,App móvil,PayPal,Completado,81204.89
+59,357,,2026-04-26,,SINPE Móvil,Completado,451687.36
+60,111,,2026-01-16,App móvil,SINPE Móvil,Devuelto,659469.05
+61,122,3,2025-08-12,App móvil,PayPal,Completado,281771.62
+62,306,,2026-08-30,App móvil,SINPE Móvil,Completado,748622.92
+63,124,,2025-07-11,App móvil,Tarjeta de crédito,Completado,964974.9
+64,200,,2025-02-14,App móvil,SINPE Móvil,Completado,670037.67
+65,404,4,2025-02-23,App móvil,SINPE Móvil,Completado,372031.34
+66,280,11,2025-11-25,App escritorio,Tarjeta de débito,Completado,382301.9
+67,416,12,2025-12-02,Web,SINPE Móvil,Completado,909463.82
+68,159,,2026-08-29,Web,Tarjeta de crédito,Completado,426948.05
+69,444,,2025-11-22,App móvil,PayPal,Completado,501340.52
+70,174,,2026-05-24,App escritorio,Tarjeta de crédito,Completado,503971.44
+71,373,,2026-03-17,App escritorio,Tarjeta de crédito,Completado,202726.05
+72,41,5,2025-04-14,Web,SINPE Móvil,Completado,255909.38
+73,229,14,2025-12-28,App escritorio,Tarjeta de crédito,Completado,14510.35
+74,39,,2026-02-20,App escritorio,Tarjeta de crédito,Completado,817580.03
+75,74,,2026-08-18,Web,SINPE Móvil,Completado,295700.88
+76,186,,2026-01-04,App móvil,Tarjeta de crédito,Completado,475458.08
+77,294,6,2025-01-31,Web,,Completado,141512.24
+78,96,,2026-05-23,App móvil,Tarjeta de débito,Cancelado,73743.07
+79,314,8,2025-05-05,App móvil,PayPal,Completado,454074.15
+80,45,,2025-11-24,App escritorio,SINPE Móvil,Completado,128314.29
+81,436,12,2025-12-01,Web,Tarjeta de débito,Completado,466867.6
+82,122,,2025-08-24,App móvil,Tarjeta de débito,Completado,719085.79
+83,314,,2025-03-09,App escritorio,PayPal,Completado,17179.73
+84,394,,2026-07-27,App escritorio,PayPal,Completado,1232200.61
+85,349,,2025-06-02,App escritorio,Tarjeta de débito,Cancelado,219172.86
+86,222,,2025-02-26,App móvil,SINPE Móvil,Completado,131893.81
+87,364,,2026-06-15,App móvil,SINPE Móvil,Cancelado,162796.58
+88,65,,2026-08-04,Web,Tarjeta de débito,Completado,21854.4
+89,88,,2026-08-15,App escritorio,Tarjeta de crédito,Cancelado,929087.88
+90,42,11,2025-11-30,App escritorio,Tarjeta de crédito,Completado,153498.14
+91,255,,2026-08-21,App móvil,PayPal,Completado,787357.51
+92,153,,2026-06-14,App móvil,SINPE Móvil,Completado,336870.96
+93,311,,2026-08-09,App móvil,Tarjeta de débito,Completado,56663.68
+94,390,,2026-08-27,Web,Tarjeta de débito,Completado,632029.45
+95,73,5,2025-04-16,Web,SINPE Móvil,Cancelado,1240295.08
+96,98,,2026-06-22,App móvil,Tarjeta de crédito,Devuelto,582034.82
+97,202,,2025-09-04,Web,PayPal,Completado,225922.83
+98,147,,2026-01-18,App escritorio,PayPal,Completado,252232.16
+99,188,3,2025-08-10,App móvil,PayPal,Completado,444855.6
+100,392,,2025-05-02,App móvil,SINPE Móvil,Completado,368108.2
+101,286,,2025-08-29,App escritorio,Tarjeta de crédito,Completado,350541.14
+102,71,,2026-07-11,App escritorio,SINPE Móvil,Completado,137195.14
+103,84,,2025-11-03,App escritorio,SINPE Móvil,Completado,550462.71
+104,244,,2026-01-13,App móvil,Tarjeta de crédito,Completado,257820.28
+105,306,,2026-09-01,App escritorio,PayPal,Completado,430688.95
+106,76,,2025-09-06,Web,PayPal,Completado,251658.24
+107,161,,2026-02-27,App escritorio,Tarjeta de crédito,Completado,300078.78
+108,362,4,2025-03-09,App escritorio,Tarjeta de débito,Completado,28573.92
+109,236,,2025-12-17,App escritorio,SINPE Móvil,Completado,597029.45
+110,313,,2025-10-05,App móvil,Tarjeta de débito,Completado,341874.4
+111,354,,2026-08-17,App escritorio,Tarjeta de crédito,Completado,177856.96
+112,294,,2026-01-24,App móvil,Tarjeta de débito,Cancelado,150615.22
+113,149,12,2025-12-01,App móvil,Tarjeta de débito,Completado,84704.12
+114,104,,2026-05-18,Web,Tarjeta de débito,Devuelto,272488.44
+115,125,9,2025-06-28,App móvil,PayPal,Completado,288423.1
+116,52,,2025-05-21,Web,PayPal,Completado,89483.21
+117,245,,2025-10-22,Web,Tarjeta de débito,Completado,514113.1
+118,274,,2025-02-08,Web,Tarjeta de crédito,Cancelado,573181.04
+119,429,,2026-08-09,App móvil,Tarjeta de crédito,Completado,432277.25
+120,153,,2025-08-20,App móvil,PayPal,Cancelado,221229.21
+121,69,,2026-04-25,App móvil,PayPal,Completado,945124.69
+122,332,3,2025-08-01,App escritorio,Tarjeta de débito,Completado,601660.88
+123,90,,2026-02-26,Web,Tarjeta de crédito,Completado,235519.86
+124,95,,2026-08-02,App móvil,PayPal,Completado,64874.14
+125,386,9,2025-06-29,App móvil,Tarjeta de débito,Completado,453640.48
+126,32,,2026-04-22,App escritorio,SINPE Móvil,Completado,335439.76
+127,354,,2026-08-16,Web,PayPal,Completado,12914.32
+128,383,,2026-01-29,App móvil,Tarjeta de débito,Completado,470758.5
+129,391,,2026-08-18,App escritorio,SINPE Móvil,Completado,960532.24
+130,40,,2025-04-25,App escritorio,Tarjeta de débito,Completado,537959.8
+131,85,12,2025-12-02,App escritorio,PayPal,Completado,571554.04
+132,415,4,2025-03-08,App escritorio,SINPE Móvil,Completado,348685.52
+133,371,5,2025-04-10,Web,Tarjeta de crédito,Completado,573255.93
+134,278,,2025-03-12,App móvil,Tarjeta de débito,Devuelto,689886.31
+135,393,,2026-04-05,App móvil,PayPal,Completado,1296476.56
+136,193,13,2025-12-09,Web,PayPal,Completado,149899.1
+137,271,13,2025-12-19,App móvil,PayPal,Completado,156902.46
+138,273,,2025-09-18,App móvil,Tarjeta de crédito,Completado,628901.2
+139,17,,2026-03-06,Web,Tarjeta de crédito,Completado,1537651.51
+140,52,,2026-04-03,Web,Tarjeta de crédito,Completado,937786.88
+141,206,,2026-07-07,Web,SINPE Móvil,Completado,412014.74
+142,120,,2026-08-04,App escritorio,Tarjeta de débito,Completado,102822.62
+143,155,,2026-08-28,Web,Tarjeta de débito,Completado,788317.24
+144,321,,2026-07-18,App escritorio,SINPE Móvil,Completado,138987.36
+145,357,,2025-06-02,App escritorio,Tarjeta de débito,Completado,1014199.36
+146,154,,2025-05-28,App escritorio,PayPal,Completado,515362.75
+147,286,,2026-05-06,App escritorio,PayPal,Completado,58411.32
+148,434,,2026-07-03,App móvil,Tarjeta de crédito,Completado,742762.85
+149,448,,2026-08-21,App escritorio,Tarjeta de débito,Completado,919244.65
+150,446,,2025-11-07,,Tarjeta de crédito,Devuelto,351738.32
+151,383,,2026-05-17,App escritorio,Tarjeta de débito,Cancelado,507767.54
+152,283,,2026-07-01,App móvil,SINPE Móvil,Completado,563104.22
+153,263,,2026-06-15,App móvil,SINPE Móvil,Completado,1135033.12
+154,105,,2026-02-28,App escritorio,SINPE Móvil,Completado,469060.49
+155,284,,2026-04-11,Web,Tarjeta de débito,Completado,99684.72
+156,256,,2026-05-09,App móvil,PayPal,Completado,474774.88
+157,236,13,2025-12-16,App móvil,Tarjeta de crédito,Completado,122599.35
+158,269,14,2025-12-26,Web,Tarjeta de débito,Devuelto,337737.36
+159,35,,2025-03-04,Web,PayPal,Completado,213857.15
+160,338,,2025-01-07,Web,SINPE Móvil,Completado,452008.75
+161,275,,2026-03-02,App móvil,Tarjeta de débito,Completado,319845.84
+162,55,,2026-06-21,App escritorio,SINPE Móvil,Completado,46345.86
+163,137,,2025-11-08,App escritorio,Tarjeta de débito,Completado,668381.67
+164,154,,2025-03-24,Web,PayPal,Completado,640108.18
+165,194,,2025-02-27,Web,PayPal,Completado,1170296.31
+166,331,,2026-08-03,App escritorio,Tarjeta de débito,Devuelto,648677.35
+167,109,,2026-03-31,Web,SINPE Móvil,Cancelado,580746.57
+168,279,,2025-02-03,Web,Tarjeta de débito,Completado,778412.42
+169,386,,2026-04-20,App escritorio,PayPal,Cancelado,332696.75
+170,347,,2025-09-28,App escritorio,SINPE Móvil,Completado,642677.58
+171,28,4,2025-02-22,App escritorio,SINPE Móvil,Completado,12433.4
+172,16,,2026-05-31,App móvil,PayPal,Completado,282724.89
+173,44,,2025-10-30,Web,PayPal,Completado,897297.61
+174,365,,2026-06-03,Web,SINPE Móvil,Completado,588659.76
+175,228,,2025-10-04,App móvil,PayPal,Completado,104311.36
+176,53,6,2025-02-02,App móvil,Tarjeta de crédito,Completado,56484.23
+177,150,,2026-06-27,Web,Tarjeta de débito,Completado,142345.38
+178,351,,2025-05-23,Web,PayPal,Completado,791297.86
+179,142,,2026-05-11,Web,PayPal,Completado,757717.55
+180,305,,2026-04-14,App móvil,PayPal,Completado,489322.37
+181,412,,2026-03-27,App escritorio,Tarjeta de débito,Completado,252945.12
+182,154,12,2025-12-01,App móvil,SINPE Móvil,Completado,256319.12
+183,377,,2026-05-18,App móvil,PayPal,Devuelto,472314.12
+184,187,10,2025-09-13,App escritorio,Tarjeta de crédito,Completado,511808.5
+185,373,,2025-08-03,App escritorio,PayPal,Completado,698659.91
+186,345,,2025-11-07,App escritorio,PayPal,Completado,850639.2
+187,38,,2026-05-06,App escritorio,Tarjeta de crédito,Completado,738658.22
+188,405,,2026-08-26,App escritorio,Tarjeta de crédito,Cancelado,31211.13
+189,394,,2026-08-19,Web,PayPal,Completado,503797.81
+190,386,10,2025-09-11,App escritorio,Tarjeta de débito,Completado,9214.64
+191,229,,2026-04-20,App escritorio,Tarjeta de crédito,Completado,385846.69
+192,248,7,2025-06-10,Web,SINPE Móvil,Completado,498871.05
+193,234,,2026-08-16,App móvil,PayPal,Completado,91559.61
+194,164,,2026-05-15,App móvil,Tarjeta de débito,Completado,144001.9
+195,380,3,2025-08-09,App móvil,PayPal,Completado,144405.62
+196,323,,2026-07-27,App escritorio,Tarjeta de débito,Completado,377772.08
+197,231,,2026-02-10,App móvil,Tarjeta de crédito,Completado,185719.32
+198,296,14,2025-12-30,App móvil,PayPal,Completado,468359.35
+199,271,,2026-05-28,App escritorio,SINPE Móvil,Completado,154405.62
+200,433,,2025-06-26,App móvil,Tarjeta de crédito,Completado,406247.02
+201,345,2,2025-02-10,App escritorio,PayPal,Completado,431257.38
+202,215,,2026-08-12,App escritorio,Tarjeta de débito,Completado,1375637.42
+203,285,5,2025-04-12,App escritorio,SINPE Móvil,Completado,144419.91
+204,5,,2026-07-27,App escritorio,PayPal,Completado,138994.59
+205,351,,2026-03-31,Web,Tarjeta de débito,Completado,720713.0
+206,150,,2026-07-15,App móvil,PayPal,Completado,803729.99
+207,282,,2026-03-19,App móvil,Tarjeta de crédito,Completado,25876.59
+208,390,,2026-08-27,App escritorio,Tarjeta de débito,Completado,138693.74
+209,153,,2025-07-13,Web,Tarjeta de crédito,Completado,451243.74
+210,398,,2026-07-12,App móvil,PayPal,Completado,815553.48
+211,85,,2026-08-10,Web,SINPE Móvil,Completado,334893.43
+212,306,,2026-08-24,App escritorio,Tarjeta de crédito,Devuelto,940066.72
+213,70,,2026-02-26,App escritorio,Tarjeta de débito,Cancelado,1131608.99
+214,128,6,2025-01-28,App móvil,SINPE Móvil,Completado,1565308.53
+215,322,,2026-04-08,Web,SINPE Móvil,Completado,1368036.33
+216,356,,2026-01-13,App escritorio,,Completado,45489.46
+217,397,,2025-10-18,App escritorio,Tarjeta de crédito,Completado,489948.02
+218,408,,2025-08-12,App móvil,SINPE Móvil,Devuelto,368108.2
+219,173,,2025-05-14,App móvil,Tarjeta de crédito,Completado,470578.44
+220,24,,2026-07-25,Web,Tarjeta de crédito,Completado,500424.12
+221,220,14,2025-12-27,App móvil,SINPE Móvil,Cancelado,133551.6
+222,129,11,2025-11-29,App móvil,Tarjeta de débito,Completado,327764.19
+223,220,,2026-07-24,Web,Tarjeta de débito,Completado,648427.24
+224,266,,2025-01-10,Web,PayPal,Completado,512339.52
+225,356,2,2025-02-10,Web,SINPE Móvil,Completado,69482.53
+226,154,13,2025-12-09,Web,Tarjeta de crédito,Completado,555282.44
+227,313,,2026-04-21,App escritorio,PayPal,Completado,281046.64
+228,316,,2026-02-28,Web,PayPal,Completado,685436.89
+229,180,,2025-11-19,App escritorio,SINPE Móvil,Completado,52312.74
+230,399,,2025-01-28,App móvil,Tarjeta de débito,Completado,501800.96
+231,383,,2025-03-08,Web,Tarjeta de crédito,Completado,756222.51
+232,124,,2026-09-01,Web,SINPE Móvil,Completado,895626.21
+233,68,,2026-08-22,App escritorio,PayPal,Completado,540364.2
+234,395,10,2025-09-11,Web,PayPal,Completado,677445.61
+235,260,12,2025-12-02,App escritorio,Tarjeta de débito,Completado,368145.0
+236,143,,2026-05-14,Web,PayPal,Completado,620851.3
+237,301,,2025-03-09,Web,Tarjeta de crédito,Completado,619884.04
+238,223,14,2025-12-30,App escritorio,Tarjeta de crédito,Completado,681226.85
+239,7,,2025-01-12,App escritorio,SINPE Móvil,Completado,182727.86
+240,86,,2025-10-03,Web,PayPal,Completado,225319.6
+241,140,,2025-09-27,Web,SINPE Móvil,Completado,672449.75
+242,29,,2026-08-04,Web,Tarjeta de crédito,Completado,154353.72
+243,117,,2025-01-03,Web,SINPE Móvil,Completado,126405.89
+244,197,,2025-07-03,App escritorio,PayPal,Devuelto,457006.88
+245,115,7,2025-06-15,App escritorio,Tarjeta de crédito,Completado,1158866.66
+246,92,,2026-08-31,Web,SINPE Móvil,Devuelto,325286.38
+247,397,,2026-02-15,App móvil,SINPE Móvil,Completado,1054147.55
+248,379,,2026-04-21,Web,Tarjeta de débito,Completado,394533.06
+249,78,7,2025-06-10,App escritorio,SINPE Móvil,Completado,352548.14
+250,1,,2026-01-21,Web,Tarjeta de débito,Completado,330596.21
+251,215,,2025-03-03,App móvil,Tarjeta de débito,Devuelto,427343.0
+252,433,,2026-01-17,App escritorio,Tarjeta de débito,Completado,15541.75
+253,327,,2026-07-20,App escritorio,Tarjeta de débito,Completado,85898.65
+254,150,,2026-07-27,App escritorio,PayPal,Cancelado,522742.15
+255,140,4,2025-02-24,Web,PayPal,Completado,323851.9
+256,239,3,2025-08-09,App móvil,SINPE Móvil,Completado,329207.86
+257,437,7,2025-06-16,App escritorio,Tarjeta de débito,Completado,778624.8
+258,428,,2026-03-12,App móvil,Tarjeta de crédito,Completado,395666.36
+259,347,7,2025-06-10,App escritorio,Tarjeta de débito,Devuelto,181407.25
+260,49,,2025-05-24,Web,PayPal,Completado,1026017.1
+261,191,,2025-06-25,Web,,Completado,573413.57
+262,34,,2026-09-01,App móvil,PayPal,Completado,873470.03
+263,26,10,2025-09-16,Web,PayPal,Completado,524344.0
+264,89,,2025-07-11,Web,Tarjeta de débito,Completado,320571.88
+265,332,7,2025-06-14,App móvil,Tarjeta de débito,Completado,1041092.39
+266,330,,2026-06-23,App escritorio,PayPal,Completado,263787.62
+267,401,,2026-02-04,App escritorio,PayPal,Completado,566791.01
+268,139,6,2025-02-03,App móvil,PayPal,Completado,514367.73
+269,272,,2026-08-22,Web,Tarjeta de débito,Devuelto,166306.86
+270,137,,2025-10-27,App escritorio,PayPal,Completado,73925.22
+271,182,,2025-06-27,App escritorio,Tarjeta de crédito,Completado,249938.73
+272,361,,2026-08-05,Web,PayPal,Completado,18997.14
+273,278,8,2025-05-05,Web,,Completado,98141.94
+274,245,10,2025-09-13,Web,SINPE Móvil,Completado,77659.34
+275,31,10,2025-09-12,App móvil,SINPE Móvil,Completado,549143.63
+276,361,,2026-02-10,App móvil,Tarjeta de débito,Completado,259470.94
+277,375,,2026-08-10,App escritorio,SINPE Móvil,Completado,231657.65
+278,115,,2025-06-29,App móvil,Tarjeta de crédito,Completado,151236.92
+279,360,,2026-02-05,App escritorio,SINPE Móvil,Cancelado,440097.92
+280,415,,2025-09-16,App móvil,Tarjeta de crédito,Completado,268015.71
+281,122,11,2025-11-25,App escritorio,SINPE Móvil,Completado,46126.72
+282,229,4,2025-02-27,Web,Tarjeta de crédito,Completado,421733.96
+283,198,,2026-03-06,App móvil,SINPE Móvil,Devuelto,725642.42
+284,280,,2026-05-06,App escritorio,PayPal,Completado,350506.9
+285,38,,2025-02-04,Web,Tarjeta de débito,Completado,1074542.83
+286,193,5,2025-04-18,App móvil,PayPal,Devuelto,146295.85
+287,361,11,2025-11-25,Web,Tarjeta de débito,Completado,30306.42
+288,98,,2026-08-18,App móvil,SINPE Móvil,Completado,1396531.44
+289,122,12,2025-12-02,App móvil,PayPal,Completado,609054.32
+290,103,4,2025-02-25,App móvil,SINPE Móvil,Completado,419861.06
+291,402,,2026-07-30,App escritorio,Tarjeta de débito,Cancelado,478777.46
+292,190,,2026-05-14,App móvil,Tarjeta de débito,Completado,32176.71
+293,429,3,2025-08-03,Web,PayPal,Completado,461025.23
+294,388,,2026-07-21,App escritorio,PayPal,Completado,505186.8
+295,294,,2026-05-03,App escritorio,Tarjeta de débito,Completado,1131021.05
+296,62,,2026-07-23,Web,Tarjeta de débito,Completado,110482.81
+297,22,,2026-08-13,App escritorio,SINPE Móvil,Completado,212920.76
+298,164,,2026-08-21,App móvil,SINPE Móvil,Completado,841794.56
+299,267,,2025-02-09,App escritorio,Tarjeta de crédito,Completado,249760.86
+300,213,10,2025-09-11,Web,SINPE Móvil,Cancelado,133807.55
+301,450,,2026-01-28,App móvil,SINPE Móvil,Completado,233265.35
+302,207,14,2025-12-31,App móvil,Tarjeta de crédito,Completado,57147.84
+303,382,,2025-12-10,,SINPE Móvil,Cancelado,517989.52
+304,160,8,2025-05-07,Web,PayPal,Completado,65314.3
+305,397,,2026-01-16,Web,Tarjeta de débito,Completado,482662.77
+306,422,,2026-05-12,Web,Tarjeta de débito,Completado,901938.6
+307,34,,2026-07-27,App escritorio,Tarjeta de crédito,Completado,657439.98
+308,89,14,2025-12-27,App móvil,SINPE Móvil,Completado,52473.0
+309,361,6,2025-02-01,Web,Tarjeta de débito,Completado,225936.92
+310,191,,2026-06-30,App escritorio,SINPE Móvil,Completado,659084.42
+311,84,,2025-09-22,App móvil,,Completado,798940.4
+312,26,10,2025-09-13,App escritorio,PayPal,Cancelado,112109.74
+313,263,,2026-08-31,Web,Tarjeta de crédito,Completado,303087.02
+314,115,13,2025-12-14,App móvil,PayPal,Completado,298830.44
+315,437,9,2025-06-28,App escritorio,Tarjeta de crédito,Completado,488921.12
+316,4,,2026-01-19,App móvil,Tarjeta de crédito,Completado,73405.1
+317,247,,2026-08-22,App móvil,SINPE Móvil,Completado,1389895.65
+318,97,13,2025-12-12,App escritorio,SINPE Móvil,Cancelado,1649807.62
+319,349,2,2025-02-14,App móvil,Tarjeta de crédito,Devuelto,381640.21
+320,299,,2026-08-09,App escritorio,PayPal,Completado,339062.49
+321,344,,2025-12-23,App escritorio,Tarjeta de crédito,Completado,986215.89
+322,242,5,2025-04-18,App escritorio,Tarjeta de crédito,Completado,419290.48
+323,114,,2025-11-11,App móvil,SINPE Móvil,Completado,1028752.6
+324,238,,2026-04-27,App escritorio,Tarjeta de crédito,Completado,1487124.25
+325,242,,2026-05-28,App escritorio,Tarjeta de crédito,Completado,732860.75
+326,446,,2025-05-21,App escritorio,PayPal,Devuelto,793126.2
+327,74,,2026-08-23,App móvil,Tarjeta de débito,Completado,19470.44
+328,161,,2025-01-05,Web,Tarjeta de débito,Completado,1263537.83
+329,251,,2026-08-15,App escritorio,PayPal,Completado,669744.96
+330,245,,2025-02-08,Web,Tarjeta de débito,Completado,297105.14
+331,10,,2026-08-18,App móvil,Tarjeta de crédito,Completado,94896.92
+332,197,,2025-11-10,App móvil,PayPal,Completado,259531.9
+333,373,,2026-06-21,Web,PayPal,Completado,744860.73
+334,184,,2026-01-20,App móvil,,Devuelto,531217.72
+335,115,,2025-05-15,,Tarjeta de crédito,Completado,49842.36
+336,188,,2025-04-02,App escritorio,Tarjeta de crédito,Completado,274091.79
+337,339,14,2025-12-26,App móvil,SINPE Móvil,Completado,286574.13
+338,243,,2025-07-30,App móvil,Tarjeta de crédito,Completado,76926.8
+339,340,,2025-05-21,App escritorio,Tarjeta de crédito,Completado,200423.76
+340,145,10,2025-09-17,App móvil,Tarjeta de débito,Completado,65622.39
+341,184,,2026-03-28,Web,PayPal,Completado,911699.39
+342,170,1,2025-01-07,App escritorio,Tarjeta de crédito,Cancelado,1214074.62
+343,400,,2025-04-14,App móvil,SINPE Móvil,Cancelado,530076.11
+344,136,,2025-04-13,App móvil,SINPE Móvil,Completado,90692.97
+345,219,,2025-04-08,Web,Tarjeta de débito,Cancelado,97912.37
+346,169,,2026-03-25,App escritorio,SINPE Móvil,Devuelto,61039.74
+347,94,,2026-07-28,App móvil,PayPal,Devuelto,303309.74
+348,410,,2025-06-20,Web,Tarjeta de débito,Completado,522446.9
+349,54,,2026-08-30,App móvil,PayPal,Completado,384676.72
+350,399,,2025-01-30,App escritorio,Tarjeta de débito,Cancelado,651186.32
+351,248,,2025-04-26,Web,SINPE Móvil,Cancelado,427125.96
+352,7,,2026-06-22,App escritorio,SINPE Móvil,Completado,333251.64
+353,266,,2025-04-08,App móvil,PayPal,Completado,452291.17
+354,77,,2026-04-15,Web,Tarjeta de débito,Cancelado,242307.71
+355,259,,2026-08-22,App móvil,SINPE Móvil,Cancelado,973163.62
+356,143,,2026-06-01,Web,PayPal,Completado,57031.02
+357,411,,2025-04-01,Web,Tarjeta de crédito,Cancelado,230932.98
+358,53,,2025-02-06,,SINPE Móvil,Completado,703527.79
+359,261,,2026-06-07,Web,PayPal,Devuelto,210854.4
+360,170,,2026-04-30,App móvil,Tarjeta de débito,Completado,456554.37
+361,2,,2026-08-14,App escritorio,Tarjeta de crédito,Completado,799673.58
+362,24,,2026-08-03,App escritorio,SINPE Móvil,Completado,251579.82
+363,313,3,2025-08-15,Web,Tarjeta de crédito,Cancelado,288717.29
+364,388,,2026-08-26,App móvil,Tarjeta de débito,Completado,237242.3
+365,256,3,2025-08-09,App móvil,Tarjeta de débito,Devuelto,604191.05
+366,355,,2025-05-12,App escritorio,PayPal,Completado,88703.15
+367,215,,2025-09-12,App móvil,Tarjeta de débito,Completado,377688.11
+368,71,,2026-08-19,App móvil,Tarjeta de débito,Completado,225922.83
+369,103,12,2025-12-02,Web,Tarjeta de débito,Completado,658693.38
+370,258,,2025-11-27,App escritorio,PayPal,Completado,787103.25
+371,346,,2026-07-01,Web,Tarjeta de crédito,Completado,672163.91
+372,196,14,2025-12-26,Web,SINPE Móvil,Completado,519922.29
+373,75,,2025-10-30,App móvil,Tarjeta de crédito,Completado,476323.72
+374,316,,2026-08-23,App escritorio,SINPE Móvil,Cancelado,511618.2
+375,355,,2026-01-26,App escritorio,Tarjeta de crédito,Completado,918019.6
+376,7,,2025-07-27,App móvil,SINPE Móvil,Completado,435023.35
+377,387,,2026-08-01,Web,Tarjeta de débito,Completado,793333.4
+378,350,,2026-07-21,Web,SINPE Móvil,Completado,311476.4
+379,67,14,2025-12-28,Web,SINPE Móvil,Completado,469069.9
+380,306,,2026-08-23,App móvil,SINPE Móvil,Completado,242994.85
+381,270,11,2025-11-28,App móvil,PayPal,Completado,81757.16
+382,48,4,2025-03-02,App escritorio,Tarjeta de crédito,Completado,201248.38
+383,59,,2026-04-02,App escritorio,Tarjeta de crédito,Completado,46156.08
+384,350,,2026-08-16,App móvil,SINPE Móvil,Cancelado,131511.02
+385,13,,2026-01-19,App móvil,Tarjeta de débito,Completado,629145.6
+386,165,,2025-04-09,App escritorio,Tarjeta de crédito,Completado,351308.3
+387,108,,2025-08-07,Web,PayPal,Cancelado,213811.36
+388,332,,2025-03-15,App móvil,Tarjeta de crédito,Completado,721774.24
+389,45,3,2025-08-13,Web,PayPal,Completado,208313.87
+390,199,,2026-02-19,,Tarjeta de crédito,Completado,429761.04
+391,329,,2025-06-04,App escritorio,SINPE Móvil,Completado,612923.82
+392,258,13,2025-12-14,App móvil,Tarjeta de crédito,Completado,566944.38
+393,243,4,2025-02-24,App escritorio,Tarjeta de débito,Completado,197456.26
+394,153,,2026-08-08,Web,Tarjeta de débito,Cancelado,236151.0
+395,64,12,2025-12-02,App móvil,SINPE Móvil,Completado,196047.72
+396,109,,2026-03-07,Web,SINPE Móvil,Cancelado,814512.3
+397,100,11,2025-11-30,App escritorio,Tarjeta de crédito,Completado,215516.2
+398,149,,2025-09-14,App móvil,SINPE Móvil,Completado,1289878.03
+399,66,,2025-08-29,Web,PayPal,Completado,30355.94
+400,169,,2025-11-10,App escritorio,SINPE Móvil,Completado,21451.14
+401,220,11,2025-11-25,App escritorio,SINPE Móvil,Completado,166792.31
+402,69,,2025-12-06,App móvil,PayPal,Cancelado,106885.54
+403,283,,2026-05-10,Web,Tarjeta de débito,Completado,374575.65
+404,135,,2025-03-20,App escritorio,PayPal,Completado,160887.59
+405,394,,2026-03-11,App escritorio,Tarjeta de débito,Completado,82404.6
+406,188,,2025-12-17,Web,Tarjeta de crédito,Completado,468244.87
+407,340,13,2025-12-24,Web,Tarjeta de débito,Completado,814251.91
+408,290,,2025-05-30,App móvil,PayPal,Completado,482859.06
+409,119,6,2025-01-28,App móvil,PayPal,Completado,129787.8
+410,24,,2026-06-20,App escritorio,SINPE Móvil,Completado,447416.05
+411,297,,2025-06-28,App escritorio,Tarjeta de crédito,Completado,450553.85
+412,265,4,2025-03-08,App móvil,PayPal,Completado,410427.43
+413,310,,2026-04-15,App escritorio,Tarjeta de débito,Completado,383971.5
+414,77,10,2025-09-11,App móvil,PayPal,Completado,436996.15
+415,346,,2025-08-04,App móvil,,Completado,7255.18
+416,23,,2026-08-14,Web,Tarjeta de débito,Completado,1153418.97
+417,29,3,2025-08-09,App escritorio,SINPE Móvil,Devuelto,13997.14
+418,44,10,2025-09-17,App móvil,Tarjeta de débito,Cancelado,344092.65
+419,320,,2026-03-07,App móvil,Tarjeta de crédito,Completado,769224.59
+420,118,,2025-07-13,App escritorio,Tarjeta de débito,Completado,322178.28
+421,311,,2026-05-02,App escritorio,Tarjeta de crédito,Cancelado,1090541.75
+422,48,,2025-05-14,Web,PayPal,Cancelado,930753.14
+423,268,,2026-05-06,App móvil,PayPal,Completado,664740.65
+424,180,,2026-08-13,App móvil,Tarjeta de crédito,Completado,752062.45
+425,146,,2026-07-11,App escritorio,Tarjeta de crédito,Completado,160922.04
+426,296,,2026-06-17,App escritorio,PayPal,Completado,287636.44
+427,186,14,2025-12-31,App escritorio,SINPE Móvil,Completado,319235.74
+428,314,11,2025-11-27,App escritorio,SINPE Móvil,Completado,582125.59
+429,287,,2026-03-18,App escritorio,Tarjeta de débito,Devuelto,613614.28
+430,438,,2026-07-25,App escritorio,Tarjeta de crédito,Completado,280223.08
+431,110,,2026-02-22,App escritorio,Tarjeta de débito,Completado,241179.31
+432,200,,2025-01-06,App móvil,PayPal,Completado,966810.6
+433,46,4,2025-03-03,App móvil,PayPal,Completado,176365.19
+434,315,,2026-03-12,Web,PayPal,Completado,592309.26
+435,6,,2026-09-01,App escritorio,Tarjeta de débito,Completado,367646.1
+436,315,11,2025-11-26,,SINPE Móvil,Completado,93767.46
+437,400,,2026-02-09,Web,Tarjeta de crédito,Completado,677214.5
+438,47,,2026-07-27,App móvil,Tarjeta de débito,Cancelado,621660.88
+439,233,,2026-08-12,App escritorio,Tarjeta de crédito,Completado,184370.08
+440,258,2,2025-02-11,App escritorio,PayPal,Cancelado,851978.93
+441,194,,2025-09-07,App móvil,Tarjeta de crédito,Completado,201407.25
+442,247,,2026-08-16,Web,Tarjeta de débito,Completado,448154.43
+443,410,6,2025-02-02,App móvil,Tarjeta de crédito,Completado,18877.0
+444,205,,2026-07-21,Web,SINPE Móvil,Completado,8625.53
+445,112,,2025-09-22,Web,Tarjeta de débito,Completado,332696.75
+446,121,,2025-09-29,Web,SINPE Móvil,Completado,112921.84
+447,80,,2025-05-03,App escritorio,Tarjeta de crédito,Cancelado,651186.32
+448,392,,2025-02-13,App móvil,SINPE Móvil,Completado,620979.56
+449,252,13,2025-12-21,App escritorio,PayPal,Completado,622600.02
+450,245,,2025-02-03,App escritorio,PayPal,Completado,497847.4
+451,62,,2026-07-24,,PayPal,Completado,728820.32
+452,298,11,2025-11-28,App móvil,PayPal,Cancelado,177117.48
+453,314,3,2025-08-08,App móvil,PayPal,Completado,35545.21
+454,144,,2026-08-27,Web,Tarjeta de débito,Devuelto,81090.42
+455,285,,2026-01-26,App escritorio,Tarjeta de crédito,Completado,286710.76
+456,91,,2025-05-18,App escritorio,SINPE Móvil,Devuelto,56991.42
+457,403,,2025-09-14,App móvil,Tarjeta de débito,Completado,357932.84
+458,31,5,2025-04-17,App escritorio,SINPE Móvil,Completado,30211.09
+459,185,,2025-09-21,App móvil,Tarjeta de débito,Completado,379217.67
+460,296,,2026-07-06,App móvil,PayPal,Completado,93723.48
+461,397,,2025-10-11,App escritorio,Tarjeta de débito,Completado,295700.88
+462,328,,2025-12-12,App móvil,Tarjeta de crédito,Completado,582421.33
+463,41,4,2025-03-02,App móvil,PayPal,Completado,240757.18
+464,139,,2026-01-07,App móvil,Tarjeta de débito,Completado,1400761.04
+465,438,,2026-08-02,App escritorio,Tarjeta de débito,Completado,452824.8
+466,86,,2025-04-08,App escritorio,PayPal,Completado,551857.64
+467,269,,2025-03-27,Web,PayPal,Completado,395617.53
+468,159,,2026-08-05,App escritorio,Tarjeta de crédito,Completado,999077.76
+469,18,,2026-03-02,App escritorio,PayPal,Cancelado,125204.64
+470,70,,2026-07-07,App escritorio,PayPal,Completado,503082.68
+471,269,,2026-07-01,App escritorio,Tarjeta de crédito,Completado,283329.06
+472,227,13,2025-12-13,,Tarjeta de débito,Completado,805245.4
+473,177,9,2025-06-25,App móvil,PayPal,Completado,212766.18
+474,409,4,2025-02-20,App escritorio,Tarjeta de débito,Completado,171045.6
+475,84,,2026-02-04,Web,Tarjeta de débito,Completado,494903.2
+476,265,,2025-10-06,App móvil,Tarjeta de crédito,Completado,967166.55
+477,94,,2026-05-15,App móvil,PayPal,Completado,21854.4
+478,97,3,2025-08-01,,SINPE Móvil,Devuelto,341607.0
+479,138,14,2025-12-31,Web,SINPE Móvil,Completado,65966.99
+480,216,13,2025-12-20,Web,Tarjeta de débito,Devuelto,377246.1
+481,29,7,2025-06-10,App móvil,Tarjeta de crédito,Completado,22770.72
+482,63,,2026-08-30,App móvil,Tarjeta de crédito,Completado,325593.16
+483,102,,2025-04-07,App móvil,SINPE Móvil,Completado,53627.85
+484,166,12,2025-12-01,Web,SINPE Móvil,Completado,503399.15
+485,102,,2025-02-23,Web,PayPal,Cancelado,364139.32
+486,167,,2026-08-23,Web,,Completado,775678.68
+487,22,,2026-08-17,App móvil,Tarjeta de débito,Completado,223064.15
+488,81,,2025-12-13,App escritorio,SINPE Móvil,Devuelto,538464.03
+489,331,9,2025-06-26,App escritorio,SINPE Móvil,Completado,124265.68
+490,413,,2025-08-02,App escritorio,Tarjeta de crédito,Completado,548115.37
+491,249,,2026-07-27,Web,SINPE Móvil,Completado,600157.56
+492,166,,2025-10-09,App escritorio,Tarjeta de débito,Cancelado,210854.4
+493,231,11,2025-11-28,,PayPal,Completado,303059.67
+494,376,1,2025-01-16,App escritorio,PayPal,Completado,983222.65
+495,98,,2026-06-21,App móvil,SINPE Móvil,Completado,91526.97
+496,57,10,2025-09-10,Web,PayPal,Completado,249172.66
+497,99,10,2025-09-16,App escritorio,Tarjeta de crédito,Completado,512604.05
+498,188,4,2025-02-23,App móvil,Tarjeta de crédito,Devuelto,360511.36
+499,240,,2025-03-04,App móvil,Tarjeta de crédito,Completado,336868.81
+500,422,,2026-06-26,App móvil,Tarjeta de débito,Completado,584879.02
+501,266,12,2025-12-01,App escritorio,Tarjeta de débito,Completado,150660.68
+502,286,,2026-06-03,App escritorio,PayPal,Completado,202726.05
+503,360,,2025-04-17,App móvil,Tarjeta de débito,Completado,716469.04
+504,274,,2026-03-30,App escritorio,SINPE Móvil,Devuelto,487722.02
+505,433,,2026-03-17,Web,Tarjeta de débito,Completado,77708.75
+506,193,,2025-12-03,App móvil,,Completado,1645223.13
+507,18,,2026-07-19,App móvil,,Completado,683531.08
+508,114,6,2025-01-25,App móvil,Tarjeta de débito,Completado,552010.21
+509,49,6,2025-01-27,App escritorio,SINPE Móvil,Completado,419682.78
+510,416,10,2025-09-16,Web,PayPal,Completado,201655.95
+511,89,,2026-08-14,App escritorio,PayPal,Completado,141928.38
+512,41,,2025-12-09,App móvil,Tarjeta de crédito,Completado,818827.86
+513,446,,2025-01-12,Web,Tarjeta de crédito,Completado,957914.5
+514,164,,2026-05-29,Web,PayPal,Completado,345160.15
+515,229,,2026-08-13,App móvil,Tarjeta de débito,Completado,21681.52
+516,68,11,2025-11-28,App móvil,PayPal,Completado,631321.72
+517,397,,2025-11-09,App móvil,Tarjeta de débito,Completado,76208.74
+518,288,,2025-12-02,App móvil,Tarjeta de crédito,Completado,46653.07
+519,58,,2026-05-30,App móvil,Tarjeta de crédito,Completado,65591.25
+520,395,6,2025-02-03,App escritorio,Tarjeta de crédito,Completado,1578351.36
+521,419,11,2025-11-26,Web,Tarjeta de crédito,Completado,465709.6
+522,125,,2025-06-01,Web,Tarjeta de crédito,Cancelado,256981.05
+523,157,,2025-01-24,Web,SINPE Móvil,Completado,178112.86
+524,281,,2025-05-25,App móvil,Tarjeta de crédito,Completado,322680.04
+525,131,5,2025-04-13,Web,Tarjeta de crédito,Completado,199295.98
+526,35,,2025-11-27,App móvil,Tarjeta de crédito,Completado,106460.38
+527,150,,2026-08-05,App escritorio,SINPE Móvil,Completado,563299.0
+528,249,,2026-06-29,App móvil,Tarjeta de crédito,Completado,455907.72
+529,21,,2026-08-13,App escritorio,SINPE Móvil,Completado,672172.65
+530,351,,2025-11-06,App escritorio,Tarjeta de crédito,Completado,588223.05
+531,321,,2026-06-05,Web,SINPE Móvil,Cancelado,742163.11
+532,116,7,2025-06-15,App escritorio,Tarjeta de débito,Completado,307877.1
+533,214,13,2025-12-18,App móvil,Tarjeta de débito,Devuelto,284626.7
+534,106,,2026-08-18,Web,Tarjeta de débito,Completado,260793.0
+535,221,,2025-05-29,Web,Tarjeta de crédito,Completado,334715.66
+536,95,,2026-06-20,App móvil,SINPE Móvil,Completado,807316.62
+537,227,,2026-07-24,Web,Tarjeta de débito,Devuelto,921282.67
+538,14,,2026-06-22,App escritorio,Tarjeta de crédito,Completado,422614.23
+539,184,14,2025-12-27,App escritorio,Tarjeta de débito,Completado,361268.4
+540,437,,2026-07-13,Web,Tarjeta de crédito,Completado,1143918.91
+541,139,,2025-08-16,Web,PayPal,Completado,541434.54
+542,444,,2026-06-23,Web,Tarjeta de crédito,Completado,360839.73
+543,312,,2026-01-25,App escritorio,Tarjeta de crédito,Completado,153403.57
+544,267,9,2025-06-25,App escritorio,Tarjeta de crédito,Cancelado,249583.06
+545,286,,2025-05-24,App móvil,SINPE Móvil,Completado,84887.0
+546,237,5,2025-04-19,Web,PayPal,Cancelado,121580.11
+547,47,,2025-04-26,App escritorio,PayPal,Completado,128910.14
+548,212,,2026-07-25,App escritorio,PayPal,Completado,1084763.58
+549,47,12,2025-12-01,Web,SINPE Móvil,Completado,485292.76
+550,44,,2026-01-29,App escritorio,PayPal,Completado,326780.16
+551,282,,2026-06-27,App escritorio,Tarjeta de débito,Completado,588156.75
+552,445,13,2025-12-06,App móvil,Tarjeta de débito,Completado,870509.92
+553,61,,2025-07-27,Web,PayPal,Completado,58669.54
+554,279,,2026-05-21,App móvil,PayPal,Completado,10725.57
+555,41,,2025-01-07,App escritorio,Tarjeta de débito,Completado,392051.34
+556,26,1,2025-01-16,App escritorio,SINPE Móvil,Completado,132514.24
+557,170,,2025-02-20,Web,Tarjeta de débito,Completado,443246.97
+558,234,,2026-07-27,App móvil,PayPal,Devuelto,476326.96
+559,420,14,2025-12-30,Web,SINPE Móvil,Completado,115406.1
+560,169,,2026-06-22,Web,Tarjeta de crédito,Completado,569672.35
+561,248,,2025-10-22,App móvil,SINPE Móvil,Completado,141002.96
+562,67,,2026-05-24,App móvil,Tarjeta de débito,Completado,613173.79
+563,363,4,2025-02-20,Web,Tarjeta de débito,Completado,311365.14
+564,410,,2026-03-01,App escritorio,Tarjeta de débito,Completado,743277.35
+565,6,,2026-08-25,App móvil,SINPE Móvil,Completado,970149.4
+566,393,12,2025-12-02,App escritorio,Tarjeta de débito,Completado,128855.82
+567,100,6,2025-02-04,Web,PayPal,Completado,507950.65
+568,80,,2026-07-04,App móvil,Tarjeta de crédito,Cancelado,971565.36
+569,428,,2026-06-27,App escritorio,,Completado,134489.95
+570,296,,2025-12-29,Web,PayPal,Completado,85522.8
+571,321,,2026-04-09,App escritorio,SINPE Móvil,Completado,395681.43
+572,362,,2025-02-02,Web,SINPE Móvil,Completado,160285.94
+573,111,,2025-07-09,Web,PayPal,Completado,237332.55
+574,260,8,2025-05-07,App móvil,SINPE Móvil,Completado,176821.33
+575,398,,2026-06-28,App escritorio,Tarjeta de débito,Completado,1160400.8
+576,371,7,2025-06-15,App móvil,Tarjeta de crédito,Cancelado,189584.84
+577,171,,2025-05-22,App escritorio,SINPE Móvil,Completado,709153.46
+578,328,,2025-11-25,App escritorio,PayPal,Completado,46861.74
+579,344,5,2025-04-12,,Tarjeta de crédito,Completado,249760.84
+580,106,,2026-07-17,App escritorio,Tarjeta de débito,Completado,681221.1
+581,88,13,2025-12-15,Web,Tarjeta de crédito,Completado,890784.15
+582,55,,2025-03-30,App escritorio,PayPal,Completado,590377.5
+583,316,,2026-04-28,App escritorio,Tarjeta de crédito,Completado,225843.68
+584,387,,2026-07-14,App escritorio,PayPal,Completado,456554.37
+585,159,,2026-08-28,Web,SINPE Móvil,Completado,419982.88
+586,187,,2025-12-05,App móvil,Tarjeta de crédito,Completado,700557.7
+587,244,8,2025-05-06,App móvil,Tarjeta de débito,Completado,672611.2
+588,261,4,2025-03-02,App móvil,PayPal,Completado,221742.5
+589,303,,2025-09-07,App móvil,Tarjeta de débito,Completado,603068.93
+590,417,,2026-08-31,App móvil,Tarjeta de débito,Completado,806135.94
+591,89,,2025-03-21,App móvil,PayPal,Completado,658213.32
+592,167,,2026-08-25,App móvil,Tarjeta de crédito,Completado,1023263.31
+593,351,,2026-01-24,Web,Tarjeta de débito,Completado,388191.28
+594,298,,2026-07-05,App escritorio,SINPE Móvil,Completado,524901.39
+595,200,,2026-04-03,App móvil,SINPE Móvil,Completado,1005840.92
+596,223,,2026-08-01,Web,PayPal,Completado,660940.89
+597,434,5,2025-04-10,Web,,Completado,275487.52
+598,287,,2026-05-11,Web,PayPal,Completado,757462.92
+599,321,,2026-06-03,Web,PayPal,Completado,292230.48
+600,72,7,2025-06-16,Web,Tarjeta de débito,Cancelado,453307.07
+601,69,11,2025-11-24,App escritorio,Tarjeta de débito,Completado,340344.64
+602,44,13,2025-12-18,App escritorio,PayPal,Cancelado,535054.0
+603,320,14,2025-12-30,Web,Tarjeta de crédito,Completado,113327.35
+604,296,,2025-08-31,App escritorio,Tarjeta de crédito,Completado,699165.5
+605,20,,2026-01-13,App escritorio,SINPE Móvil,Completado,739638.16
+606,239,,2026-07-24,App móvil,Tarjeta de crédito,Cancelado,325804.92
+607,351,,2026-08-17,App móvil,Tarjeta de crédito,Completado,389206.41
+608,241,,2026-04-26,App móvil,SINPE Móvil,Completado,420892.68
+609,149,12,2025-12-02,Web,Tarjeta de débito,Completado,123074.78
+610,294,5,2025-04-19,Web,SINPE Móvil,Completado,338765.52
+611,130,11,2025-11-26,,Tarjeta de débito,Cancelado,511617.1
+612,303,,2026-04-03,App escritorio,Tarjeta de débito,Completado,428101.81
+613,410,,2025-02-03,Web,Tarjeta de débito,Completado,1007143.92
+614,429,,2026-05-16,App móvil,Tarjeta de débito,Completado,722135.77
+615,108,,2025-12-20,Web,PayPal,Completado,320324.88
+616,205,,2026-01-25,App escritorio,PayPal,Completado,419982.88
+617,243,9,2025-07-01,App móvil,SINPE Móvil,Completado,443797.25
+618,272,,2025-02-12,App móvil,PayPal,Completado,166939.52
+619,313,,2025-11-01,Web,PayPal,Completado,39354.75
+620,237,,2025-09-05,Web,Tarjeta de débito,Completado,142207.62
+621,161,,2025-01-09,,Tarjeta de crédito,Completado,56991.42
+622,351,,2025-08-13,Web,,Completado,969174.4
+623,48,10,2025-09-13,App escritorio,Tarjeta de crédito,Devuelto,144213.13
+624,439,,2026-07-29,App escritorio,Tarjeta de débito,Completado,133030.23
+625,57,,2026-01-16,Web,SINPE Móvil,Completado,689822.05
+626,394,,2026-08-19,Web,SINPE Móvil,Completado,398526.49
+627,398,,2026-08-04,App móvil,Tarjeta de crédito,Completado,814597.16
+628,252,,2025-07-25,App móvil,PayPal,Completado,165482.12
+629,112,,2025-07-01,Web,Tarjeta de crédito,Cancelado,100510.14
+630,293,,2026-06-16,Web,Tarjeta de crédito,Completado,277624.77
+631,20,,2025-09-30,App móvil,PayPal,Completado,1445803.5
+632,245,,2025-03-13,,PayPal,Completado,521586.0
+633,63,,2026-05-31,Web,Tarjeta de crédito,Completado,416564.55
+634,188,,2026-02-06,App móvil,Tarjeta de débito,Completado,73405.1
+635,284,9,2025-07-05,Web,SINPE Móvil,Completado,55000.16
+636,250,14,2025-12-31,Web,Tarjeta de débito,Completado,289509.77
+637,251,,2026-08-17,App escritorio,PayPal,Completado,322805.17
+638,9,3,2025-08-06,Web,PayPal,Completado,976166.04
+639,348,,2026-07-04,Web,Tarjeta de débito,Completado,209496.14
+640,251,,2026-07-07,Web,Tarjeta de débito,Cancelado,289867.5
+641,8,1,2025-01-14,App escritorio,Tarjeta de crédito,Completado,302191.2
+642,419,,2025-04-27,Web,Tarjeta de débito,Completado,568923.36
+643,219,14,2025-12-31,App escritorio,Tarjeta de débito,Completado,200617.02
+644,165,,2025-08-07,App móvil,SINPE Móvil,Completado,75988.56
+645,73,,2025-06-22,App móvil,Tarjeta de crédito,Completado,166374.78
+646,69,14,2025-12-31,Web,Tarjeta de crédito,Completado,159495.56
+647,4,2,2025-02-11,App móvil,Tarjeta de débito,Completado,36182.11
+648,74,,2026-07-29,Web,Tarjeta de crédito,Completado,580131.87
+649,306,,2026-08-29,App móvil,Tarjeta de crédito,Completado,126405.89
+650,286,5,2025-04-18,App escritorio,PayPal,Devuelto,210796.8
+651,395,,2025-08-02,Web,PayPal,Completado,981126.04
+652,255,11,2025-11-24,App móvil,PayPal,Completado,8526.86
+653,23,,2026-07-11,Web,Tarjeta de crédito,Cancelado,590377.5
+654,37,,2026-04-01,Web,SINPE Móvil,Completado,806431.21
+655,118,,2025-10-20,App móvil,PayPal,Completado,795311.48
+656,113,10,2025-09-17,Web,PayPal,Completado,287282.49
+657,92,,2026-08-28,App móvil,Tarjeta de débito,Completado,308467.86
+658,172,3,2025-08-05,App móvil,SINPE Móvil,Completado,388770.84
+659,113,,2025-06-10,App escritorio,Tarjeta de débito,Completado,300078.78
+660,45,,2026-06-19,App escritorio,PayPal,Completado,267213.85
+661,143,,2026-06-27,App móvil,Tarjeta de débito,Completado,1073986.6
+662,303,,2026-08-11,Web,PayPal,Cancelado,701804.34
+663,376,,2025-02-04,App escritorio,PayPal,Completado,289309.03
+664,254,9,2025-06-25,Web,SINPE Móvil,Completado,716426.66
+665,123,,2025-04-03,Web,Tarjeta de crédito,Completado,385788.71
+666,233,,2025-05-22,App móvil,Tarjeta de crédito,Cancelado,80562.9
+667,441,,2025-11-08,Web,SINPE Móvil,Cancelado,567201.58
+668,358,,2026-07-10,App escritorio,SINPE Móvil,Completado,586528.0
+669,377,,2026-06-12,Web,SINPE Móvil,Devuelto,128910.14
+670,239,,2026-02-13,App escritorio,Tarjeta de débito,Completado,15541.75
+671,71,,2025-11-12,App escritorio,Tarjeta de débito,Completado,1004990.11
+672,386,,2025-10-25,App escritorio,SINPE Móvil,Completado,123693.87
+673,28,6,2025-02-01,Web,SINPE Móvil,Completado,552418.08
+674,232,,2025-03-09,Web,Tarjeta de débito,Completado,854635.92
+675,148,,2025-03-20,App escritorio,Tarjeta de débito,Completado,734293.85
+676,448,,2026-08-30,App escritorio,Tarjeta de débito,Completado,411778.98
+677,243,8,2025-05-07,Web,,Completado,140854.08
+678,411,9,2025-07-05,App escritorio,SINPE Móvil,Completado,291525.6
+679,249,,2026-06-27,App móvil,SINPE Móvil,Completado,1003758.82
+680,88,,2025-12-06,Web,SINPE Móvil,Completado,807714.92
+681,234,,2026-08-29,App móvil,Tarjeta de débito,Cancelado,577332.45
+682,430,,2026-08-16,Web,SINPE Móvil,Completado,139037.58
+683,295,5,2025-04-15,Web,SINPE Móvil,Completado,219403.78
+684,76,,2026-07-07,Web,PayPal,Devuelto,288589.04
+685,256,,2026-01-13,App escritorio,SINPE Móvil,Cancelado,564609.2
+686,332,,2026-05-01,App escritorio,PayPal,Cancelado,546832.77
+687,174,,2026-05-06,App escritorio,Tarjeta de crédito,Cancelado,201560.56
+688,206,,2025-08-14,Web,Tarjeta de débito,Completado,558916.48
+689,299,,2025-10-12,App móvil,Tarjeta de crédito,Completado,389206.41
+690,263,,2026-06-21,Web,SINPE Móvil,Completado,179459.35
+691,204,14,2025-12-29,App móvil,SINPE Móvil,Completado,137095.87
+692,229,,2025-03-31,App escritorio,PayPal,Completado,679760.85
+693,148,12,2025-12-02,App escritorio,Tarjeta de débito,Completado,22380.12
+694,107,14,2025-12-30,App escritorio,Tarjeta de crédito,Devuelto,117202.1
+695,4,,2025-10-07,App escritorio,Tarjeta de débito,Completado,131893.81
+696,103,7,2025-06-12,App móvil,SINPE Móvil,Completado,369006.36
+697,253,,2026-07-13,Web,PayPal,Completado,499869.99
+698,64,,2025-11-18,App escritorio,Tarjeta de crédito,Completado,213857.15
+699,62,,2026-07-29,App escritorio,PayPal,Devuelto,130645.96
+700,290,,2025-09-22,App escritorio,SINPE Móvil,Completado,349667.89
+701,263,,2026-02-20,Web,PayPal,Completado,1033746.18
+702,450,,2026-01-14,App móvil,SINPE Móvil,Completado,44680.37
+703,25,9,2025-07-05,App escritorio,Tarjeta de crédito,Devuelto,718512.65
+704,307,,2026-07-11,App escritorio,SINPE Móvil,Completado,243786.84
+705,351,,2026-01-07,Web,,Completado,89483.21
+706,266,13,2025-12-20,Web,Tarjeta de débito,Completado,19107.95
+707,258,4,2025-03-09,App escritorio,Tarjeta de crédito,Completado,387182.14
+708,214,,2026-01-12,Web,SINPE Móvil,Completado,120607.02
+709,354,,2026-08-21,App móvil,SINPE Móvil,Cancelado,297105.14
+710,15,,2025-05-02,Web,SINPE Móvil,Completado,632360.49
+711,65,11,2025-11-27,Web,,Completado,593442.44
+712,248,,2025-02-13,App escritorio,Tarjeta de crédito,Completado,80081.22
+713,241,5,2025-04-10,Web,Tarjeta de débito,Completado,450341.53
+714,301,,2025-07-09,,SINPE Móvil,Completado,389206.41
+715,297,3,2025-08-14,Web,Tarjeta de crédito,Completado,314213.62
+716,51,,2025-01-15,App móvil,Tarjeta de crédito,Completado,358144.88
+717,372,4,2025-03-08,App escritorio,PayPal,Cancelado,160976.1
+718,345,,2025-07-05,App móvil,Tarjeta de débito,Completado,435944.73
+719,209,6,2025-01-26,App móvil,SINPE Móvil,Completado,333649.41
+720,286,,2025-06-27,App móvil,SINPE Móvil,Completado,136902.81
+721,352,,2026-03-31,App móvil,Tarjeta de crédito,Completado,279272.2
+722,431,,2026-01-12,App móvil,PayPal,Completado,139959.21
+723,225,,2025-03-29,App escritorio,Tarjeta de crédito,Completado,103819.5
+724,380,,2025-06-22,App móvil,PayPal,Completado,741174.7
+725,63,,2026-06-17,App escritorio,SINPE Móvil,Completado,416564.55
+726,388,,2026-02-14,App móvil,SINPE Móvil,Completado,454630.53
+727,76,,2025-04-21,Web,Tarjeta de débito,Completado,313716.05
+728,16,3,2025-08-14,Web,SINPE Móvil,Completado,355949.26
+729,79,,2026-06-30,App escritorio,PayPal,Completado,274041.55
+730,104,,2026-07-15,App móvil,Tarjeta de crédito,Completado,720297.8
+731,392,7,2025-06-10,App móvil,Tarjeta de crédito,Completado,799149.22
+732,17,11,2025-11-30,Web,Tarjeta de débito,Completado,425858.55
+733,160,,2026-05-27,App móvil,PayPal,Completado,777423.0
+734,244,,2025-06-10,App móvil,PayPal,Completado,346734.35
+735,316,,2026-04-03,,SINPE Móvil,Completado,113206.2
+736,179,,2026-08-21,App móvil,PayPal,Completado,80962.98
+737,177,,2026-02-26,Web,SINPE Móvil,Completado,1187211.2
+738,304,11,2025-11-30,Web,Tarjeta de crédito,Completado,345301.01
+739,236,,2026-03-09,App móvil,,Completado,735363.41
+740,241,,2025-11-21,App escritorio,PayPal,Completado,374075.0
+741,52,,2025-07-30,App escritorio,SINPE Móvil,Completado,730099.7
+742,187,,2025-07-26,Web,Tarjeta de débito,Completado,476530.3
+743,148,5,2025-04-19,App escritorio,Tarjeta de crédito,Completado,374165.93
+744,304,11,2025-11-28,Web,Tarjeta de crédito,Completado,7046.5
+745,334,,2026-08-19,App escritorio,PayPal,Completado,52473.0
+746,206,9,2025-07-02,Web,Tarjeta de débito,Completado,1014610.11
+747,296,,2026-04-24,App escritorio,PayPal,Completado,293144.3
+748,290,,2025-03-03,Web,SINPE Móvil,Completado,648763.85
+749,433,,2025-11-23,App escritorio,PayPal,Cancelado,356450.68
+750,137,,2026-08-25,Web,Tarjeta de crédito,Completado,136902.81
+751,77,9,2025-07-05,App móvil,Tarjeta de crédito,Completado,427015.24
+752,104,,2026-04-13,App móvil,Tarjeta de débito,Completado,386014.05
+753,330,,2026-05-13,Web,SINPE Móvil,Completado,164809.2
+754,444,12,2025-12-02,App móvil,Tarjeta de débito,Completado,1068566.05
+755,121,12,2025-12-01,App escritorio,Tarjeta de crédito,Completado,45306.24
+756,122,,2026-01-18,App móvil,Tarjeta de débito,Completado,310668.19
+757,217,2,2025-02-09,App móvil,Tarjeta de crédito,Completado,41540.46
+758,252,,2025-04-26,App escritorio,SINPE Móvil,Completado,105427.2
+759,402,,2026-05-26,App móvil,,Completado,1291339.75
+760,311,,2026-07-09,App escritorio,Tarjeta de débito,Completado,200423.76
+761,130,,2025-11-09,App escritorio,Tarjeta de débito,Completado,185383.44
+762,440,,2025-02-05,App móvil,Tarjeta de débito,Cancelado,458879.66
+763,153,9,2025-07-04,App escritorio,Tarjeta de crédito,Completado,338728.88
+764,141,,2026-07-24,App escritorio,SINPE Móvil,Completado,323851.92
+765,368,,2025-04-13,App escritorio,PayPal,Completado,493640.64
+766,309,,2026-01-25,Web,Tarjeta de débito,Completado,1351890.66
+767,323,,2026-07-28,App escritorio,Tarjeta de crédito,Completado,326350.78
+768,57,14,2025-12-31,Web,PayPal,Devuelto,278450.54
+769,406,,2026-04-08,App móvil,SINPE Móvil,Completado,355713.92
+770,410,2,2025-02-13,App móvil,Tarjeta de débito,Completado,310307.74
+771,11,,2026-07-23,Web,Tarjeta de débito,Completado,819334.91
+772,135,,2025-06-22,App escritorio,Tarjeta de crédito,Completado,543004.91
+773,189,13,2025-12-08,App móvil,PayPal,Completado,743272.07
+774,61,4,2025-02-26,App móvil,PayPal,Devuelto,177394.0
+775,196,10,2025-09-13,App escritorio,Tarjeta de débito,Devuelto,43686.78
+776,210,,2025-01-30,App escritorio,Tarjeta de débito,Completado,192712.43
+777,190,,2026-06-28,App móvil,PayPal,Completado,297105.14
+778,352,7,2025-06-15,Web,Tarjeta de crédito,Completado,594363.7
+779,27,9,2025-07-02,App escritorio,Tarjeta de crédito,Cancelado,402478.26
+780,3,10,2025-09-16,App móvil,Tarjeta de crédito,Completado,275943.47
+781,298,10,2025-09-18,App móvil,SINPE Móvil,Completado,956696.58
+782,364,,2026-03-11,Web,SINPE Móvil,Completado,456144.28
+783,383,,2026-03-28,App escritorio,SINPE Móvil,Completado,470525.4
+784,265,3,2025-08-06,Web,PayPal,Completado,41991.42
+785,28,1,2025-01-12,Web,PayPal,Completado,689988.03
+786,60,,2026-09-01,App escritorio,PayPal,Completado,600157.56
+787,253,,2026-04-23,App móvil,Tarjeta de débito,Completado,73405.1
+788,384,,2026-04-22,Web,Tarjeta de crédito,Completado,77508.78
+789,270,,2025-12-12,App móvil,SINPE Móvil,Completado,277586.45
+790,14,,2026-05-16,Web,Tarjeta de débito,Completado,145779.09
+791,15,14,2025-12-31,App móvil,Tarjeta de crédito,Completado,325049.1
+792,169,,2026-04-09,App escritorio,Tarjeta de débito,Completado,165138.75
+793,109,,2026-05-26,Web,PayPal,Completado,264260.48
+794,48,,2025-07-02,App móvil,Tarjeta de débito,Completado,723208.71
+795,84,,2026-02-17,App escritorio,SINPE Móvil,Completado,538793.43
+796,252,,2025-11-14,App móvil,SINPE Móvil,Cancelado,583185.2
+797,263,,2026-06-10,App escritorio,Tarjeta de crédito,Cancelado,424776.96
+798,388,,2026-01-13,App móvil,SINPE Móvil,Completado,524978.6
+799,238,,2025-06-08,App escritorio,SINPE Móvil,Devuelto,644154.68
+800,240,,2026-05-05,App escritorio,Tarjeta de débito,Completado,109857.31
+801,268,,2026-05-07,App escritorio,PayPal,Completado,246820.32
+802,212,,2026-08-29,App escritorio,Tarjeta de crédito,Completado,662873.5
+803,59,,2026-04-19,App móvil,PayPal,Completado,698817.5
+804,449,,2025-11-18,App escritorio,SINPE Móvil,Completado,244709.61
+805,175,,2025-07-11,App escritorio,Tarjeta de crédito,Completado,1026163.18
+806,223,,2025-04-22,,PayPal,Completado,720381.0
+807,355,,2026-05-14,App escritorio,PayPal,Completado,497542.62
+808,412,3,2025-08-03,Web,Tarjeta de débito,Completado,114405.89
+809,440,9,2025-07-05,App escritorio,Tarjeta de débito,Completado,611865.55
+810,45,8,2025-05-05,,Tarjeta de débito,Completado,6037.87
+811,379,,2026-05-12,App escritorio,SINPE Móvil,Completado,455308.5
+812,292,,2026-02-06,,PayPal,Completado,973873.61
+813,213,,2026-08-16,App móvil,PayPal,Completado,814512.3
+814,249,,2026-05-15,Web,SINPE Móvil,Completado,1115511.31
+815,284,13,2025-12-18,App escritorio,SINPE Móvil,Cancelado,438555.96
+816,230,,2025-01-22,App móvil,Tarjeta de débito,Completado,552414.05
+817,260,11,2025-11-26,App escritorio,Tarjeta de débito,Cancelado,285629.0
+818,151,,2026-02-04,App escritorio,SINPE Móvil,Devuelto,315589.67
+819,408,,2025-06-15,App escritorio,PayPal,Completado,308467.86
+820,67,3,2025-08-10,App móvil,Tarjeta de débito,Completado,137243.28
+821,286,3,2025-08-06,Web,Tarjeta de crédito,Cancelado,88819.5
+822,414,7,2025-06-10,Web,SINPE Móvil,Completado,409797.7
+823,402,,2025-12-15,Web,Tarjeta de crédito,Completado,102773.86
+824,362,8,2025-05-06,Web,Tarjeta de crédito,Devuelto,280284.25
+825,422,,2026-06-04,Web,Tarjeta de débito,Completado,470144.61
+826,373,8,2025-05-07,Web,SINPE Móvil,Completado,310494.56
+827,420,12,2025-12-02,Web,PayPal,Devuelto,271810.53
+828,175,3,2025-08-02,App móvil,Tarjeta de débito,Completado,627254.22
+829,78,,2026-06-27,App móvil,PayPal,Completado,278261.5
+830,235,,2026-08-06,Web,Tarjeta de crédito,Completado,433871.02
+831,368,,2025-03-13,Web,PayPal,Completado,188776.02
+832,389,11,2025-11-25,App escritorio,SINPE Móvil,Cancelado,273916.38
+833,215,,2026-07-21,App móvil,Tarjeta de crédito,Cancelado,947729.19
+834,424,9,2025-07-04,App móvil,PayPal,Cancelado,462979.55
+835,358,13,2025-12-17,Web,SINPE Móvil,Completado,1112175.92
+836,200,,2025-05-10,Web,SINPE Móvil,Completado,71434.8
+837,267,12,2025-12-01,App escritorio,Tarjeta de débito,Completado,542732.22
+838,427,,2026-08-09,App escritorio,SINPE Móvil,Completado,975199.63
+839,133,,2026-07-23,Web,Tarjeta de crédito,Completado,1419703.02
+840,233,4,2025-03-10,App escritorio,Tarjeta de débito,Completado,73247.7
+841,180,11,2025-11-30,Web,Tarjeta de débito,Completado,192243.53
+842,54,,2026-08-30,App móvil,PayPal,Completado,506119.58
+843,425,,2025-04-10,App móvil,Tarjeta de crédito,Completado,32437.07
+844,190,,2026-05-31,App móvil,PayPal,Completado,848130.9
+845,326,,2026-03-27,App escritorio,Tarjeta de débito,Completado,986216.71
+846,74,,2026-07-25,App escritorio,Tarjeta de crédito,Completado,94216.2
+847,356,8,2025-05-05,App móvil,Tarjeta de crédito,Completado,159719.95
+848,309,,2025-06-15,Web,Tarjeta de crédito,Completado,1177960.44
+849,191,10,2025-09-14,,PayPal,Completado,791203.05
+850,25,,2025-11-09,App escritorio,Tarjeta de crédito,Cancelado,944767.63
+851,281,14,2025-12-26,App escritorio,SINPE Móvil,Completado,424163.52
+852,401,,2026-08-05,Web,PayPal,Completado,219714.62
+853,390,,2026-08-26,Web,PayPal,Completado,1485664.79
+854,199,7,2025-06-12,App móvil,Tarjeta de crédito,Completado,890516.01
+855,444,3,2025-08-10,App móvil,Tarjeta de crédito,Completado,157719.88
+856,330,,2025-07-17,Web,Tarjeta de débito,Devuelto,94443.02
+857,385,,2025-01-20,Web,SINPE Móvil,Completado,637465.8
+858,403,14,2025-12-31,Web,SINPE Móvil,Completado,616415.76
+859,206,,2026-05-19,,PayPal,Cancelado,180803.5
+860,13,,2025-11-21,Web,SINPE Móvil,Completado,166625.82
+861,74,,2026-08-30,App móvil,Tarjeta de crédito,Completado,963728.47
+862,315,,2026-01-17,App móvil,Tarjeta de débito,Completado,170306.71
+863,212,,2026-08-09,Web,Tarjeta de débito,Completado,179459.35
+864,386,,2025-11-06,App móvil,SINPE Móvil,Completado,214785.52
+865,32,9,2025-07-01,,Tarjeta de crédito,Completado,106393.6
+866,138,,2026-03-08,App escritorio,Tarjeta de débito,Completado,489949.92
+867,156,,2026-04-02,Web,Tarjeta de débito,Completado,175980.98
+868,192,,2025-08-30,App móvil,PayPal,Completado,350900.4
+869,22,13,2025-12-24,Web,PayPal,Completado,140572.15
+870,140,,2026-01-25,Web,SINPE Móvil,Devuelto,536963.8
+871,24,,2026-08-13,App móvil,Tarjeta de débito,Completado,140156.48
+872,372,,2025-10-14,App escritorio,SINPE Móvil,Cancelado,823435.95
+873,350,,2026-08-01,App móvil,SINPE Móvil,Devuelto,283329.06
+874,175,10,2025-09-15,App escritorio,PayPal,Completado,258421.28
+875,3,,2025-06-27,App escritorio,PayPal,Completado,1052033.84
+876,276,14,2025-12-31,App escritorio,Tarjeta de crédito,Completado,432929.4
+877,181,,2026-01-21,Web,Tarjeta de crédito,Completado,355713.92
+878,64,,2025-09-30,Web,SINPE Móvil,Completado,1214080.25
+879,99,10,2025-09-14,App móvil,Tarjeta de crédito,Completado,317007.97
+880,144,,2026-08-28,App escritorio,SINPE Móvil,Completado,98328.76
+881,292,,2025-06-24,App escritorio,Tarjeta de débito,Completado,28515.51
+882,34,,2026-04-05,Web,SINPE Móvil,Completado,593081.25
+883,99,,2025-01-24,App escritorio,PayPal,Devuelto,560402.54
+884,2,,2026-06-27,App móvil,PayPal,Completado,599039.52
+885,141,14,2025-12-29,App escritorio,SINPE Móvil,Completado,598404.92
+886,216,,2025-11-20,Web,Tarjeta de crédito,Completado,553937.35
+887,378,12,2025-12-02,Web,SINPE Móvil,Devuelto,46407.65
+888,33,,2025-05-28,Web,SINPE Móvil,Completado,84887.0
+889,431,2,2025-02-14,Web,Tarjeta de débito,Completado,113246.21
+890,38,,2026-03-26,App escritorio,Tarjeta de crédito,Completado,931575.23
+891,18,,2025-10-20,App móvil,PayPal,Completado,344535.47
+892,34,,2026-04-03,App móvil,PayPal,Completado,625487.61
+893,120,,2026-06-28,App móvil,Tarjeta de crédito,Completado,581695.36
+894,174,,2025-01-27,Web,Tarjeta de crédito,Completado,434512.72
+895,305,,2026-08-31,App escritorio,SINPE Móvil,Completado,727559.76
+896,182,,2026-04-01,Web,SINPE Móvil,Completado,573181.04
+897,300,,2026-01-02,Web,SINPE Móvil,Completado,173796.58
+898,309,10,2025-09-10,Web,Tarjeta de crédito,Completado,440650.4
+899,217,4,2025-02-26,App escritorio,PayPal,Completado,359329.04
+900,308,,2026-08-16,App móvil,Tarjeta de débito,Completado,670417.08
+901,54,,2026-09-01,Web,Tarjeta de débito,Cancelado,376318.17
+902,239,,2025-10-06,App móvil,PayPal,Completado,449120.93
+903,106,,2025-01-07,Web,Tarjeta de débito,Completado,16977.4
+904,149,,2026-08-23,Web,SINPE Móvil,Cancelado,365837.45
+905,90,5,2025-04-12,Web,Tarjeta de débito,Completado,335562.05
+906,432,2,2025-02-07,App escritorio,Tarjeta de crédito,Completado,51327.92
+907,174,,2025-11-09,App móvil,PayPal,Completado,307054.22
+908,450,,2025-09-14,Web,PayPal,Completado,716476.3
+909,356,,2026-03-16,Web,Tarjeta de débito,Devuelto,370230.48
+910,438,,2026-07-27,App móvil,PayPal,Completado,82741.06
+911,108,,2026-04-27,Web,SINPE Móvil,Completado,545774.28
+912,256,,2025-08-23,App escritorio,PayPal,Completado,1476585.83
+913,243,7,2025-06-15,Web,Tarjeta de débito,Cancelado,261387.48
+914,232,,2026-02-10,App móvil,SINPE Móvil,Completado,103793.12
+915,131,,2025-05-18,App escritorio,Tarjeta de crédito,Completado,696395.7
+916,239,,2026-01-14,App móvil,PayPal,Completado,542300.34
+917,163,,2026-07-22,App escritorio,Tarjeta de crédito,Completado,257878.62
+918,151,,2026-06-10,App móvil,Tarjeta de crédito,Completado,732860.75
+919,61,1,2025-01-11,App móvil,SINPE Móvil,Completado,451041.28
+920,98,,2025-06-18,App escritorio,SINPE Móvil,Devuelto,953201.14
+921,5,,2026-08-02,App móvil,Tarjeta de crédito,Completado,398277.92
+922,242,,2025-06-02,App escritorio,PayPal,Cancelado,88591.52
+923,120,,2026-09-01,App móvil,Tarjeta de crédito,Completado,580386.2
+924,161,,2026-03-16,Web,Tarjeta de crédito,Completado,573181.04
+925,192,7,2025-06-12,,SINPE Móvil,Devuelto,468376.45
+926,174,7,2025-06-15,App escritorio,SINPE Móvil,Completado,209455.98
+927,301,13,2025-12-06,App móvil,PayPal,Cancelado,147403.57
+928,196,12,2025-12-01,Web,PayPal,Completado,85014.36
+929,328,,2025-04-06,Web,PayPal,Completado,415947.35
+930,14,,2026-05-02,Web,Tarjeta de crédito,Cancelado,617533.54
+931,233,9,2025-06-25,App móvil,Tarjeta de crédito,Completado,362383.6
+932,67,,2026-05-05,Web,Tarjeta de débito,Completado,494725.05
+933,159,,2026-08-29,App móvil,PayPal,Completado,598316.65
+934,142,3,2025-08-08,Web,PayPal,Completado,732649.81
+935,236,,2025-02-10,App móvil,SINPE Móvil,Completado,268293.48
+936,201,,2025-06-29,App escritorio,PayPal,Completado,292538.38
+937,197,,2025-07-07,App escritorio,Tarjeta de débito,Completado,1281760.62
+938,446,11,2025-11-28,App escritorio,Tarjeta de débito,Completado,160149.92
+939,253,,2026-08-05,Web,SINPE Móvil,Completado,1119237.84
+940,210,,2025-09-16,Web,PayPal,Completado,327719.64
+941,196,12,2025-12-01,,Tarjeta de débito,Completado,325214.88
+942,168,,2026-04-21,App escritorio,PayPal,Completado,183512.75
+943,72,,2025-10-13,Web,Tarjeta de débito,Completado,524150.92
+944,151,12,2025-12-02,Web,Tarjeta de débito,Completado,169584.41
+945,226,,2025-08-10,App escritorio,Tarjeta de crédito,Completado,84995.52
+946,429,,2025-07-03,Web,Tarjeta de crédito,Completado,1525398.68
+947,396,,2025-07-26,Web,Tarjeta de crédito,Cancelado,213771.08
+948,216,1,2025-01-15,Web,Tarjeta de crédito,Completado,149132.67
+949,409,,2025-06-21,App escritorio,SINPE Móvil,Completado,1206331.6
+950,166,,2025-07-14,App móvil,Tarjeta de crédito,Completado,883763.52
+951,119,6,2025-01-30,App móvil,,Completado,246106.26
+952,109,,2025-05-14,App escritorio,Tarjeta de crédito,Completado,469086.53
+953,112,,2026-06-04,Web,Tarjeta de débito,Completado,219916.03
+954,129,,2025-11-29,App escritorio,Tarjeta de débito,Devuelto,481937.94
+955,171,11,2025-11-30,Web,PayPal,Completado,12348.14
+956,196,,2026-08-13,Web,Tarjeta de crédito,Completado,443515.75
+957,159,,2026-08-23,Web,PayPal,Completado,210234.72
+958,152,,2026-05-05,App escritorio,PayPal,Completado,148552.57
+959,379,,2025-05-18,Web,PayPal,Completado,489561.85
+960,332,,2025-01-25,App móvil,Tarjeta de crédito,Completado,444704.82
+961,341,,2025-08-16,App móvil,Tarjeta de crédito,Completado,283856.76
+962,34,,2026-04-06,Web,Tarjeta de débito,Devuelto,202021.24
+963,47,9,2025-06-28,App escritorio,Tarjeta de débito,Completado,249275.86
+964,370,7,2025-06-11,App escritorio,Tarjeta de débito,Completado,236981.05
+965,140,,2026-05-08,App móvil,PayPal,Completado,1458611.55
+966,226,,2026-03-20,App móvil,,Completado,500196.52
+967,196,,2025-09-10,App escritorio,Tarjeta de débito,Completado,273266.48
+968,132,,2025-11-10,App escritorio,SINPE Móvil,Completado,483316.18
+969,70,,2025-07-20,Web,SINPE Móvil,Completado,339618.6
+970,252,,2026-03-02,App móvil,SINPE Móvil,Devuelto,389297.85
+971,329,,2025-06-12,Web,Tarjeta de débito,Completado,10882.77
+972,100,,2025-09-19,App móvil,PayPal,Completado,923727.3
+973,326,,2025-03-01,App escritorio,PayPal,Completado,837181.2
+974,18,,2026-03-21,App escritorio,Tarjeta de débito,Completado,298166.06
+975,134,,2026-07-14,App escritorio,Tarjeta de débito,Completado,514051.09
+976,7,2,2025-02-13,Web,Tarjeta de débito,Completado,223400.85
+977,449,,2026-03-14,App escritorio,PayPal,Completado,140370.85
+978,301,7,2025-06-16,Web,SINPE Móvil,Cancelado,543299.0
+979,417,,2026-09-01,App escritorio,Tarjeta de débito,Completado,361607.0
+980,418,,2025-04-10,App escritorio,SINPE Móvil,Completado,323297.37
+981,376,,2025-06-30,Web,Tarjeta de crédito,Completado,1247175.49
+982,231,,2025-11-11,Web,Tarjeta de débito,Completado,301230.44
+983,133,,2026-08-25,App escritorio,Tarjeta de débito,Completado,171919.08
+984,41,7,2025-06-10,App escritorio,PayPal,Completado,526378.05
+985,345,,2025-01-10,Web,Tarjeta de crédito,Completado,787476.11
+986,50,3,2025-08-12,App móvil,PayPal,Completado,608751.78
+987,388,7,2025-06-12,App móvil,SINPE Móvil,Completado,189220.11
+988,341,,2025-02-28,Web,,Devuelto,413705.3
+989,446,,2025-05-23,App escritorio,Tarjeta de débito,Completado,16977.4
+990,189,,2026-06-19,Web,SINPE Móvil,Completado,1163703.19
+991,9,,2025-05-01,App escritorio,PayPal,Devuelto,449161.28
+992,205,,2026-07-07,App móvil,Tarjeta de crédito,Completado,563753.19
+993,376,,2025-07-19,App escritorio,Tarjeta de crédito,Completado,55435.62
+994,66,,2025-03-31,App escritorio,PayPal,Completado,113206.2
+995,87,,2025-04-29,Web,Tarjeta de crédito,Completado,472215.1
+996,55,,2025-01-30,App móvil,Tarjeta de débito,Completado,658016.25
+997,369,8,2025-05-07,App escritorio,PayPal,Completado,16401.61
+998,47,,2025-12-07,App escritorio,SINPE Móvil,Cancelado,100780.28
+999,194,,2026-01-26,App móvil,Tarjeta de débito,Completado,462707.95
+1000,133,,2026-07-06,App escritorio,Tarjeta de crédito,Completado,377487.36
+1001,294,,2025-11-17,Web,Tarjeta de débito,Devuelto,471019.73
+1002,434,,2026-03-10,App escritorio,Tarjeta de débito,Completado,144498.73
+1003,267,,2025-09-12,,SINPE Móvil,Completado,138306.49
+1004,75,,2025-10-31,App móvil,SINPE Móvil,Completado,370230.48
+1005,75,,2025-02-05,App escritorio,PayPal,Completado,784597.5
+1006,324,,2026-05-22,Web,SINPE Móvil,Completado,182537.08
+1007,79,,2026-07-14,Web,Tarjeta de crédito,Completado,104625.48
+1008,444,,2026-03-12,App escritorio,Tarjeta de débito,Completado,472843.38
+1009,12,,2025-12-12,App móvil,PayPal,Completado,1354062.48
+1010,37,,2025-10-17,App escritorio,PayPal,Completado,325804.92
+1011,50,13,2025-12-06,App móvil,Tarjeta de débito,Completado,291087.02
+1012,227,,2026-01-28,App escritorio,Tarjeta de crédito,Cancelado,269935.15
+1013,186,,2026-02-09,Web,PayPal,Completado,101459.67
+1014,348,,2025-02-27,Web,Tarjeta de crédito,Completado,277105.38
+1015,264,,2026-08-31,App escritorio,Tarjeta de crédito,Completado,231608.43
+1016,61,8,2025-05-06,App escritorio,Tarjeta de crédito,Completado,106080.46
+1017,399,,2026-01-27,App móvil,,Completado,722291.27
+1018,60,,2026-08-04,Web,,Completado,420334.62
+1019,294,,2026-05-07,App escritorio,PayPal,Completado,298708.44
+1020,331,,2025-11-02,Web,Tarjeta de débito,Completado,193365.21
+1021,208,,2025-01-21,App escritorio,Tarjeta de crédito,Completado,894660.92
+1022,386,,2025-07-07,Web,,Completado,626443.45
+1023,229,,2025-05-06,App escritorio,SINPE Móvil,Completado,289867.5
+1024,436,,2025-03-28,App móvil,Tarjeta de débito,Devuelto,251950.7
+1025,217,,2025-01-01,App escritorio,SINPE Móvil,Completado,414498.7
+1026,338,,2025-05-24,App escritorio,SINPE Móvil,Completado,663832.22
+1027,311,,2026-02-23,Web,Tarjeta de débito,Completado,290756.86
+1028,73,14,2025-12-27,Web,SINPE Móvil,Devuelto,415251.04
+1029,66,,2026-03-09,App móvil,Tarjeta de débito,Completado,1167902.27
+1030,205,,2025-10-04,Web,Tarjeta de crédito,Completado,210854.4
+1031,323,,2026-07-26,App móvil,Tarjeta de débito,Completado,261563.7
+1032,215,,2025-11-20,Web,Tarjeta de débito,Devuelto,600157.56
+1033,40,9,2025-06-26,App móvil,SINPE Móvil,Completado,50464.0
+1034,171,,2025-07-12,Web,Tarjeta de débito,Cancelado,136918.96
+1035,194,,2025-05-07,App móvil,PayPal,Completado,368275.78
+1036,49,,2026-08-09,App escritorio,Tarjeta de crédito,Cancelado,525809.56
+1037,88,12,2025-12-01,App escritorio,PayPal,Completado,378751.72
+1038,245,,2025-09-23,Web,Tarjeta de débito,Completado,141659.2
+1039,194,,2025-10-01,App móvil,Tarjeta de débito,Completado,327875.42
+1040,348,,2026-04-14,App móvil,SINPE Móvil,Completado,421708.8
+1041,220,,2026-07-31,App móvil,Tarjeta de crédito,Cancelado,981269.65
+1042,157,,2025-11-17,Web,Tarjeta de crédito,Completado,701800.8
+1043,85,,2025-08-17,App móvil,Tarjeta de crédito,Completado,795110.81
+1044,218,,2025-05-20,App escritorio,Tarjeta de crédito,Completado,1397169.34
+1045,208,4,2025-02-20,App escritorio,Tarjeta de crédito,Completado,111810.8
+1046,311,,2026-02-13,App escritorio,Tarjeta de débito,Completado,554210.76
+1047,39,,2025-05-17,App móvil,Tarjeta de débito,Completado,333230.95
+1048,192,,2026-02-20,App escritorio,Tarjeta de crédito,Cancelado,1293964.75
+1049,149,5,2025-04-14,App escritorio,SINPE Móvil,Completado,430146.24
+1050,330,,2025-02-06,App móvil,Tarjeta de crédito,Devuelto,927957.63
+1051,316,,2026-04-10,,Tarjeta de débito,Completado,284812.08
+1052,206,,2025-04-14,App escritorio,Tarjeta de débito,Completado,256262.36
+1053,211,8,2025-05-05,Web,SINPE Móvil,Completado,71975.83
+1054,154,,2025-07-06,App móvil,PayPal,Completado,17179.73
+1055,83,,2026-08-07,App escritorio,Tarjeta de débito,Completado,1570196.12
+1056,146,7,2025-06-13,Web,PayPal,Completado,1011843.45
+1057,341,,2025-05-02,App escritorio,SINPE Móvil,Completado,155899.1
+1058,385,,2026-02-14,App móvil,Tarjeta de crédito,Completado,555813.12
+1059,406,3,2025-08-06,Web,SINPE Móvil,Completado,495920.13
+1060,220,,2026-08-10,App móvil,PayPal,Completado,376349.4
+1061,127,,2026-08-04,Web,Tarjeta de débito,Completado,282754.48
+1062,342,,2025-09-11,Web,Tarjeta de débito,Completado,895753.2
+1063,97,,2026-08-29,Web,Tarjeta de crédito,Completado,804488.58
+1064,141,,2025-08-11,Web,PayPal,Completado,165717.23
+1065,209,,2025-08-25,Web,Tarjeta de crédito,Completado,560446.16
+1066,156,6,2025-01-29,Web,Tarjeta de crédito,Devuelto,817209.56
+1067,94,,2026-04-30,App móvil,Tarjeta de crédito,Completado,34088.29
+1068,221,8,2025-05-06,App escritorio,,Completado,158488.68
+1069,283,,2026-05-23,App móvil,SINPE Móvil,Completado,52018.55
+1070,122,,2025-11-26,Web,Tarjeta de crédito,Completado,629682.6
+1071,22,,2026-07-30,App móvil,Tarjeta de crédito,Completado,665151.15
+1072,280,,2025-11-05,Web,Tarjeta de débito,Completado,128910.14
+1073,23,,2026-08-03,App escritorio,SINPE Móvil,Completado,228725.26
+1074,230,,2025-05-01,App móvil,Tarjeta de crédito,Cancelado,104240.52
+1075,86,,2025-05-13,Web,Tarjeta de débito,Completado,1310371.44
+1076,380,,2026-05-22,Web,PayPal,Completado,1147258.73
+1077,288,,2026-05-09,Web,Tarjeta de débito,Completado,53549.48
+1078,304,,2026-07-21,App escritorio,Tarjeta de débito,Completado,271185.45
+1079,152,,2026-06-19,App escritorio,Tarjeta de crédito,Completado,1039368.72
+1080,328,5,2025-04-12,App escritorio,Tarjeta de débito,Completado,39367.03
+1081,274,11,2025-11-26,App móvil,SINPE Móvil,Completado,61240.52
+1082,370,10,2025-09-14,Web,Tarjeta de débito,Completado,1202255.7
+1083,375,,2026-03-04,,Tarjeta de crédito,Completado,1444747.52
+1084,370,,2026-01-27,App escritorio,Tarjeta de débito,Devuelto,106460.38
+1085,419,,2025-11-29,App móvil,Tarjeta de débito,Completado,120844.35
+1086,374,,2026-01-13,App móvil,Tarjeta de débito,Completado,525117.62
+1087,418,,2025-07-13,Web,Tarjeta de crédito,Completado,740484.09
+1088,159,,2026-07-22,Web,Tarjeta de crédito,Completado,691532.45
+1089,219,11,2025-11-27,App escritorio,Tarjeta de crédito,Completado,211318.78
+1090,309,11,2025-11-24,,Tarjeta de crédito,Completado,44352.21
+1091,68,3,2025-08-05,Web,Tarjeta de crédito,Completado,575418.65
+1092,406,12,2025-12-02,Web,PayPal,Cancelado,94963.54
+1093,418,6,2025-02-01,App escritorio,Tarjeta de crédito,Completado,163482.73
+1094,11,,2025-12-02,App móvil,Tarjeta de débito,Completado,394148.1
+1095,13,7,2025-06-11,App escritorio,Tarjeta de crédito,Completado,23083.5
+1096,252,2,2025-02-10,App móvil,SINPE Móvil,Completado,519554.52
+1097,61,,2025-03-28,Web,SINPE Móvil,Cancelado,112921.84
+1098,308,7,2025-06-11,App escritorio,SINPE Móvil,Cancelado,544520.92
+1099,449,8,2025-05-07,App escritorio,Tarjeta de crédito,Completado,238094.71
+1100,442,,2025-06-02,Web,PayPal,Completado,320566.9
+1101,418,10,2025-09-16,Web,Tarjeta de débito,Devuelto,551163.16
+1102,94,,2026-07-16,App escritorio,SINPE Móvil,Completado,171085.72
+1103,71,,2025-11-19,App escritorio,Tarjeta de débito,Completado,419290.5
+1104,197,12,2025-12-02,App escritorio,Tarjeta de crédito,Completado,245241.66
+1105,121,,2025-07-28,,Tarjeta de débito,Devuelto,40202.34
+1106,57,12,2025-12-02,Web,Tarjeta de débito,Completado,105481.89
+1107,428,,2026-05-21,Web,Tarjeta de crédito,Completado,912063.53
+1108,357,,2026-01-22,App móvil,Tarjeta de crédito,Completado,1363548.02
+1109,340,,2026-05-04,Web,Tarjeta de débito,Completado,290765.26
+1110,41,1,2025-01-18,App escritorio,SINPE Móvil,Completado,148953.38
+1111,241,,2025-12-12,Web,Tarjeta de débito,Completado,210304.14
+1112,31,,2025-02-02,Web,,Completado,268293.48
+1113,427,,2026-03-23,App escritorio,Tarjeta de débito,Completado,991212.64
+1114,217,,2025-10-06,Web,PayPal,Devuelto,1079293.1
+1115,317,14,2025-12-27,App escritorio,PayPal,Completado,205584.85
+1116,245,11,2025-11-27,App móvil,Tarjeta de débito,Completado,59386.55
+1117,139,2,2025-02-12,Web,Tarjeta de débito,Completado,28959.03
+1118,278,4,2025-02-20,App escritorio,Tarjeta de crédito,Completado,425696.72
+1119,124,10,2025-09-10,Web,Tarjeta de crédito,Completado,297930.85
+1120,159,,2026-08-14,App escritorio,PayPal,Completado,64874.14
+1121,372,,2025-05-13,App móvil,Tarjeta de crédito,Completado,551857.64
+1122,258,,2025-06-03,App móvil,Tarjeta de crédito,Completado,297105.14
+1123,149,11,2025-11-27,App escritorio,Tarjeta de débito,Completado,131383.65
+1124,414,,2025-06-13,App escritorio,SINPE Móvil,Completado,518941.88
+1125,230,,2025-12-14,App móvil,PayPal,Completado,50255.07
+1126,123,10,2025-09-11,App móvil,Tarjeta de crédito,Devuelto,186296.94
+1127,74,,2026-07-02,Web,PayPal,Completado,10403.71
+1128,161,5,2025-04-12,App móvil,Tarjeta de débito,Completado,858258.3
+1129,364,,2026-04-10,App móvil,Tarjeta de débito,Devuelto,577332.45
+1130,64,,2026-02-28,App móvil,Tarjeta de débito,Completado,157420.65
+1131,226,,2025-11-18,App escritorio,Tarjeta de crédito,Completado,648427.24
+1132,318,,2025-02-28,App escritorio,,Completado,156936.96
+1133,437,11,2025-11-25,Web,PayPal,Completado,547114.5
+1134,343,14,2025-12-29,App móvil,Tarjeta de débito,Completado,236560.72
+1135,375,14,2025-12-29,App móvil,PayPal,Completado,85914.21
+1136,109,,2025-12-10,App escritorio,PayPal,Completado,300824.98
+1137,75,,2025-11-24,App móvil,SINPE Móvil,Completado,730099.7
+1138,405,,2026-05-01,Web,PayPal,Completado,386014.05
+1139,139,3,2025-08-02,Web,PayPal,Completado,706345.95
+1140,447,,2025-08-08,Web,PayPal,Completado,227868.94
+1141,176,,2025-11-01,App móvil,Tarjeta de débito,Completado,1073474.2
+1142,357,,2026-08-08,,Tarjeta de débito,Completado,139037.58
+1143,40,,2026-08-16,App escritorio,SINPE Móvil,Completado,300635.64
+1144,8,8,2025-05-05,App escritorio,Tarjeta de crédito,Completado,5981.9
+1145,231,,2025-09-28,App escritorio,Tarjeta de débito,Completado,157420.65
+1146,382,,2026-05-14,App escritorio,SINPE Móvil,Completado,972543.12
+1147,108,,2026-08-14,App móvil,,Devuelto,613109.36
+1148,158,,2025-05-08,App móvil,SINPE Móvil,Completado,279957.61
+1149,181,,2026-03-13,Web,PayPal,Completado,985705.08
+1150,220,,2026-05-08,App móvil,PayPal,Completado,183512.75
+1151,325,10,2025-09-11,Web,Tarjeta de crédito,Devuelto,60438.24
+1152,316,,2026-01-01,App escritorio,PayPal,Completado,967725.21
+1153,258,,2025-02-03,Web,PayPal,Completado,251658.24
+1154,283,,2026-06-09,App móvil,PayPal,Cancelado,566788.59
+1155,212,,2026-08-18,Web,SINPE Móvil,Completado,320324.88
+1156,338,14,2025-12-29,,Tarjeta de crédito,Completado,110955.0
+1157,8,13,2025-12-16,App escritorio,SINPE Móvil,Completado,790312.35
+1158,88,,2026-03-20,Web,PayPal,Completado,889000.89
+1159,425,10,2025-09-16,App escritorio,SINPE Móvil,Completado,1004384.99
+1160,265,4,2025-02-23,Web,PayPal,Completado,137158.41
+1161,432,,2025-09-24,App móvil,Tarjeta de crédito,Completado,208819.0
+1162,14,,2026-05-24,Web,Tarjeta de crédito,Completado,461598.1
+1163,381,,2026-05-02,Web,Tarjeta de débito,Completado,1243245.52
+1164,153,14,2025-12-27,App móvil,Tarjeta de crédito,Completado,178734.2
+1165,141,9,2025-07-05,Web,Tarjeta de crédito,Completado,49838.25
+1166,55,5,2025-04-12,App móvil,Tarjeta de débito,Completado,679893.34
+1167,201,13,2025-12-05,App escritorio,PayPal,Completado,243772.69
+1168,193,,2026-06-22,Web,Tarjeta de crédito,Completado,1390331.0
+1169,61,,2025-12-22,App escritorio,,Completado,524041.27
+1170,268,,2026-05-26,,,Completado,671488.84
+1171,263,,2026-04-12,Web,,Cancelado,266109.45
+1172,71,7,2025-06-12,Web,SINPE Móvil,Completado,42331.53
+1173,240,,2026-05-23,Web,Tarjeta de débito,Completado,584079.76
+1174,352,,2025-10-15,App escritorio,Tarjeta de débito,Devuelto,494903.2
+1175,370,,2026-04-02,App móvil,PayPal,Completado,1544093.95
+1176,220,11,2025-11-26,App móvil,Tarjeta de crédito,Cancelado,197300.36
+1177,262,11,2025-11-26,App escritorio,Tarjeta de crédito,Completado,535018.52
+1178,59,6,2025-01-31,Web,SINPE Móvil,Completado,540253.64
+1179,191,10,2025-09-11,App escritorio,PayPal,Completado,241278.24
+1180,291,,2025-08-27,App escritorio,Tarjeta de débito,Completado,551829.78
+1181,53,,2025-03-18,App escritorio,SINPE Móvil,Completado,253259.76
+1182,417,,2026-08-30,Web,PayPal,Completado,538183.13
+1183,62,,2026-06-17,Web,SINPE Móvil,Completado,110871.24
+1184,10,,2026-08-05,App móvil,PayPal,Devuelto,187335.03
+1185,19,,2026-08-07,Web,Tarjeta de crédito,Completado,698645.6
+1186,425,,2025-11-10,App móvil,SINPE Móvil,Completado,225832.83
+1187,253,,2026-06-25,App móvil,Tarjeta de crédito,Completado,201011.7
+1188,432,,2025-04-16,Web,SINPE Móvil,Completado,989356.47
+1189,442,,2026-03-23,App escritorio,SINPE Móvil,Completado,51539.19
+1190,418,,2025-01-06,App móvil,Tarjeta de crédito,Devuelto,309942.02
+1191,57,12,2025-12-01,App móvil,Tarjeta de débito,Completado,525671.8
+1192,71,,2025-07-13,App escritorio,PayPal,Completado,573075.75
+1193,327,,2026-07-23,App móvil,SINPE Móvil,Completado,10403.71
+1194,165,,2026-05-10,App móvil,SINPE Móvil,Completado,251560.48
+1195,286,,2025-12-08,Web,Tarjeta de crédito,Completado,417508.93
+1196,254,1,2025-01-11,App móvil,Tarjeta de débito,Completado,411401.35
+1197,417,,2026-09-01,App móvil,Tarjeta de débito,Completado,305382.07
+1198,435,,2025-05-28,App móvil,Tarjeta de débito,Completado,277586.45
+1199,400,,2025-03-12,App móvil,Tarjeta de crédito,Completado,155899.1
+1200,76,,2025-04-20,App móvil,Tarjeta de crédito,Completado,320324.88
+1201,244,,2026-04-09,App escritorio,PayPal,Completado,420381.35
+1202,109,13,2025-12-18,App móvil,Tarjeta de crédito,Completado,906408.09
+1203,333,,2026-03-09,Web,PayPal,Completado,34502.12
+1204,266,,2025-02-21,Web,Tarjeta de crédito,Completado,110107.65
+1205,295,2,2025-02-08,App escritorio,PayPal,Completado,768875.36
+1206,202,12,2025-12-02,Web,SINPE Móvil,Completado,100076.1
+1207,362,,2025-01-04,App escritorio,SINPE Móvil,Completado,320790.06
+1208,437,,2025-11-14,Web,PayPal,Completado,228171.35
+1209,73,,2026-05-01,,Tarjeta de crédito,Completado,279527.0
+1210,88,,2025-08-16,App escritorio,,Completado,642175.45
+1211,448,,2026-07-08,,SINPE Móvil,Completado,112921.84
+1212,428,,2026-06-11,Web,SINPE Móvil,Completado,229073.72
+1213,232,,2025-12-26,App móvil,PayPal,Devuelto,341896.92
+1214,7,,2025-11-05,App escritorio,PayPal,Completado,277624.77
+1215,58,,2026-06-23,,Tarjeta de débito,Completado,494061.57
+1216,338,,2026-01-01,App escritorio,PayPal,Completado,459098.73
+1217,185,2,2025-02-10,Web,PayPal,Cancelado,580208.46
+1218,449,,2025-09-29,App móvil,PayPal,Cancelado,243786.84
+1219,142,1,2025-01-15,App móvil,SINPE Móvil,Completado,281377.86
+1220,148,1,2025-01-20,App escritorio,SINPE Móvil,Cancelado,603247.77
+1221,320,,2026-01-14,App móvil,,Completado,454630.53
+1222,21,,2026-08-29,Web,Tarjeta de crédito,Completado,162524.56
+1223,26,6,2025-01-29,App escritorio,Tarjeta de crédito,Completado,68383.7
+1224,366,,2026-08-26,Web,Tarjeta de crédito,Completado,160285.94
+1225,243,,2025-09-12,App móvil,Tarjeta de crédito,Completado,745149.09
+1226,134,,2026-06-01,App escritorio,Tarjeta de débito,Completado,440443.47
+1227,350,,2026-07-31,App móvil,SINPE Móvil,Completado,305917.36
+1228,291,,2026-04-18,App móvil,PayPal,Completado,279527.0
+1229,356,11,2025-11-29,App móvil,PayPal,Completado,443195.5
+1230,237,9,2025-06-25,Web,SINPE Móvil,Devuelto,236898.2
+1231,403,9,2025-06-30,App escritorio,Tarjeta de crédito,Completado,255674.52
+1232,387,,2025-11-30,,PayPal,Completado,17091.12
+1233,430,10,2025-09-14,App móvil,SINPE Móvil,Completado,384901.08
+1234,290,,2025-12-06,App escritorio,Tarjeta de crédito,Cancelado,67909.6
+1235,360,3,2025-08-09,Web,Tarjeta de débito,Completado,326555.16
+1236,155,,2026-04-18,Web,Tarjeta de crédito,Completado,620979.56
+1237,79,,2026-07-03,Web,PayPal,Completado,758847.5
+1238,201,2,2025-02-11,Web,SINPE Móvil,Completado,296656.56
+1239,421,,2026-03-26,App móvil,Tarjeta de crédito,Cancelado,572615.77
+1240,95,,2026-08-25,App escritorio,PayPal,Completado,128131.18
+1241,246,11,2025-11-24,App escritorio,PayPal,Devuelto,227754.3
+1242,358,,2026-04-21,Web,Tarjeta de crédito,Completado,66539.35
+1243,289,,2026-07-23,App escritorio,Tarjeta de crédito,Completado,592939.76
+1244,182,,2026-04-25,Web,SINPE Móvil,Cancelado,998155.75
+1245,257,,2026-05-31,App escritorio,Tarjeta de crédito,Completado,597481.1
+1246,90,,2026-01-02,App móvil,Tarjeta de débito,Completado,279272.2
+1247,143,,2026-07-27,App escritorio,PayPal,Completado,943684.14
+1248,311,,2026-05-28,App escritorio,Tarjeta de débito,Completado,691532.45
+1249,358,10,2025-09-15,Web,Tarjeta de débito,Completado,753769.77
+1250,119,2,2025-02-14,Web,Tarjeta de débito,Devuelto,976456.13
+1251,54,,2026-08-27,App móvil,Tarjeta de crédito,Completado,12914.32
+1252,314,1,2025-01-07,App escritorio,Tarjeta de débito,Completado,236983.47
+1253,165,8,2025-05-06,App escritorio,SINPE Móvil,Completado,261131.4
+1254,252,,2025-10-20,App móvil,Tarjeta de débito,Completado,548780.56
+1255,45,,2025-04-09,Web,PayPal,Completado,345562.4
+1256,291,,2025-03-15,App escritorio,PayPal,Completado,610342.81
+1257,98,,2026-05-28,App escritorio,Tarjeta de crédito,Completado,1331216.04
+1258,225,,2026-01-21,Web,SINPE Móvil,Cancelado,1200894.25
+1259,52,4,2025-02-21,Web,SINPE Móvil,Completado,41231.34
+1260,425,12,2025-12-02,App móvil,Tarjeta de débito,Completado,360398.0
+1261,437,,2026-08-09,App escritorio,Tarjeta de crédito,Completado,160162.44
+1262,299,,2025-09-27,App móvil,SINPE Móvil,Completado,700557.7
+1263,392,4,2025-03-09,App escritorio,Tarjeta de crédito,Completado,164467.88
+1264,121,,2026-08-01,Web,Tarjeta de crédito,Cancelado,225832.83
+1265,214,,2026-01-14,Web,Tarjeta de crédito,Cancelado,853816.9
+1266,54,,2026-08-30,App móvil,Tarjeta de débito,Completado,683166.75
+1267,11,,2025-10-24,App escritorio,PayPal,Completado,593694.72
+1268,350,,2026-07-01,App móvil,PayPal,Completado,1097855.11
+1269,360,,2025-05-22,App escritorio,SINPE Móvil,Completado,554227.04
+1270,181,7,2025-06-10,Web,Tarjeta de crédito,Completado,285230.44
+1271,411,12,2025-12-01,Web,SINPE Móvil,Completado,253341.4
+1272,23,,2026-08-15,App móvil,PayPal,Completado,441048.07
+1273,246,,2025-03-20,Web,SINPE Móvil,Completado,576927.01
+1274,440,13,2025-12-14,App móvil,Tarjeta de débito,Devuelto,322507.4
+1275,270,,2026-02-21,Web,PayPal,Completado,624083.79
+1276,362,,2026-05-13,Web,Tarjeta de débito,Completado,884979.64
+1277,157,,2025-08-04,Web,Tarjeta de débito,Completado,869136.0
+1278,358,,2026-04-10,,SINPE Móvil,Devuelto,773946.86
+1279,143,,2026-06-11,App móvil,PayPal,Completado,83312.91
+1280,254,7,2025-06-13,App móvil,PayPal,Completado,152162.44
+1281,273,11,2025-11-24,Web,SINPE Móvil,Completado,204202.46
+1282,425,,2025-08-15,App escritorio,PayPal,Completado,164809.2
+1283,401,,2026-06-15,App escritorio,SINPE Móvil,Completado,760923.95
+1284,440,,2026-07-29,App escritorio,SINPE Móvil,Completado,30770.72
+1285,84,,2026-04-24,Web,SINPE Móvil,Completado,368715.35
+1286,410,,2025-10-08,App escritorio,PayPal,Completado,324819.56
+1287,20,,2026-01-06,App escritorio,Tarjeta de crédito,Completado,276116.66
+1288,64,13,2025-12-15,App móvil,PayPal,Completado,748931.27
+1289,5,,2026-08-06,Web,Tarjeta de crédito,Completado,162106.81
+1290,142,,2026-07-19,Web,SINPE Móvil,Completado,697674.27
+1291,133,,2026-07-09,App escritorio,Tarjeta de débito,Completado,445252.28
+1292,59,,2025-07-08,App escritorio,Tarjeta de débito,Completado,190608.24
+1293,32,,2025-09-23,,SINPE Móvil,Devuelto,50390.14
+1294,277,,2025-08-29,App móvil,Tarjeta de crédito,Completado,790688.88
+1295,122,13,2025-12-16,Web,SINPE Móvil,Completado,325317.91
+1296,74,,2026-08-09,App móvil,SINPE Móvil,Completado,541091.02
+1297,241,,2025-10-29,Web,Tarjeta de débito,Completado,898186.62
+1298,303,10,2025-09-13,App escritorio,SINPE Móvil,Completado,446231.8
+1299,111,,2026-02-03,App móvil,Tarjeta de crédito,Completado,331023.14
+1300,40,,2025-08-18,App escritorio,PayPal,Completado,139959.21
+1301,276,,2026-07-31,App escritorio,PayPal,Cancelado,532120.92
+1302,163,,2026-08-26,Web,SINPE Móvil,Completado,429885.78
+1303,119,,2025-04-29,App móvil,SINPE Móvil,Completado,243614.67
+1304,287,,2026-05-13,App móvil,Tarjeta de débito,Completado,28331.84
+1305,292,,2025-05-09,App móvil,Tarjeta de débito,Cancelado,167719.88
+1306,311,,2026-03-15,App móvil,Tarjeta de débito,Completado,526350.6
+1307,295,,2025-07-22,Web,PayPal,Cancelado,304369.58
+1308,135,,2026-04-27,Web,Tarjeta de crédito,Completado,162106.81
+1309,354,,2026-08-09,App móvil,SINPE Móvil,Completado,742762.85
+1310,66,,2026-07-25,App móvil,SINPE Móvil,Completado,801591.78
+1311,303,,2025-04-21,App escritorio,PayPal,Devuelto,505751.31
+1312,210,,2026-03-23,Web,Tarjeta de crédito,Completado,136244.22
+1313,78,,2026-08-31,App móvil,PayPal,Completado,314626.7
+1314,91,,2026-08-26,Web,SINPE Móvil,Completado,382888.22
+1315,25,,2026-06-22,App móvil,PayPal,Completado,220864.92
+1316,164,,2026-05-28,App escritorio,SINPE Móvil,Completado,689316.84
+1317,295,,2025-11-18,Web,PayPal,Completado,256981.05
+1318,225,3,2025-08-05,App escritorio,Tarjeta de débito,Devuelto,421931.24
+1319,342,7,2025-06-11,Web,,Completado,211714.62
+1320,21,,2026-08-16,App móvil,Tarjeta de crédito,Completado,615963.45
+1321,190,14,2025-12-31,App móvil,Tarjeta de crédito,Completado,1179488.24
+1322,367,,2025-05-03,App móvil,Tarjeta de débito,Completado,758847.5
+1323,143,,2026-05-18,App escritorio,Tarjeta de crédito,Devuelto,532120.92
+1324,168,6,2025-01-29,App escritorio,SINPE Móvil,Completado,308344.25
+1325,20,,2026-06-18,App escritorio,Tarjeta de crédito,Completado,140202.76
+1326,325,,2025-09-09,Web,SINPE Móvil,Completado,835847.05
+1327,241,14,2025-12-27,Web,Tarjeta de crédito,Completado,103128.12
+1328,265,,2025-08-08,App escritorio,Tarjeta de débito,Completado,461865.96
+1329,20,,2025-09-27,Web,PayPal,Completado,46331.53
+1330,272,,2025-07-04,App móvil,PayPal,Cancelado,296219.6
+1331,408,,2026-01-01,Web,SINPE Móvil,Completado,35770.69
+1332,215,,2025-11-30,Web,SINPE Móvil,Completado,257878.62
+1333,339,12,2025-12-02,App móvil,PayPal,Completado,196191.68
+1334,308,,2025-08-29,Web,PayPal,Completado,441931.24
+1335,32,,2025-11-27,App móvil,PayPal,Completado,282790.95
+1336,205,3,2025-08-05,App escritorio,SINPE Móvil,Completado,42652.06
+1337,230,,2026-08-10,App escritorio,SINPE Móvil,Cancelado,183512.75
+1338,67,,2025-01-21,,SINPE Móvil,Devuelto,613614.28
+1339,181,,2026-07-21,Web,Tarjeta de débito,Completado,154971.01
+1340,81,,2026-02-10,Web,SINPE Móvil,Cancelado,348176.83
+1341,212,,2026-08-08,Web,Tarjeta de crédito,Devuelto,1017783.33
+1342,257,,2026-05-12,Web,Tarjeta de débito,Completado,546255.31
+1343,18,10,2025-09-18,App escritorio,Tarjeta de crédito,Completado,273851.55
+1344,40,12,2025-12-02,App escritorio,Tarjeta de débito,Completado,105703.36
+1345,49,,2026-02-05,App móvil,PayPal,Completado,222581.55
+1346,263,,2026-05-04,App móvil,PayPal,Completado,83312.91
+1347,193,5,2025-04-13,App móvil,Tarjeta de débito,Devuelto,228277.18
+1348,196,12,2025-12-02,App escritorio,Tarjeta de débito,Devuelto,549830.16
+1349,296,,2026-02-11,App móvil,SINPE Móvil,Completado,348550.8
+1350,171,7,2025-06-10,App móvil,Tarjeta de crédito,Completado,893235.68
+1351,73,,2026-04-30,Web,PayPal,Completado,75988.56
+1352,130,,2026-06-18,App móvil,PayPal,Completado,1183574.82
+1353,447,12,2025-12-01,App escritorio,Tarjeta de débito,Completado,202353.6
+1354,165,,2026-05-10,App escritorio,Tarjeta de crédito,Completado,257820.28
+1355,218,,2026-01-20,,Tarjeta de crédito,Completado,293888.22
+1356,86,14,2025-12-26,Web,PayPal,Completado,870710.67
+1357,72,,2026-07-15,,SINPE Móvil,Completado,15385.36
+1358,369,,2025-10-05,App móvil,Tarjeta de débito,Completado,140202.76
+1359,73,11,2025-11-25,App móvil,SINPE Móvil,Completado,52263.04
+1360,242,,2025-12-05,Web,PayPal,Cancelado,1184393.18
+1361,6,,2026-08-21,Web,Tarjeta de débito,Completado,297135.72
+1362,103,,2026-07-05,App escritorio,Tarjeta de débito,Completado,689822.05
+1363,35,,2025-10-12,,SINPE Móvil,Completado,128373.24
+1364,421,,2026-03-13,App escritorio,SINPE Móvil,Completado,1231315.57
+1365,288,,2025-10-18,App escritorio,Tarjeta de débito,Completado,567583.08
+1366,135,,2025-05-10,App móvil,SINPE Móvil,Completado,810534.05
+1367,414,,2026-05-19,,Tarjeta de débito,Completado,62445.01
+1368,47,,2025-05-31,Web,Tarjeta de crédito,Completado,230960.39
+1369,71,,2026-06-06,App móvil,Tarjeta de crédito,Completado,181106.95
+1370,124,,2026-01-22,App móvil,SINPE Móvil,Completado,717956.78
+1371,272,10,2025-09-13,App móvil,PayPal,Devuelto,239023.83
+1372,287,,2026-03-17,App móvil,Tarjeta de débito,Completado,950486.13
+1373,13,,2026-04-23,App móvil,Tarjeta de débito,Completado,214785.52
+1374,196,,2026-08-16,App móvil,Tarjeta de crédito,Devuelto,689822.05
+1375,301,2,2025-02-12,Web,Tarjeta de crédito,Cancelado,180910.55
+1376,332,8,2025-05-06,App móvil,Tarjeta de crédito,Completado,35977.35
+1377,293,,2026-07-30,App escritorio,PayPal,Completado,1145353.81
+1378,89,,2026-07-13,Web,Tarjeta de débito,Completado,455946.27
+1379,362,,2025-05-15,Web,Tarjeta de crédito,Completado,1074468.3
+1380,161,9,2025-06-29,App escritorio,SINPE Móvil,Devuelto,148258.88
+1381,429,,2026-02-07,App escritorio,SINPE Móvil,Cancelado,377340.72
+1382,265,11,2025-11-27,Web,Tarjeta de débito,Completado,13943.24
+1383,374,3,2025-08-08,App escritorio,Tarjeta de débito,Completado,463676.53
+1384,326,,2025-01-04,Web,Tarjeta de crédito,Completado,45015.49
+1385,290,,2025-04-01,App escritorio,SINPE Móvil,Completado,619456.83
+1386,303,,2025-01-21,Web,PayPal,Completado,485150.4
+1387,42,,2025-09-10,Web,Tarjeta de débito,Completado,187198.34
+1388,159,,2026-08-05,App móvil,Tarjeta de débito,Completado,309776.0
+1389,140,,2025-07-01,App móvil,PayPal,Devuelto,393039.48
+1390,182,,2025-12-24,App escritorio,Tarjeta de débito,Completado,222057.42
+1391,19,,2026-02-17,Web,PayPal,Completado,40281.45
+1392,178,,2025-10-23,App escritorio,SINPE Móvil,Completado,91363.93
+1393,47,,2025-08-04,Web,Tarjeta de débito,Completado,1036548.2
+1394,244,10,2025-09-15,App escritorio,SINPE Móvil,Completado,653949.94
+1395,360,6,2025-01-25,App móvil,Tarjeta de crédito,Completado,122353.08
+1396,96,,2026-05-02,Web,PayPal,Completado,700659.54
+1397,304,,2026-06-11,Web,SINPE Móvil,Completado,823756.59
+1398,308,11,2025-11-27,Web,Tarjeta de crédito,Completado,809766.5
+1399,216,,2025-10-03,Web,Tarjeta de débito,Devuelto,96171.76
+1400,154,,2026-06-21,Web,SINPE Móvil,Completado,231129.81
+1401,404,,2025-04-03,App móvil,Tarjeta de débito,Completado,360184.36
+1402,236,3,2025-08-04,Web,Tarjeta de débito,Cancelado,485337.72
+1403,224,4,2025-02-24,App móvil,,Completado,410797.74
+1404,82,8,2025-05-07,App móvil,PayPal,Completado,350746.03
+1405,362,2,2025-02-13,Web,SINPE Móvil,Completado,1010150.79
+1406,145,,2026-04-06,App móvil,Tarjeta de crédito,Completado,281046.64
+1407,114,,2025-07-02,App móvil,Tarjeta de crédito,Completado,201407.25
+1408,313,,2026-03-09,Web,Tarjeta de crédito,Cancelado,322178.28
+1409,109,5,2025-04-16,Web,PayPal,Completado,576024.56
+1410,346,,2025-02-05,Web,Tarjeta de crédito,Completado,390688.72
+1411,239,,2026-01-24,App móvil,Tarjeta de crédito,Completado,235629.44
+1412,83,,2026-06-24,Web,PayPal,Completado,451687.36
+1413,217,,2025-11-07,Web,PayPal,Completado,692763.45
+1414,258,,2026-04-30,App móvil,Tarjeta de débito,Completado,279458.24
+1415,218,,2026-01-28,Web,SINPE Móvil,Cancelado,433817.12
+1416,102,,2026-04-11,Web,PayPal,Completado,314987.16
+1417,236,,2026-01-14,App móvil,Tarjeta de crédito,Completado,292230.48
+1418,278,5,2025-04-15,App móvil,Tarjeta de crédito,Completado,1163936.07
+1419,183,,2026-07-26,Web,Tarjeta de débito,Completado,162180.84
+1420,373,8,2025-05-06,App móvil,Tarjeta de débito,Cancelado,300858.4
+1421,423,,2026-06-21,App móvil,Tarjeta de débito,Completado,230932.98
+1422,312,,2025-04-14,Web,SINPE Móvil,Completado,139729.12
+1423,217,,2025-07-08,App escritorio,Tarjeta de crédito,Devuelto,1880692.85
+1424,429,,2025-07-17,App móvil,Tarjeta de débito,Completado,1019410.78
+1425,356,,2026-01-19,App móvil,Tarjeta de débito,Completado,369205.09
+1426,142,,2025-02-16,App escritorio,Tarjeta de crédito,Completado,503352.84
+1427,209,13,2025-12-18,App móvil,SINPE Móvil,Completado,256312.96
+1428,50,3,2025-08-14,App móvil,PayPal,Completado,94062.04
+1429,302,,2026-08-30,App escritorio,,Completado,489561.85
+1430,175,14,2025-12-29,App móvil,Tarjeta de débito,Completado,739109.6
+1431,345,,2026-02-17,Web,SINPE Móvil,Completado,213311.43
+1432,43,,2026-08-24,App móvil,PayPal,Completado,68316.62
+1433,16,13,2025-12-10,App móvil,Tarjeta de crédito,Completado,932843.17
+1434,385,,2026-07-24,App móvil,Tarjeta de débito,Completado,290116.08
+1435,194,,2025-05-07,Web,Tarjeta de débito,Completado,447416.05
+1436,443,13,2025-12-17,Web,SINPE Móvil,Completado,250324.55
+1437,164,,2026-07-29,App escritorio,SINPE Móvil,Completado,242129.14
+1438,258,,2026-02-06,App móvil,PayPal,Completado,57031.02
+1439,81,,2025-07-01,,PayPal,Completado,286507.36
+1440,336,,2026-04-22,App móvil,Tarjeta de crédito,Completado,554220.94
+1441,317,13,2025-12-20,Web,PayPal,Devuelto,355716.45
+1442,351,6,2025-01-25,App escritorio,Tarjeta de débito,Completado,158708.33
+1443,436,,2026-04-14,Web,Tarjeta de débito,Completado,210234.72
+1444,166,2,2025-02-07,Web,PayPal,Completado,914934.31
+1445,124,,2026-04-18,App escritorio,Tarjeta de débito,Completado,400376.08
+1446,126,,2026-04-22,App escritorio,PayPal,Completado,526061.96
+1447,442,,2026-03-04,App escritorio,Tarjeta de crédito,Devuelto,334872.48
+1448,225,,2025-03-03,App escritorio,SINPE Móvil,Completado,213771.08
+1449,205,,2026-02-12,Web,SINPE Móvil,Completado,106040.59
+1450,389,,2025-04-25,App escritorio,Tarjeta de débito,Completado,50255.07
+1451,408,,2025-09-28,Web,PayPal,Completado,418369.17
+1452,386,8,2025-05-06,App móvil,SINPE Móvil,Completado,519820.37
+1453,305,3,2025-08-03,,SINPE Móvil,Completado,238211.19
+1454,366,,2026-08-24,App móvil,SINPE Móvil,Completado,84995.52
+1455,80,,2025-05-12,App móvil,Tarjeta de débito,Completado,680386.04
+1456,15,,2026-08-21,App móvil,PayPal,Completado,208819.0
+1457,245,,2025-06-24,App escritorio,SINPE Móvil,Devuelto,320324.88
+1458,268,,2026-08-27,App móvil,PayPal,Completado,514113.1
+1459,8,,2025-03-08,Web,Tarjeta de crédito,Completado,316038.69
+1460,333,8,2025-05-06,Web,Tarjeta de débito,Completado,43711.51
+1461,380,11,2025-11-24,App móvil,SINPE Móvil,Completado,189949.8
+1462,284,,2026-08-12,Web,Tarjeta de débito,Cancelado,808217.14
+1463,126,,2026-05-21,Web,PayPal,Completado,383664.77
+1464,91,10,2025-09-14,Web,Tarjeta de crédito,Completado,254903.8
+1465,68,,2025-07-20,App escritorio,Tarjeta de crédito,Completado,779101.74
+1466,275,,2026-03-11,Web,PayPal,Completado,665467.6
+1467,43,,2026-05-06,App móvil,Tarjeta de crédito,Completado,1533640.98
+1468,298,,2025-10-10,App escritorio,PayPal,Completado,1079946.14
+1469,1,7,2025-06-14,App móvil,SINPE Móvil,Completado,638741.91
+1470,331,14,2025-12-30,App escritorio,PayPal,Completado,548780.55
+1471,58,,2026-03-29,App escritorio,Tarjeta de débito,Completado,517173.82
+1472,92,,2026-08-30,App móvil,Tarjeta de débito,Completado,524397.65
+1473,100,,2025-08-26,App móvil,PayPal,Completado,1437737.78
+1474,53,,2025-08-04,Web,PayPal,Completado,129735.47
+1475,403,3,2025-08-10,App escritorio,PayPal,Completado,315593.16
+1476,400,,2025-08-23,App móvil,SINPE Móvil,Devuelto,327823.83
+1477,171,,2026-06-27,App móvil,PayPal,Completado,99684.72
+1478,3,,2026-02-18,App escritorio,PayPal,Completado,565747.59
+1479,393,13,2025-12-11,App móvil,Tarjeta de crédito,Completado,311617.43
+1480,165,,2026-01-27,Web,PayPal,Completado,1003577.46
+1481,439,,2026-05-13,App móvil,PayPal,Completado,166507.24
+1482,24,,2026-07-07,App móvil,PayPal,Completado,110872.11
+1483,31,11,2025-11-26,App móvil,Tarjeta de débito,Completado,300760.15
+1484,384,14,2025-12-27,App escritorio,Tarjeta de crédito,Cancelado,8706.21
+1485,225,10,2025-09-18,App escritorio,Tarjeta de crédito,Completado,114024.72
+1486,72,,2025-03-11,App escritorio,SINPE Móvil,Cancelado,1003658.68
+1487,396,,2025-08-08,App móvil,Tarjeta de débito,Completado,115887.78
+1488,347,,2025-08-22,Web,PayPal,Completado,464913.03
+1489,219,,2026-05-14,Web,SINPE Móvil,Completado,557162.75
+1490,9,,2025-04-17,App móvil,PayPal,Devuelto,526350.6
+1491,145,,2026-07-22,Web,Tarjeta de crédito,Completado,77881.76
+1492,273,7,2025-06-14,Web,PayPal,Cancelado,534488.95
+1493,419,8,2025-05-07,Web,SINPE Móvil,Completado,251243.08
+1494,233,,2026-03-19,App móvil,,Cancelado,893152.26
+1495,425,,2025-01-14,App móvil,SINPE Móvil,Completado,68234.19
+1496,273,,2026-04-29,App móvil,Tarjeta de débito,Completado,736230.77
+1497,97,,2025-07-31,App escritorio,Tarjeta de crédito,Completado,338021.68
+1498,400,6,2025-01-26,Web,Tarjeta de débito,Completado,334801.2
+1499,156,5,2025-04-13,App móvil,,Devuelto,35308.82
+1500,450,,2026-02-26,Web,Tarjeta de débito,Completado,1106119.98
+1501,195,8,2025-05-06,App escritorio,Tarjeta de crédito,Completado,56394.02
+1502,90,,2026-08-22,Web,PayPal,Completado,110482.81
+1503,380,,2025-11-21,Web,SINPE Móvil,Completado,1287778.82
+1504,245,2,2025-02-14,App móvil,Tarjeta de crédito,Completado,213026.54
+1505,182,,2025-11-14,App escritorio,Tarjeta de crédito,Completado,173032.5
+1506,334,,2026-04-24,,SINPE Móvil,Cancelado,292230.48
+1507,24,,2026-06-01,,Tarjeta de débito,Completado,731345.95
+1508,356,,2025-02-09,App escritorio,SINPE Móvil,Completado,314355.77
+1509,317,,2026-02-25,App escritorio,Tarjeta de débito,Completado,274390.28
+1510,187,,2025-04-23,,PayPal,Completado,732513.15
+1511,321,,2026-05-04,,,Completado,303885.68
+1512,15,,2025-02-05,App móvil,PayPal,Completado,419499.3
+1513,391,,2026-07-20,App móvil,Tarjeta de crédito,Completado,138790.22
+1514,215,,2025-04-26,App móvil,PayPal,Devuelto,308373.83
+1515,69,,2025-01-01,App móvil,SINPE Móvil,Completado,151779.7
+1516,315,,2025-12-05,App escritorio,Tarjeta de débito,Completado,1188792.49
+1517,264,3,2025-08-04,App escritorio,Tarjeta de crédito,Completado,195657.96
+1518,128,3,2025-08-12,App móvil,SINPE Móvil,Completado,572939.76
+1519,390,,2026-08-24,App escritorio,Tarjeta de crédito,Completado,92663.06
+1520,383,,2026-02-10,Web,,Completado,513870.18
+1521,325,13,2025-12-12,App escritorio,SINPE Móvil,Completado,35576.1
+1522,97,,2026-08-15,App móvil,PayPal,Completado,161925.96
+1523,61,,2026-06-11,Web,PayPal,Cancelado,329534.4
+1524,396,,2025-04-09,App escritorio,SINPE Móvil,Completado,382480.58
+1525,219,,2026-07-11,App móvil,Tarjeta de crédito,Completado,745574.59
+1526,282,,2025-08-02,App móvil,Tarjeta de crédito,Cancelado,829825.4
+1527,444,,2025-10-07,App escritorio,Tarjeta de débito,Completado,15541.75
+1528,398,,2026-07-31,App escritorio,Tarjeta de crédito,Completado,160162.44
+1529,410,,2026-07-07,App escritorio,Tarjeta de débito,Completado,187532.57
+1530,52,,2025-08-20,Web,PayPal,Completado,85468.6
+1531,440,2,2025-02-13,App móvil,PayPal,Completado,378241.58
+1532,165,5,2025-04-10,App escritorio,Tarjeta de crédito,Completado,499394.1
+1533,31,,2025-05-24,Web,Tarjeta de débito,Completado,37994.28
+1534,331,,2026-08-29,Web,SINPE Móvil,Completado,53627.85
+1535,72,,2025-05-07,App escritorio,PayPal,Completado,51396.21
+1536,73,,2025-12-02,App móvil,PayPal,Completado,731529.56
+1537,119,,2025-11-02,App escritorio,Tarjeta de crédito,Completado,208643.08
+1538,387,,2026-03-20,Web,SINPE Móvil,Cancelado,716944.19
+1539,58,,2026-05-31,App escritorio,PayPal,Completado,159690.57
+1540,389,9,2025-06-26,App escritorio,Tarjeta de débito,Completado,340271.71
+1541,446,,2026-05-22,App móvil,Tarjeta de crédito,Completado,50390.14
+1542,443,,2025-10-10,App móvil,SINPE Móvil,Cancelado,294034.02
+1543,183,,2026-05-31,App escritorio,PayPal,Completado,1142226.31
+1544,341,13,2025-12-20,App móvil,PayPal,Completado,627113.97
+1545,22,,2026-06-27,Web,Tarjeta de crédito,Completado,2132755.11
+1546,392,10,2025-09-16,Web,PayPal,Completado,502938.79
+1547,437,,2026-09-01,App escritorio,PayPal,Completado,142345.38
+1548,343,,2026-04-04,,Tarjeta de crédito,Completado,21854.4
+1549,150,,2026-06-20,App móvil,SINPE Móvil,Completado,500137.92
+1550,181,,2025-09-12,App móvil,SINPE Móvil,Completado,904603.33
+1551,394,,2026-04-24,App escritorio,PayPal,Completado,709713.86
+1552,386,5,2025-04-17,App escritorio,Tarjeta de débito,Cancelado,158769.57
+1553,163,,2026-07-27,App móvil,PayPal,Cancelado,1364311.75
+1554,328,7,2025-06-11,App móvil,PayPal,Completado,346217.67
+1555,186,,2026-03-15,App escritorio,SINPE Móvil,Completado,46345.86
+1556,388,,2025-07-02,Web,PayPal,Completado,752062.45
+1557,437,10,2025-09-18,App móvil,SINPE Móvil,Completado,249054.48
+1558,315,,2025-11-28,Web,Tarjeta de débito,Completado,226412.4
+1559,342,,2025-06-15,Web,Tarjeta de débito,Completado,664082.09
+1560,226,,2025-08-10,Web,PayPal,Completado,648427.24
+1561,430,,2026-06-20,App móvil,PayPal,Completado,259470.94
+1562,322,,2026-02-01,App móvil,SINPE Móvil,Completado,816297.03
+1563,221,,2025-08-29,App escritorio,Tarjeta de débito,Completado,1927321.23
+1564,408,,2025-05-12,App escritorio,SINPE Móvil,Completado,787127.12
+1565,54,,2026-08-30,App escritorio,Tarjeta de débito,Completado,50255.07
+1566,239,2,2025-02-14,App móvil,Tarjeta de débito,Completado,61410.78
+1567,12,,2026-07-27,App móvil,Tarjeta de débito,Completado,706395.55
+1568,33,,2025-04-25,App móvil,Tarjeta de crédito,Devuelto,38940.88
+1569,366,,2026-07-19,App móvil,PayPal,Completado,70101.38
+1570,159,,2026-08-07,App escritorio,Tarjeta de débito,Completado,563735.03
+1571,393,,2025-12-18,Web,SINPE Móvil,Cancelado,398277.92
+1572,301,2,2025-02-08,App escritorio,Tarjeta de débito,Completado,106267.95
+1573,428,,2026-07-19,App móvil,PayPal,Cancelado,559877.99
+1574,294,,2026-02-01,App móvil,SINPE Móvil,Completado,266468.67
+1575,94,,2026-07-16,App móvil,Tarjeta de débito,Completado,147850.44
+1576,134,,2025-11-24,Web,Tarjeta de crédito,Completado,308886.36
+1577,269,10,2025-09-10,App móvil,Tarjeta de crédito,Devuelto,268757.69
+1578,271,14,2025-12-29,App escritorio,Tarjeta de crédito,Completado,107591.96
+1579,89,10,2025-09-17,App móvil,Tarjeta de débito,Completado,510010.65
+1580,308,,2025-07-01,Web,PayPal,Cancelado,667639.08
+1581,16,,2026-08-28,Web,SINPE Móvil,Cancelado,527575.24
+1582,150,,2026-07-10,Web,Tarjeta de débito,Completado,650746.34
+1583,314,,2026-04-11,App móvil,Tarjeta de crédito,Cancelado,591864.13
+1584,343,,2026-06-06,App móvil,PayPal,Completado,419982.88
+1585,22,,2026-05-01,App escritorio,Tarjeta de crédito,Completado,127022.52
+1586,435,,2025-12-09,App escritorio,PayPal,Cancelado,487951.58
+1587,388,,2025-07-25,Web,PayPal,Completado,152417.48
+1588,207,,2025-10-01,App móvil,PayPal,Completado,81090.42
+1589,157,,2025-10-22,App escritorio,Tarjeta de débito,Completado,89107.26
+1590,46,10,2025-09-18,Web,Tarjeta de crédito,Completado,460178.7
+1591,156,,2025-12-27,App escritorio,Tarjeta de débito,Devuelto,669067.8
+1592,261,,2025-04-11,Web,SINPE Móvil,Cancelado,955770.52
+1593,38,,2026-05-23,Web,PayPal,Completado,611040.33
+1594,106,,2025-04-30,,SINPE Móvil,Cancelado,294972.28
+1595,91,,2025-08-22,Web,Tarjeta de débito,Completado,628901.2
+1596,319,,2026-03-09,App escritorio,SINPE Móvil,Completado,573181.04
+1597,210,,2026-03-02,Web,PayPal,Completado,901146.3
+1598,130,,2026-04-20,App móvil,Tarjeta de débito,Completado,117339.08
+1599,37,,2025-04-29,Web,SINPE Móvil,Completado,57031.02
+1600,86,,2025-09-20,App escritorio,SINPE Móvil,Devuelto,30355.94
+1601,146,,2025-09-25,Web,PayPal,Completado,1116708.2
+1602,103,1,2025-01-20,Web,Tarjeta de débito,Completado,289521.4
+1603,43,,2026-04-28,App móvil,PayPal,Completado,365455.72
+1604,306,,2026-08-30,Web,Tarjeta de crédito,Completado,371177.4
+1605,292,3,2025-08-06,Web,Tarjeta de débito,Cancelado,43085.88
+1606,330,7,2025-06-11,Web,Tarjeta de débito,Devuelto,302489.78
+1607,172,,2026-01-04,Web,SINPE Móvil,Completado,329790.7
+1608,286,13,2025-12-15,App móvil,Tarjeta de crédito,Completado,148551.87
+1609,317,,2026-05-20,Web,Tarjeta de crédito,Completado,180803.5
+1610,196,3,2025-08-14,Web,Tarjeta de crédito,Completado,120780.24
+1611,289,,2026-05-12,App escritorio,SINPE Móvil,Completado,393315.04
+1612,352,,2026-04-06,App móvil,SINPE Móvil,Cancelado,1182371.56
+1613,326,,2025-06-06,Web,Tarjeta de débito,Completado,694860.03
+1614,199,,2025-06-14,,Tarjeta de débito,Completado,201011.7
+1615,22,,2026-08-27,App móvil,SINPE Móvil,Cancelado,596649.09
+1616,107,,2026-03-08,App móvil,PayPal,Cancelado,131893.81
+1617,238,,2025-11-30,App escritorio,Tarjeta de débito,Completado,128314.29
+1618,365,,2026-06-13,App escritorio,PayPal,Devuelto,697812.24
+1619,281,,2026-02-23,App móvil,Tarjeta de crédito,Completado,729230.75
+1620,278,,2025-11-04,App escritorio,Tarjeta de débito,Cancelado,678516.03
+1621,112,9,2025-07-05,Web,Tarjeta de crédito,Completado,381902.43
+1622,356,10,2025-09-12,App escritorio,PayPal,Completado,125999.7
+1623,295,,2025-07-22,Web,Tarjeta de débito,Completado,892931.86
+1624,391,,2026-06-23,App escritorio,Tarjeta de crédito,Completado,667725.75
+1625,347,5,2025-04-13,Web,Tarjeta de crédito,Completado,156505.8
+1626,161,,2026-01-01,Web,Tarjeta de crédito,Completado,564609.2
+1627,186,,2026-05-29,App móvil,Tarjeta de débito,Completado,418936.97
+1628,149,13,2025-12-22,Web,PayPal,Completado,603531.87
+1629,82,,2026-04-26,Web,Tarjeta de débito,Completado,129839.53
+1630,228,1,2025-01-09,App móvil,Tarjeta de crédito,Cancelado,703371.61
+1631,301,,2026-01-07,Web,Tarjeta de crédito,Devuelto,225922.83
+1632,252,,2026-08-04,Web,Tarjeta de crédito,Completado,314120.52
+1633,91,5,2025-04-20,App escritorio,SINPE Móvil,Completado,15605.56
+1634,150,,2026-06-27,App móvil,,Completado,31083.5
+1635,303,,2025-06-23,App escritorio,Tarjeta de crédito,Completado,561451.6
+1636,251,,2026-05-29,App móvil,PayPal,Completado,131511.02
+1637,173,12,2025-12-02,Web,Tarjeta de crédito,Completado,200711.33
+1638,377,,2025-11-06,App móvil,SINPE Móvil,Completado,68176.58
+1639,357,,2026-01-11,App móvil,SINPE Móvil,Completado,568033.5
+1640,68,,2026-06-22,App móvil,PayPal,Completado,322964.36
+1641,344,14,2025-12-28,Web,Tarjeta de crédito,Cancelado,306665.52
+1642,125,6,2025-01-26,Web,Tarjeta de crédito,Completado,286521.98
+1643,371,13,2025-12-15,Web,PayPal,Cancelado,440201.31
+1644,324,,2025-04-19,Web,Tarjeta de crédito,Completado,130396.5
+1645,96,,2026-03-08,Web,Tarjeta de crédito,Completado,809107.42
+1646,199,9,2025-06-28,App móvil,Tarjeta de débito,Completado,622202.46
+1647,241,11,2025-11-28,Web,Tarjeta de crédito,Cancelado,334987.64
+1648,91,,2025-09-27,Web,Tarjeta de crédito,Completado,872379.8
+1649,97,6,2025-01-28,App escritorio,PayPal,Completado,56484.23
+1650,260,,2025-08-12,App escritorio,Tarjeta de crédito,Completado,673227.11
+1651,336,,2026-05-31,Web,SINPE Móvil,Completado,210854.4
+1652,376,13,2025-12-18,App escritorio,Tarjeta de crédito,Completado,591455.27
+1653,164,,2026-06-25,Web,SINPE Móvil,Completado,538390.93
+1654,231,,2026-03-28,App móvil,Tarjeta de débito,Completado,627678.0
+1655,117,,2025-02-13,App móvil,PayPal,Completado,297967.9
+1656,238,,2026-04-21,App móvil,Tarjeta de crédito,Completado,50932.2
+1657,448,,2026-07-21,Web,Tarjeta de crédito,Completado,780267.92
+1658,223,,2026-03-24,Web,Tarjeta de crédito,Cancelado,56663.68
+1659,201,,2025-10-05,,SINPE Móvil,Completado,357932.84
+1660,425,,2026-07-22,App escritorio,PayPal,Completado,67073.37
+1661,223,,2025-07-10,App móvil,Tarjeta de crédito,Completado,998192.68
+1662,166,,2025-10-24,App móvil,PayPal,Completado,297135.72
+1663,252,5,2025-04-20,App escritorio,Tarjeta de crédito,Completado,225618.74
+1664,307,5,2025-04-15,Web,PayPal,Completado,543059.16
+1665,33,9,2025-07-01,App escritorio,SINPE Móvil,Completado,345418.71
+1666,325,,2026-05-03,App escritorio,Tarjeta de débito,Completado,226419.48
+1667,66,,2026-08-10,App escritorio,Tarjeta de débito,Devuelto,666636.24
+1668,251,,2026-08-29,Web,Tarjeta de débito,Completado,146269.19
+1669,320,14,2025-12-29,App escritorio,PayPal,Completado,577102.95
+1670,200,,2025-10-10,Web,Tarjeta de débito,Completado,300635.64
+1671,325,6,2025-02-03,App móvil,PayPal,Completado,59470.79
+1672,161,,2026-07-04,Web,Tarjeta de crédito,Completado,325593.16
+1673,152,,2026-08-05,App escritorio,PayPal,Cancelado,264136.89
+1674,217,,2025-01-12,App móvil,,Completado,133030.23
+1675,334,,2026-05-26,Web,PayPal,Completado,343838.16
+1676,285,8,2025-05-06,App móvil,PayPal,Completado,284511.63
+1677,146,3,2025-08-06,App móvil,SINPE Móvil,Devuelto,240370.52
+1678,73,12,2025-12-02,App escritorio,Tarjeta de débito,Completado,347841.0
+1679,168,,2025-02-05,App escritorio,Tarjeta de crédito,Completado,364915.98
+1680,371,,2025-05-16,Web,Tarjeta de débito,Completado,56663.68
+1681,366,,2026-08-29,Web,Tarjeta de crédito,Completado,113934.47
+1682,253,,2026-04-01,App móvil,Tarjeta de crédito,Completado,811918.91
+1683,417,,2026-08-30,App móvil,Tarjeta de crédito,Completado,123410.16
+1684,331,,2025-01-25,Web,Tarjeta de crédito,Completado,120844.35
+1685,113,,2025-06-06,App móvil,PayPal,Devuelto,336870.96
+1686,10,,2026-05-24,App escritorio,Tarjeta de crédito,Completado,698817.5
+1687,21,,2026-04-09,Web,Tarjeta de crédito,Completado,588645.84
+1688,298,,2026-05-01,Web,Tarjeta de crédito,Cancelado,1040424.36
+1689,322,,2025-10-16,App móvil,Tarjeta de débito,Completado,85898.65
+1690,387,,2026-03-17,App móvil,SINPE Móvil,Completado,173734.2
+1691,232,10,2025-09-18,Web,Tarjeta de crédito,Completado,131060.34
+1692,381,,2025-12-26,App escritorio,Tarjeta de débito,Completado,335366.85
+1693,304,,2026-05-04,Web,SINPE Móvil,Completado,411249.2
+1694,112,,2025-10-13,App móvil,PayPal,Completado,198609.74
+1695,369,7,2025-06-14,App móvil,SINPE Móvil,Completado,590174.04
+1696,408,,2025-09-12,Web,Tarjeta de crédito,Completado,471649.7
+1697,439,,2026-07-03,App móvil,Tarjeta de débito,Devuelto,767017.85
+1698,50,10,2025-09-13,App móvil,PayPal,Devuelto,326462.13
+1699,335,13,2025-12-06,App móvil,Tarjeta de débito,Cancelado,757103.25
+1700,62,,2026-08-30,App móvil,Tarjeta de crédito,Devuelto,210784.98
+1701,45,,2026-04-12,App escritorio,Tarjeta de crédito,Cancelado,411305.37
+1702,360,,2025-03-06,Web,PayPal,Completado,261563.7
+1703,16,10,2025-09-17,App escritorio,Tarjeta de crédito,Completado,32295.14
+1704,395,,2025-10-16,App móvil,,Completado,225446.69
+1705,140,,2025-07-12,Web,Tarjeta de crédito,Completado,332696.75
+1706,448,,2026-08-24,App móvil,Tarjeta de crédito,Completado,177688.67
+1707,147,,2026-05-31,Web,SINPE Móvil,Completado,172261.29
+1708,372,,2025-05-30,App móvil,PayPal,Completado,207182.16
+1709,191,,2026-03-21,App escritorio,PayPal,Completado,156936.96
+1710,346,,2026-01-04,App móvil,SINPE Móvil,Devuelto,370328.23
+1711,184,,2026-06-15,Web,SINPE Móvil,Completado,655167.0
+1712,260,,2025-05-29,App escritorio,Tarjeta de débito,Completado,459395.75
+1713,418,,2026-02-10,Web,Tarjeta de crédito,Completado,659469.05
+1714,267,2,2025-02-11,Web,SINPE Móvil,Devuelto,368929.38
+1715,251,,2026-08-09,App móvil,PayPal,Completado,616486.4
+1716,113,,2026-02-22,Web,PayPal,Completado,763857.46
+1717,80,,2025-07-12,App escritorio,PayPal,Completado,590230.7
+1718,74,,2026-08-20,App móvil,Tarjeta de débito,Devuelto,294486.56
+1719,278,,2025-07-15,Web,Tarjeta de crédito,Completado,1013923.59
+1720,35,4,2025-03-08,Web,SINPE Móvil,Devuelto,256746.5
+1721,176,,2025-08-02,App móvil,Tarjeta de crédito,Completado,92859.66
+1722,348,,2025-02-02,App móvil,PayPal,Completado,497847.4
+1723,386,,2025-06-17,App móvil,PayPal,Completado,134489.95
+1724,14,,2026-08-17,App móvil,Tarjeta de crédito,Completado,414919.47
+1725,126,,2026-04-29,Web,PayPal,Completado,113934.47
+1726,18,14,2025-12-31,App móvil,Tarjeta de débito,Cancelado,681383.17
+1727,304,,2025-11-15,App escritorio,SINPE Móvil,Devuelto,1089330.8
+1728,357,,2026-07-03,App escritorio,PayPal,Completado,816429.24
+1729,90,,2025-11-03,App escritorio,Tarjeta de crédito,Cancelado,541916.54
+1730,352,14,2025-12-26,Web,Tarjeta de débito,Completado,203484.96
+1731,396,,2025-11-06,App escritorio,PayPal,Completado,719216.44
+1732,118,,2026-06-24,Web,Tarjeta de débito,Completado,92663.06
+1733,380,,2026-07-31,App escritorio,SINPE Móvil,Completado,759493.2
+1734,326,,2026-03-05,App escritorio,Tarjeta de crédito,Completado,577332.45
+1735,34,,2026-06-19,Web,Tarjeta de débito,Completado,465914.86
+1736,62,,2026-06-07,App móvil,SINPE Móvil,Completado,898115.04
+1737,286,5,2025-04-20,App escritorio,Tarjeta de débito,Completado,651534.41
+1738,76,12,2025-12-02,Web,SINPE Móvil,Completado,466149.06
+1739,300,,2025-11-07,Web,Tarjeta de débito,Cancelado,101762.74
+1740,97,,2026-05-05,App móvil,Tarjeta de crédito,Completado,257878.62
+1741,75,,2026-06-07,App móvil,Tarjeta de crédito,Completado,92859.66
+1742,290,11,2025-11-30,Web,PayPal,Completado,696593.8
+1743,31,,2025-02-13,Web,SINPE Móvil,Cancelado,125829.12
+1744,201,,2025-08-19,App escritorio,PayPal,Completado,299904.05
+1745,331,,2025-06-11,App móvil,PayPal,Completado,1048323.81
+1746,308,2,2025-02-08,App escritorio,SINPE Móvil,Completado,816702.83
+1747,202,11,2025-11-30,App escritorio,SINPE Móvil,Devuelto,65507.18
+1748,438,,2026-08-19,App escritorio,Tarjeta de débito,Completado,519937.65
+1749,241,12,2025-12-02,App escritorio,SINPE Móvil,Devuelto,309427.95
+1750,323,,2026-04-24,Web,SINPE Móvil,Cancelado,627747.84
+1751,123,,2025-12-23,App móvil,PayPal,Devuelto,321969.14
+1752,143,,2026-06-27,App escritorio,Tarjeta de débito,Completado,140156.48
+1753,411,,2025-10-30,App escritorio,SINPE Móvil,Completado,273266.48
+1754,105,,2026-08-19,App escritorio,Tarjeta de débito,Completado,608739.16
+1755,106,,2025-12-12,App móvil,PayPal,Completado,1080426.81
+1756,248,,2026-08-05,App móvil,SINPE Móvil,Completado,188886.04
+1757,64,,2026-08-14,Web,SINPE Móvil,Completado,685496.42
+1758,254,,2026-07-18,App escritorio,SINPE Móvil,Completado,177856.96
+1759,27,,2026-03-10,App móvil,SINPE Móvil,Devuelto,514909.56
+1760,62,,2026-06-11,Web,Tarjeta de crédito,Completado,225922.83
+1761,143,,2026-07-11,App escritorio,Tarjeta de débito,Completado,554276.62
+1762,21,,2026-08-23,App escritorio,SINPE Móvil,Completado,876359.4
+1763,221,4,2025-03-10,App móvil,Tarjeta de débito,Completado,463136.04
+1764,12,,2025-11-21,App móvil,Tarjeta de crédito,Completado,1733308.64
+1765,83,,2026-08-05,App móvil,Tarjeta de débito,Completado,293737.11
+1766,433,,2025-09-05,Web,SINPE Móvil,Completado,792105.58
+1767,55,11,2025-11-26,App móvil,Tarjeta de débito,Completado,162460.17
+1768,52,,2026-02-23,App escritorio,PayPal,Completado,137964.41
+1769,12,,2025-10-06,App móvil,SINPE Móvil,Completado,147850.44
+1770,165,9,2025-07-04,Web,Tarjeta de crédito,Completado,206150.7
+1771,308,,2026-01-22,Web,PayPal,Completado,139833.1
+1772,141,11,2025-11-25,Web,Tarjeta de débito,Completado,695945.68
+1773,331,,2026-04-09,,SINPE Móvil,Completado,235262.7
+1774,196,12,2025-12-02,App móvil,SINPE Móvil,Cancelado,114977.22
+1775,188,,2025-11-16,App escritorio,Tarjeta de débito,Completado,314987.16
+1776,434,7,2025-06-12,App escritorio,Tarjeta de crédito,Completado,271394.56
+1777,316,,2025-12-04,App móvil,SINPE Móvil,Completado,975773.66
+1778,73,,2025-10-13,App móvil,Tarjeta de crédito,Cancelado,506388.01
+1779,119,,2025-02-23,App escritorio,PayPal,Completado,28601.63
+1780,217,,2025-08-30,App escritorio,Tarjeta de crédito,Completado,444704.82
+1781,396,14,2025-12-27,App escritorio,Tarjeta de débito,Completado,535574.84
+1782,79,,2026-07-11,,SINPE Móvil,Completado,27318.0
+1783,263,,2026-06-24,Web,PayPal,Completado,96631.78
+1784,80,,2025-09-05,App escritorio,PayPal,Cancelado,472261.95
+1785,126,,2026-05-03,App escritorio,Tarjeta de crédito,Completado,1043583.36
+1786,194,5,2025-04-17,App móvil,PayPal,Completado,125204.64
+1787,269,,2026-06-17,App escritorio,PayPal,Completado,447416.05
+1788,385,7,2025-06-11,Web,SINPE Móvil,Completado,703624.58
+1789,432,10,2025-09-16,Web,Tarjeta de débito,Completado,1155115.81
+1790,385,7,2025-06-16,App escritorio,Tarjeta de débito,Completado,266005.92
+1791,333,,2026-02-10,,PayPal,Completado,369308.03
+1792,130,,2026-01-28,Web,PayPal,Completado,885719.03
+1793,27,8,2025-05-07,Web,PayPal,Cancelado,180316.55
+1794,335,,2025-03-21,App escritorio,Tarjeta de crédito,Completado,34359.46
+1795,445,,2025-03-11,App escritorio,Tarjeta de crédito,Completado,566601.78
+1796,75,,2026-07-30,,SINPE Móvil,Completado,81262.28
+1797,13,,2025-12-09,App escritorio,SINPE Móvil,Completado,165482.12
+1798,27,,2026-02-16,App móvil,Tarjeta de crédito,Completado,158293.23
+1799,342,,2026-06-10,Web,PayPal,Completado,80142.97
+1800,170,,2026-03-27,Web,Tarjeta de débito,Completado,689822.05
+1801,48,,2025-10-10,App móvil,,Completado,419499.3
+1802,69,10,2025-09-13,Web,SINPE Móvil,Completado,150795.36
+1803,108,2,2025-02-09,App móvil,Tarjeta de débito,Cancelado,9653.01
+1804,240,,2025-06-19,Web,SINPE Móvil,Cancelado,322178.28
+1805,316,,2026-05-18,App móvil,SINPE Móvil,Cancelado,166306.86
+1806,324,,2026-06-24,App escritorio,SINPE Móvil,Completado,502165.26
+1807,413,,2025-09-25,,SINPE Móvil,Completado,61039.74
+1808,261,10,2025-09-10,App móvil,Tarjeta de débito,Devuelto,580623.71
+1809,285,13,2025-12-12,Web,SINPE Móvil,Cancelado,1042107.0
+1810,212,,2026-08-19,Web,PayPal,Completado,512524.72
+1811,340,6,2025-01-25,Web,Tarjeta de crédito,Completado,41754.64
+1812,171,,2025-06-28,App móvil,PayPal,Completado,498875.62
+1813,302,,2026-08-29,App escritorio,SINPE Móvil,Completado,236151.0
+1814,82,,2026-08-31,Web,Tarjeta de crédito,Completado,333086.13
+1815,77,,2026-03-13,App escritorio,Tarjeta de crédito,Cancelado,710640.61
+1816,2,,2026-01-22,App móvil,SINPE Móvil,Completado,970089.1
+1817,342,,2025-06-22,Web,Tarjeta de crédito,Completado,601958.15
+1818,21,,2026-05-19,App móvil,SINPE Móvil,Completado,698817.5
+1819,316,,2025-12-15,Web,SINPE Móvil,Completado,164687.19
+1820,81,,2026-06-12,App escritorio,PayPal,Completado,1120798.2
+1821,437,7,2025-06-15,App escritorio,PayPal,Completado,259272.2
+1822,215,,2025-08-29,App escritorio,Tarjeta de débito,Completado,251560.48
+1823,237,3,2025-08-01,Web,PayPal,Completado,908518.86
+1824,65,11,2025-11-26,App escritorio,PayPal,Completado,32665.8
+1825,223,,2026-08-09,App escritorio,SINPE Móvil,Completado,627817.04
+1826,364,,2026-06-04,App móvil,Tarjeta de crédito,Completado,125850.68
+1827,26,14,2025-12-28,App móvil,PayPal,Completado,44413.83
+1828,402,,2026-05-06,App escritorio,PayPal,Completado,470135.24
+1829,338,13,2025-12-23,Web,PayPal,Cancelado,996803.03
+1830,48,,2025-12-09,Web,PayPal,Completado,147850.44
+1831,143,,2026-08-04,Web,SINPE Móvil,Completado,413893.23
+1832,410,,2025-12-12,App escritorio,Tarjeta de débito,Completado,299359.69
+1833,171,,2026-07-12,App escritorio,Tarjeta de débito,Completado,510920.13
+1834,223,,2026-04-29,App escritorio,SINPE Móvil,Completado,50390.14
+1835,276,,2026-04-22,App móvil,Tarjeta de crédito,Completado,166507.24
+1836,243,,2026-03-04,App escritorio,SINPE Móvil,Cancelado,125204.64
+1837,428,,2026-05-29,Web,SINPE Móvil,Completado,341583.1
+1838,203,9,2025-06-28,App móvil,Tarjeta de crédito,Completado,113613.21
+1839,221,2,2025-02-11,App móvil,,Completado,440729.65
+1840,445,,2025-11-10,App móvil,Tarjeta de débito,Completado,533570.88
+1841,274,,2025-10-22,App móvil,SINPE Móvil,Completado,274390.28
+1842,91,,2025-07-25,App móvil,PayPal,Completado,239139.11
+1843,11,13,2025-12-10,App móvil,PayPal,Completado,569961.63
+1844,105,,2026-01-06,App móvil,Tarjeta de crédito,Completado,561451.6
+1845,40,,2025-05-05,,SINPE Móvil,Cancelado,126296.7
+1846,92,,2026-08-30,App escritorio,Tarjeta de crédito,Completado,155244.89
+1847,247,,2026-08-22,Web,PayPal,Completado,867692.89
+1848,413,5,2025-04-10,Web,Tarjeta de débito,Cancelado,181561.91
+1849,75,9,2025-07-03,App escritorio,SINPE Móvil,Completado,403732.58
+1850,437,,2026-05-31,App móvil,Tarjeta de débito,Completado,952272.14
+1851,318,,2026-08-24,App escritorio,PayPal,Completado,214785.52
+1852,286,,2026-05-05,Web,Tarjeta de débito,Completado,371438.64
+1853,2,,2026-01-18,App escritorio,Tarjeta de crédito,Devuelto,648427.24
+1854,162,,2026-01-22,App escritorio,Tarjeta de crédito,Completado,514113.1
+1855,304,14,2025-12-30,App móvil,Tarjeta de crédito,Devuelto,212006.4
+1856,403,,2025-11-21,App móvil,Tarjeta de crédito,Completado,521586.0
+1857,29,,2025-05-21,Web,PayPal,Completado,277001.99
+1858,39,,2026-01-08,App móvil,Tarjeta de crédito,Completado,414269.0
+1859,146,12,2025-12-01,App escritorio,Tarjeta de crédito,Cancelado,561236.75
+1860,186,14,2025-12-28,App escritorio,Tarjeta de crédito,Completado,307945.98
+1861,119,5,2025-04-18,Web,SINPE Móvil,Completado,251579.84
+1862,283,,2026-05-15,Web,PayPal,Cancelado,269545.52
+1863,48,,2025-10-03,Web,Tarjeta de crédito,Completado,267213.85
+1864,55,,2025-02-13,App escritorio,Tarjeta de débito,Completado,262066.8
+1865,303,,2025-09-11,App escritorio,Tarjeta de crédito,Completado,499416.03
+1866,323,,2026-06-14,Web,Tarjeta de débito,Completado,623477.04
+1867,209,9,2025-06-29,Web,Tarjeta de débito,Completado,424449.79
+1868,31,,2026-02-02,App móvil,PayPal,Completado,399044.67
+1869,297,4,2025-02-23,App escritorio,Tarjeta de crédito,Completado,364246.8
+1870,208,,2025-09-17,App escritorio,Tarjeta de débito,Completado,570993.92
+1871,68,,2025-10-15,App escritorio,PayPal,Devuelto,239571.85
+1872,69,,2025-10-11,App escritorio,Tarjeta de crédito,Devuelto,1051175.47
+1873,425,,2026-03-05,Web,Tarjeta de crédito,Completado,182537.08
+1874,445,,2026-02-25,App móvil,Tarjeta de débito,Completado,320571.88
+1875,440,,2025-08-27,App escritorio,Tarjeta de débito,Completado,395856.71
+1876,251,,2026-06-12,App móvil,Tarjeta de crédito,Completado,823119.77
+1877,401,,2025-07-04,Web,SINPE Móvil,Completado,561451.6
+1878,73,3,2025-08-07,App escritorio,PayPal,Completado,306863.7
+1879,179,4,2025-03-06,App móvil,SINPE Móvil,Completado,58724.08
+1880,83,,2026-05-20,,PayPal,Cancelado,342468.17
+1881,197,9,2025-07-03,App móvil,SINPE Móvil,Completado,1092998.36
+1882,354,,2026-08-28,App móvil,,Completado,134489.95
+1883,291,,2025-04-20,Web,Tarjeta de débito,Completado,955926.59
+1884,322,,2026-06-26,App móvil,PayPal,Completado,62445.01
+1885,291,8,2025-05-05,App escritorio,SINPE Móvil,Completado,351823.11
+1886,357,,2026-08-24,App escritorio,SINPE Móvil,Completado,536089.43
+1887,50,,2026-06-24,Web,SINPE Móvil,Completado,156919.5
+1888,242,,2026-06-30,App escritorio,,Completado,117644.61
+1889,40,3,2025-08-04,App móvil,Tarjeta de crédito,Completado,369801.32
+1890,53,,2026-07-16,App escritorio,SINPE Móvil,Completado,518095.28
+1891,50,3,2025-08-13,App escritorio,PayPal,Completado,340179.24
+1892,108,4,2025-02-23,App escritorio,Tarjeta de débito,Completado,331713.95
+1893,23,,2026-07-25,App escritorio,PayPal,Completado,716476.3
+1894,419,,2026-02-26,App escritorio,SINPE Móvil,Cancelado,346734.35
+1895,1,,2025-12-24,App escritorio,Tarjeta de crédito,Devuelto,685336.18
+1896,379,11,2025-11-28,Web,Tarjeta de débito,Completado,117781.78
+1897,378,3,2025-08-04,App móvil,PayPal,Completado,364761.9
+1898,116,,2025-02-02,Web,SINPE Móvil,Completado,675359.98
+1899,428,,2026-03-14,Web,Tarjeta de crédito,Completado,716476.3
+1900,88,,2026-05-11,App móvil,Tarjeta de débito,Completado,377340.72
+1901,109,11,2025-11-24,Web,SINPE Móvil,Completado,399014.36
+1902,232,10,2025-09-18,App móvil,PayPal,Completado,343527.66
+1903,143,,2026-07-20,Web,SINPE Móvil,Completado,446130.6
+1904,193,,2026-07-07,Web,Tarjeta de débito,Cancelado,712434.8
+1905,28,12,2025-12-01,App escritorio,Tarjeta de débito,Completado,218548.08
+1906,28,,2026-07-06,Web,Tarjeta de crédito,Cancelado,414919.47
+1907,124,,2025-03-27,App móvil,Tarjeta de débito,Completado,1407399.63
+1908,424,7,2025-06-13,Web,Tarjeta de crédito,Cancelado,487120.96
+1909,266,8,2025-05-05,Web,SINPE Móvil,Completado,1020887.81
+1910,236,5,2025-04-15,Web,Tarjeta de crédito,Completado,379048.66
+1911,442,,2025-02-01,App escritorio,Tarjeta de crédito,Completado,430216.15
+1912,43,,2026-08-12,App escritorio,Tarjeta de crédito,Devuelto,103819.5
+1913,404,,2025-01-27,App móvil,Tarjeta de crédito,Completado,281046.64
+1914,407,,2025-10-24,Web,Tarjeta de débito,Completado,160887.59
+1915,308,,2026-07-07,Web,SINPE Móvil,Completado,530390.57
+1916,257,,2025-02-13,App escritorio,Tarjeta de crédito,Completado,1059420.5
+1917,23,,2026-07-08,App móvil,SINPE Móvil,Completado,129735.47
+1918,46,,2026-06-16,App móvil,Tarjeta de débito,Completado,503302.76
+1919,212,,2026-08-10,App móvil,SINPE Móvil,Completado,171085.72
+1920,159,,2026-08-17,Web,Tarjeta de crédito,Completado,714059.16
+1921,209,7,2025-06-14,App escritorio,Tarjeta de crédito,Cancelado,316213.62
+1922,396,,2026-06-23,App móvil,Tarjeta de crédito,Completado,325593.16
+1923,444,,2026-04-02,App escritorio,SINPE Móvil,Completado,813982.9
+1924,321,,2026-08-09,App móvil,Tarjeta de débito,Completado,581317.16
+1925,265,12,2025-12-01,App móvil,Tarjeta de crédito,Completado,504401.55
+1926,73,,2025-10-30,App escritorio,SINPE Móvil,Completado,346734.35
+1927,209,1,2025-01-12,Web,PayPal,Cancelado,78648.85
+1928,110,9,2025-06-26,App móvil,PayPal,Completado,404036.27
+1929,81,,2026-01-18,Web,Tarjeta de débito,Completado,270557.92
+1930,370,,2025-12-15,Web,Tarjeta de crédito,Completado,251658.24
+1931,343,14,2025-12-28,App móvil,Tarjeta de crédito,Completado,371930.43
+1932,396,2,2025-02-12,App escritorio,SINPE Móvil,Completado,610022.84
+1933,170,,2025-05-18,Web,SINPE Móvil,Completado,167563.32
+1934,20,11,2025-11-24,Web,Tarjeta de débito,Devuelto,97525.6
+1935,392,,2025-07-18,App móvil,Tarjeta de crédito,Completado,196657.52
+1936,203,,2025-05-25,App escritorio,PayPal,Completado,615773.0
+1937,370,,2025-05-07,Web,Tarjeta de crédito,Completado,240116.81
+1938,324,,2026-05-20,App móvil,Tarjeta de crédito,Completado,840990.98
+1939,209,,2025-03-20,App escritorio,PayPal,Devuelto,931928.08
+1940,389,,2026-02-03,App móvil,Tarjeta de crédito,Completado,692283.36
+1941,6,,2026-08-22,Web,SINPE Móvil,Completado,190457.83
+1942,399,,2026-07-17,Web,PayPal,Completado,1221964.96
+1943,171,,2026-04-23,App escritorio,PayPal,Completado,763836.51
+1944,2,,2026-07-07,App móvil,Tarjeta de crédito,Completado,222069.16
+1945,40,2,2025-02-08,App escritorio,SINPE Móvil,Cancelado,115535.92
+1946,116,9,2025-07-02,,PayPal,Completado,879341.05
+1947,100,12,2025-12-01,App escritorio,Tarjeta de débito,Devuelto,651008.9
+1948,232,6,2025-01-31,Web,SINPE Móvil,Completado,248476.02
+1949,67,,2026-02-22,App móvil,SINPE Móvil,Devuelto,700882.85
+1950,122,,2026-03-01,App escritorio,Tarjeta de crédito,Completado,434600.34
+1951,60,,2026-07-31,,Tarjeta de débito,Completado,631483.5
+1952,448,,2026-08-03,App móvil,Tarjeta de crédito,Cancelado,586616.6
+1953,419,,2025-01-28,Web,Tarjeta de débito,Completado,119828.06
+1954,52,,2025-08-12,Web,Tarjeta de débito,Completado,632029.45
+1955,224,,2026-05-13,App escritorio,Tarjeta de débito,Completado,390156.07
+1956,319,9,2025-06-29,Web,Tarjeta de crédito,Completado,487406.53
+1957,407,,2026-04-04,Web,Tarjeta de débito,Completado,333251.64
+1958,209,4,2025-03-03,Web,PayPal,Completado,643550.35
+1959,354,,2026-08-26,App escritorio,Tarjeta de crédito,Completado,429076.29
+1960,412,10,2025-09-12,App móvil,Tarjeta de débito,Devuelto,9250.35
+1961,207,,2026-08-16,App móvil,PayPal,Completado,685975.7
+1962,446,,2025-10-31,App escritorio,PayPal,Completado,75307.61
+1963,46,,2025-11-02,App escritorio,Tarjeta de débito,Completado,700557.7
+1964,76,2,2025-02-11,App móvil,Tarjeta de débito,Completado,131417.95
+1965,90,,2025-04-27,Web,Tarjeta de débito,Completado,296432.0
+1966,398,,2026-08-06,Web,Tarjeta de crédito,Completado,297135.72
+1967,286,,2026-05-16,App móvil,Tarjeta de crédito,Completado,128314.29
+1968,329,,2025-11-08,App escritorio,Tarjeta de débito,Completado,42902.28
+1969,167,,2026-08-11,App escritorio,Tarjeta de crédito,Cancelado,50390.14
+1970,429,,2026-01-05,App móvil,Tarjeta de crédito,Completado,377487.36
+1971,73,,2026-08-03,App escritorio,Tarjeta de débito,Completado,91067.82
+1972,208,,2026-01-03,App escritorio,PayPal,Completado,512998.91
+1973,294,,2026-02-21,Web,,Completado,561163.55
+1974,247,,2026-08-17,Web,SINPE Móvil,Completado,731498.8
+1975,293,7,2025-06-12,App móvil,Tarjeta de débito,Completado,505586.0
+1976,301,,2025-11-15,Web,Tarjeta de débito,Completado,190521.85
+1977,245,,2025-01-02,App móvil,PayPal,Completado,211504.44
+1978,33,,2025-06-17,App escritorio,Tarjeta de crédito,Completado,56991.42
+1979,343,14,2025-12-26,App escritorio,SINPE Móvil,Completado,129748.3
+1980,42,10,2025-09-11,App móvil,Tarjeta de débito,Cancelado,301092.54
+1981,442,,2025-07-20,App escritorio,Tarjeta de débito,Cancelado,495579.91
+1982,26,,2025-08-14,App móvil,SINPE Móvil,Completado,777501.77
+1983,201,12,2025-12-02,App móvil,Tarjeta de débito,Cancelado,230633.92
+1984,177,13,2025-12-07,App escritorio,PayPal,Completado,520378.05
+1985,25,,2026-08-02,App móvil,,Completado,255412.0
+1986,269,,2025-09-27,Web,Tarjeta de crédito,Completado,219172.86
+1987,68,,2025-11-26,Web,PayPal,Completado,153403.57
+1988,56,,2025-03-23,Web,Tarjeta de crédito,Completado,294972.28
+1989,309,11,2025-11-24,App escritorio,SINPE Móvil,Completado,109400.49
+1990,68,,2026-03-25,Web,PayPal,Completado,646859.81
+1991,39,,2026-07-13,Web,Tarjeta de débito,Completado,593938.52
+1992,443,,2025-02-18,App escritorio,Tarjeta de crédito,Completado,511264.4
+1993,221,1,2025-01-12,Web,Tarjeta de crédito,Completado,580636.68
+1994,73,,2026-05-27,Web,Tarjeta de débito,Completado,481567.05
+1995,328,8,2025-05-07,App escritorio,PayPal,Completado,176190.96
+1996,88,,2026-02-02,App escritorio,PayPal,Completado,493640.64
+1997,120,,2025-11-21,Web,Tarjeta de débito,Cancelado,164687.19
+1998,279,,2025-11-23,App escritorio,Tarjeta de crédito,Completado,358440.93
+1999,253,,2026-08-14,App móvil,Tarjeta de crédito,Completado,753218.69
+2000,233,,2025-03-04,Web,Tarjeta de débito,Completado,685975.7
+2001,441,,2025-10-28,Web,Tarjeta de débito,Completado,538378.05
+2002,93,13,2025-12-15,App móvil,SINPE Móvil,Completado,530210.76
+2003,8,,2026-07-07,App escritorio,Tarjeta de débito,Devuelto,1067533.26
+2004,376,11,2025-11-30,App escritorio,PayPal,Devuelto,361072.32
+2005,234,,2026-06-16,App escritorio,PayPal,Completado,414295.36
+2006,320,,2026-03-19,Web,Tarjeta de crédito,Completado,1015779.75
+2007,436,1,2025-01-12,App escritorio,SINPE Móvil,Completado,310637.36
+2008,260,,2025-05-14,App escritorio,Tarjeta de crédito,Completado,376388.05
+2009,332,6,2025-02-01,Web,PayPal,Completado,163433.0
+2010,47,,2025-07-03,App móvil,Tarjeta de débito,Completado,55854.44
+2011,277,,2025-07-11,App móvil,Tarjeta de crédito,Completado,96138.25
+2012,315,14,2025-12-29,App escritorio,PayPal,Completado,91249.64
+2013,259,,2026-05-27,App escritorio,PayPal,Completado,377838.17
+2014,384,14,2025-12-31,Web,Tarjeta de débito,Completado,54541.26
+2015,189,8,2025-05-05,App móvil,SINPE Móvil,Completado,143909.4
+2016,352,,2025-02-09,App móvil,Tarjeta de débito,Completado,201220.11
+2017,399,,2026-01-19,App escritorio,PayPal,Completado,89970.22
+2018,101,14,2025-12-30,App escritorio,SINPE Móvil,Completado,462342.27
+2019,405,,2025-12-23,App escritorio,SINPE Móvil,Cancelado,722960.74
+2020,208,2,2025-02-12,App escritorio,PayPal,Completado,567920.6
+2021,92,,2026-08-29,Web,Tarjeta de débito,Completado,873247.86
+2022,445,,2025-12-18,App móvil,Tarjeta de crédito,Completado,749156.77
+2023,287,,2026-05-17,App móvil,PayPal,Completado,141581.68
+2024,436,,2025-01-17,App escritorio,SINPE Móvil,Completado,138693.74
+2025,115,5,2025-04-20,App escritorio,Tarjeta de crédito,Completado,166551.88
+2026,427,12,2025-12-02,App escritorio,Tarjeta de débito,Completado,265037.9
+2027,138,,2025-06-25,App móvil,SINPE Móvil,Completado,851533.55
+2028,233,14,2025-12-28,Web,Tarjeta de débito,Completado,431738.2
+2029,419,,2026-06-22,App móvil,Tarjeta de crédito,Completado,643550.36
+2030,9,,2025-12-13,App escritorio,SINPE Móvil,Devuelto,614812.22
+2031,395,,2025-02-06,App móvil,Tarjeta de crédito,Completado,482662.77
+2032,357,,2026-04-30,Web,Tarjeta de crédito,Completado,123410.16
+2033,140,,2025-08-29,App móvil,Tarjeta de débito,Completado,91668.41
+2034,170,,2026-03-15,App escritorio,PayPal,Completado,177406.3
+2035,276,,2026-03-13,App escritorio,SINPE Móvil,Cancelado,402049.39
+2036,380,,2025-10-14,App escritorio,SINPE Móvil,Completado,501059.4
+2037,408,,2025-10-22,App escritorio,Tarjeta de crédito,Completado,21451.14
+2038,416,,2025-12-07,Web,Tarjeta de crédito,Completado,472215.1
+2039,80,,2026-01-17,Web,Tarjeta de débito,Completado,692763.45
+2040,68,,2026-08-15,App móvil,Tarjeta de crédito,Cancelado,547190.12
+2041,107,6,2025-02-01,App escritorio,Tarjeta de débito,Completado,232133.1
+2042,350,,2026-08-06,App escritorio,PayPal,Completado,370230.48
+2043,74,,2026-08-20,App móvil,PayPal,Devuelto,366762.49
+2044,369,,2026-02-28,,Tarjeta de débito,Completado,46653.07
+2045,189,4,2025-03-08,App escritorio,Tarjeta de crédito,Completado,133300.66
+2046,378,14,2025-12-26,App escritorio,,Completado,272471.9
+2047,157,,2025-03-02,,Tarjeta de débito,Completado,771837.24
+2048,213,3,2025-08-04,Web,PayPal,Completado,23601.63
+2049,207,,2025-10-03,Web,PayPal,Completado,743662.96
+2050,238,12,2025-12-02,Web,Tarjeta de crédito,Completado,233173.4
+2051,167,,2026-07-09,App escritorio,PayPal,Completado,85546.53
+2052,337,,2025-04-15,Web,Tarjeta de crédito,Completado,444114.84
+2053,331,,2025-03-06,App móvil,Tarjeta de débito,Completado,324957.16
+2054,290,,2025-07-10,App móvil,Tarjeta de débito,Devuelto,797854.24
+2055,296,,2025-08-08,Web,SINPE Móvil,Completado,155990.26
+2056,337,,2025-03-19,App escritorio,Tarjeta de débito,Completado,527136.0
+2057,167,,2026-08-17,App escritorio,SINPE Móvil,Devuelto,247451.6
+2058,137,,2026-06-06,App escritorio,Tarjeta de débito,Completado,460210.71
+2059,83,,2026-04-12,,SINPE Móvil,Completado,587587.28
+2060,296,,2026-05-26,Web,PayPal,Completado,784597.5
+2061,2,,2026-02-27,App móvil,PayPal,Completado,249760.86
+2062,389,,2026-05-25,App escritorio,SINPE Móvil,Completado,810971.29
+2063,71,,2026-08-26,App escritorio,Tarjeta de crédito,Completado,368715.35
+2064,69,,2026-02-11,Web,Tarjeta de débito,Completado,470578.44
+2065,20,,2025-09-29,App escritorio,PayPal,Completado,520922.59
+2066,179,,2026-01-17,Web,PayPal,Completado,160344.8
+2067,32,,2025-02-11,App móvil,PayPal,Completado,466245.66
+2068,331,10,2025-09-15,Web,Tarjeta de crédito,Completado,698210.91
+2069,12,,2026-08-15,App escritorio,Tarjeta de crédito,Completado,152417.48
+2070,48,8,2025-05-06,Web,Tarjeta de débito,Completado,468907.25
+2071,3,,2026-04-27,App móvil,Tarjeta de crédito,Completado,209250.96
+2072,75,,2025-06-04,Web,PayPal,Completado,195491.15
+2073,210,,2025-05-23,App escritorio,Tarjeta de crédito,Completado,171085.72
+2074,58,,2026-03-09,Web,Tarjeta de crédito,Completado,942386.65
+2075,229,6,2025-02-04,App móvil,Tarjeta de débito,Completado,556185.9
+2076,319,,2025-08-08,App móvil,Tarjeta de débito,Completado,57031.02
+2077,275,,2026-04-12,App móvil,Tarjeta de crédito,Completado,238260.3
+2078,77,,2025-11-25,Web,PayPal,Completado,322178.28
+2079,321,,2026-05-23,App móvil,Tarjeta de débito,Cancelado,125838.21
+2080,306,,2026-08-18,Web,SINPE Móvil,Completado,71434.8
+2081,180,,2025-03-09,Web,Tarjeta de débito,Completado,113934.47
+2082,367,,2025-12-20,App móvil,Tarjeta de crédito,Completado,256405.8
+2083,118,,2025-07-06,App móvil,SINPE Móvil,Completado,298708.44
+2084,199,3,2025-08-04,Web,Tarjeta de débito,Completado,8118.25
+2085,14,,2026-08-16,App móvil,PayPal,Devuelto,275928.82
+2086,119,,2025-10-12,Web,Tarjeta de crédito,Completado,1315396.24
+2087,221,,2026-08-28,Web,Tarjeta de crédito,Completado,604971.16
+2088,176,14,2025-12-27,App escritorio,,Completado,315114.37
+2089,360,,2025-10-20,Web,PayPal,Completado,75307.61
+2090,255,,2026-07-04,App móvil,SINPE Móvil,Completado,795693.6
+2091,227,,2026-02-26,Web,SINPE Móvil,Completado,302693.42
+2092,246,,2025-05-21,App móvil,,Completado,450639.2
+2093,23,,2026-08-26,Web,Tarjeta de crédito,Completado,357932.84
+2094,413,,2026-03-15,App móvil,Tarjeta de crédito,Completado,173734.2
+2095,251,,2026-07-13,,SINPE Móvil,Completado,634394.4
+2096,230,10,2025-09-10,App móvil,PayPal,Cancelado,610367.2
+2097,44,1,2025-01-18,App móvil,SINPE Móvil,Completado,553868.36
+2098,41,,2025-10-22,App móvil,Tarjeta de débito,Completado,1064142.28
+2099,411,,2025-04-27,,Tarjeta de débito,Completado,524777.22
+2100,179,,2026-06-25,App escritorio,SINPE Móvil,Completado,153374.94
+2101,255,11,2025-11-28,App escritorio,Tarjeta de débito,Completado,288674.64
+2102,311,,2026-07-30,App móvil,PayPal,Completado,384393.54
+2103,224,,2025-03-22,Web,PayPal,Completado,179772.96
+2104,10,,2026-05-18,App móvil,Tarjeta de crédito,Completado,570129.31
+2105,387,11,2025-11-24,App móvil,SINPE Móvil,Completado,241888.43
+2106,20,11,2025-11-26,App escritorio,SINPE Móvil,Completado,223653.62
+2107,294,4,2025-02-22,App móvil,Tarjeta de crédito,Completado,436175.93
+2108,414,,2026-06-12,App escritorio,PayPal,Cancelado,155653.29
+2109,328,2,2025-02-10,Web,PayPal,Completado,503148.6
+2110,309,,2025-09-16,Web,PayPal,Completado,266109.45
+2111,147,,2026-07-30,Web,SINPE Móvil,Completado,532120.92
+2112,224,12,2025-12-02,App escritorio,Tarjeta de crédito,Completado,252281.65
+2113,35,,2025-11-20,App escritorio,Tarjeta de débito,Completado,391184.2
+2114,240,8,2025-05-07,App móvil,Tarjeta de débito,Completado,102495.49
+2115,339,,2025-01-29,App móvil,Tarjeta de crédito,Completado,157060.26
+2116,121,,2026-08-09,App escritorio,Tarjeta de débito,Completado,1306232.45
+2117,58,,2026-06-04,App escritorio,SINPE Móvil,Devuelto,620979.56
+2118,339,,2025-03-14,App móvil,Tarjeta de débito,Devuelto,733187.79
+2119,83,,2026-05-23,App escritorio,Tarjeta de débito,Devuelto,53627.85
+2120,293,,2026-01-29,App escritorio,Tarjeta de crédito,Completado,282005.92
+2121,133,,2026-07-27,Web,Tarjeta de débito,Completado,180803.5
+2122,432,10,2025-09-11,App escritorio,Tarjeta de débito,Completado,1454904.19
+2123,262,,2026-03-28,Web,PayPal,Completado,652671.16
+2124,287,,2026-01-25,App escritorio,PayPal,Completado,612364.76
+2125,341,,2025-10-01,App escritorio,Tarjeta de crédito,Completado,313839.0
+2126,405,,2025-10-28,App escritorio,Tarjeta de débito,Completado,509049.89
+2127,250,10,2025-09-15,App móvil,PayPal,Completado,814900.09
+2128,94,,2026-04-28,App escritorio,PayPal,Cancelado,447369.17
+2129,197,,2025-09-29,App móvil,SINPE Móvil,Devuelto,253532.32
+2130,78,1,2025-01-09,Web,SINPE Móvil,Completado,164258.24
+2131,297,,2026-02-21,Web,Tarjeta de débito,Completado,292039.88
+2132,137,,2026-06-28,Web,Tarjeta de débito,Completado,386040.1
+2133,133,,2026-07-10,App móvil,Tarjeta de crédito,Devuelto,64455.07
+2134,218,14,2025-12-26,Web,Tarjeta de débito,Completado,551935.81
+2135,184,,2026-08-31,Web,Tarjeta de crédito,Completado,425094.51
+2136,120,14,2025-12-29,Web,SINPE Móvil,Cancelado,196845.53
+2137,165,,2025-04-07,App escritorio,,Completado,862732.32
+2138,85,,2025-11-24,App móvil,Tarjeta de crédito,Completado,230976.0
+2139,220,3,2025-08-14,Web,PayPal,Completado,559144.75
+2140,206,,2026-04-27,App escritorio,Tarjeta de débito,Completado,301110.44
+2141,359,,2026-05-19,Web,Tarjeta de crédito,Completado,154692.1
+2142,444,,2026-04-14,App móvil,Tarjeta de crédito,Completado,659853.23
+2143,404,6,2025-02-03,App móvil,PayPal,Completado,82910.26
+2144,316,,2026-03-16,App escritorio,PayPal,Completado,639189.46
+2145,160,,2026-02-07,Web,SINPE Móvil,Completado,141928.38
+2146,161,,2025-02-20,App escritorio,Tarjeta de débito,Completado,638899.84
+2147,30,,2026-05-05,App móvil,Tarjeta de crédito,Devuelto,655550.85
+2148,180,8,2025-05-05,Web,PayPal,Completado,338895.97
+2149,107,,2025-09-12,Web,SINPE Móvil,Completado,21451.14
+2150,168,,2025-02-27,,,Completado,52312.74
+2151,336,,2026-06-13,App escritorio,Tarjeta de crédito,Completado,1370268.19
+2152,151,,2026-01-20,App escritorio,PayPal,Completado,619937.03
+2153,221,,2025-02-21,Web,,Completado,635774.46
+2154,405,,2026-02-09,App móvil,Tarjeta de crédito,Completado,115466.49
+2155,293,,2025-10-19,Web,Tarjeta de crédito,Completado,166551.87
+2156,218,14,2025-12-28,App móvil,Tarjeta de débito,Completado,382087.15
+2157,395,,2025-10-24,App móvil,SINPE Móvil,Completado,814512.3
+2158,118,,2025-05-11,Web,Tarjeta de crédito,Completado,153403.57
+2159,90,3,2025-08-13,App móvil,PayPal,Completado,283005.26
+2160,160,,2025-12-02,Web,SINPE Móvil,Completado,468594.69
+2161,364,,2026-02-26,App escritorio,SINPE Móvil,Completado,91559.61
+2162,274,,2026-02-02,,Tarjeta de crédito,Devuelto,100510.14
+2163,56,,2026-06-13,App móvil,Tarjeta de débito,Devuelto,218045.3
+2164,101,,2025-06-27,App móvil,Tarjeta de crédito,Completado,411566.49
+2165,411,3,2025-08-12,Web,PayPal,Completado,195304.14
+2166,39,2,2025-02-09,Web,PayPal,Completado,568826.5
+2167,176,6,2025-02-05,App escritorio,SINPE Móvil,Completado,72516.05
+2168,420,,2026-03-30,Web,Tarjeta de crédito,Devuelto,61541.44
+2169,344,,2025-10-15,App móvil,SINPE Móvil,Completado,242888.94
+2170,25,7,2025-06-12,App escritorio,Tarjeta de débito,Completado,348664.99
+2171,446,2,2025-02-08,App escritorio,SINPE Móvil,Completado,706771.15
+2172,395,,2026-05-19,Web,PayPal,Completado,252811.78
+2173,392,11,2025-11-26,Web,Tarjeta de crédito,Completado,383027.08
+2174,99,,2026-07-23,Web,SINPE Móvil,Completado,138746.18
+2175,366,,2026-08-02,App escritorio,Tarjeta de débito,Completado,85804.89
+2176,424,6,2025-02-05,App escritorio,Tarjeta de débito,Completado,775029.15
+2177,167,,2026-08-05,Web,Tarjeta de débito,Completado,75277.61
+2178,157,14,2025-12-31,App escritorio,PayPal,Completado,331114.59
+2179,226,,2025-10-21,App móvil,Tarjeta de débito,Completado,286507.36
+2180,143,,2026-08-29,App móvil,Tarjeta de débito,Completado,257820.28
+2181,420,,2026-03-27,App escritorio,Tarjeta de crédito,Completado,208819.0
+2182,8,,2025-11-25,Web,SINPE Móvil,Completado,692763.45
+2183,448,,2026-07-25,App móvil,Tarjeta de débito,Completado,71510.86
+2184,392,,2025-03-04,App móvil,Tarjeta de débito,Completado,1156554.14
+2185,429,,2025-12-25,App móvil,Tarjeta de crédito,Completado,732441.46
+2186,415,13,2025-12-24,App escritorio,SINPE Móvil,Completado,45203.26
+2187,68,,2026-08-18,App móvil,Tarjeta de débito,Completado,10840.76
+2188,122,,2025-10-02,App escritorio,PayPal,Completado,233691.04
+2189,16,,2025-08-03,Web,Tarjeta de crédito,Devuelto,383754.06
+2190,365,,2026-06-18,Web,,Completado,532073.82
+2191,118,3,2025-08-01,App móvil,Tarjeta de crédito,Completado,779279.96
+2192,24,,2026-08-07,App escritorio,PayPal,Completado,756991.3
+2193,367,,2025-01-12,Web,Tarjeta de crédito,Completado,197921.98
+2194,148,12,2025-12-01,App móvil,Tarjeta de crédito,Cancelado,12369.41
+2195,302,,2026-08-26,App escritorio,Tarjeta de débito,Completado,895068.66
+2196,162,,2026-08-10,App escritorio,Tarjeta de crédito,Devuelto,657760.96
+2197,2,,2026-07-30,App móvil,Tarjeta de crédito,Devuelto,467697.3
+2198,190,,2026-03-28,App escritorio,Tarjeta de crédito,Devuelto,300209.39
+2199,170,12,2025-12-01,App escritorio,SINPE Móvil,Completado,263007.45
+2200,48,11,2025-11-27,Web,Tarjeta de débito,Cancelado,803740.6
+2201,145,13,2025-12-22,App escritorio,PayPal,Completado,174559.86
+2202,22,,2025-09-05,Web,Tarjeta de débito,Completado,83469.76
+2203,151,,2026-01-22,App escritorio,PayPal,Completado,316142.56
+2204,311,,2026-01-04,App escritorio,Tarjeta de crédito,Completado,154265.45
+2205,242,,2026-05-12,Web,PayPal,Completado,341874.4
+2206,93,,2025-11-14,Web,Tarjeta de débito,Completado,332400.2
+2207,65,11,2025-11-25,App móvil,Tarjeta de débito,Completado,110170.83
+2208,195,2,2025-02-07,App escritorio,Tarjeta de débito,Completado,67749.85
+2209,38,,2026-01-05,Web,PayPal,Completado,360617.2
+2210,149,,2025-05-22,Web,Tarjeta de crédito,Completado,978094.02
+2211,278,,2026-07-19,App escritorio,Tarjeta de débito,Completado,268293.48
+2212,224,3,2025-08-03,App escritorio,PayPal,Completado,412388.0
+2213,28,,2025-09-28,Web,SINPE Móvil,Completado,68718.92
+2214,349,9,2025-06-25,Web,,Completado,243651.3
+2215,296,14,2025-12-28,,Tarjeta de crédito,Completado,256746.5
+2216,33,,2025-09-30,App móvil,Tarjeta de crédito,Cancelado,279666.2
+2217,236,14,2025-12-27,Web,SINPE Móvil,Completado,251099.14
+2218,370,,2025-10-14,App escritorio,Tarjeta de débito,Completado,278578.98
+2219,83,,2026-07-30,App móvil,SINPE Móvil,Completado,698449.1
+2220,4,,2025-03-02,App escritorio,Tarjeta de crédito,Completado,17091.12
+2221,47,6,2025-01-25,Web,Tarjeta de crédito,Completado,589375.56
+2222,162,,2026-01-21,App móvil,PayPal,Completado,201220.11
+2223,28,,2025-05-20,Web,SINPE Móvil,Completado,249780.04
+2224,349,9,2025-06-29,App escritorio,SINPE Móvil,Cancelado,651856.19
+2225,288,,2026-01-19,App escritorio,PayPal,Completado,140523.32
+2226,304,,2026-02-18,Web,SINPE Móvil,Cancelado,312225.05
+2227,242,,2026-02-28,App escritorio,Tarjeta de débito,Completado,660169.4
+2228,243,5,2025-04-18,App escritorio,Tarjeta de crédito,Completado,188670.36
+2229,133,,2026-07-10,App escritorio,Tarjeta de débito,Completado,1041238.1
+2230,36,,2025-10-31,App escritorio,SINPE Móvil,Completado,677012.5
+2231,269,,2025-09-05,App móvil,PayPal,Completado,657290.24
+2232,442,9,2025-07-01,Web,Tarjeta de débito,Completado,159409.16
+2233,368,,2025-11-03,App escritorio,Tarjeta de débito,Devuelto,129735.47
+2234,163,,2026-08-14,App escritorio,SINPE Móvil,Cancelado,758615.21
+2235,208,,2026-07-08,App móvil,SINPE Móvil,Completado,387419.15
+2236,361,6,2025-02-01,App móvil,Tarjeta de débito,Completado,621710.58
+2237,106,,2025-01-10,App móvil,SINPE Móvil,Completado,429571.04
+2238,55,11,2025-11-29,,Tarjeta de crédito,Completado,222172.23
+2239,120,3,2025-08-02,App móvil,Tarjeta de crédito,Completado,136170.42
+2240,73,5,2025-04-17,App escritorio,Tarjeta de crédito,Completado,39234.56
+2241,208,,2026-01-15,App móvil,Tarjeta de crédito,Cancelado,376538.05
+2242,350,,2026-06-29,Web,SINPE Móvil,Cancelado,186612.28
+2243,402,,2026-05-23,Web,Tarjeta de crédito,Cancelado,210304.14
+2244,41,6,2025-01-28,App móvil,SINPE Móvil,Cancelado,651207.19
+2245,226,,2025-12-14,App móvil,PayPal,Completado,91559.61
+2246,361,3,2025-08-08,App móvil,SINPE Móvil,Completado,381024.45
+2247,330,4,2025-02-22,App móvil,Tarjeta de débito,Completado,509399.85
+2248,156,,2025-01-13,Web,,Completado,362529.48
+2249,179,1,2025-01-11,App escritorio,SINPE Móvil,Completado,479141.52
+2250,33,8,2025-05-07,Web,SINPE Móvil,Completado,115837.48
+2251,316,,2026-02-06,Web,SINPE Móvil,Devuelto,104625.48
+2252,76,7,2025-06-10,App móvil,Tarjeta de crédito,Completado,105423.76
+2253,330,10,2025-09-16,App escritorio,PayPal,Devuelto,220602.12
+2254,368,,2025-09-27,Web,SINPE Móvil,Completado,439716.45
+2255,356,,2025-08-12,App móvil,SINPE Móvil,Completado,256981.05
+2256,442,1,2025-01-17,Web,Tarjeta de crédito,Completado,298265.34
+2257,112,12,2025-12-01,App móvil,Tarjeta de débito,Completado,65568.84
+2258,201,2,2025-02-14,Web,Tarjeta de débito,Completado,255973.72
+2259,113,,2025-11-12,Web,Tarjeta de crédito,Completado,104625.48
+2260,293,13,2025-12-06,,PayPal,Completado,614899.84
+2261,262,3,2025-08-03,App móvil,Tarjeta de débito,Cancelado,929151.64
+2262,407,1,2025-01-14,App móvil,PayPal,Cancelado,469131.45
+2263,166,,2025-07-10,App escritorio,SINPE Móvil,Completado,251579.82
+2264,86,,2025-08-25,App escritorio,Tarjeta de débito,Devuelto,602297.82
+2265,409,12,2025-12-01,Web,PayPal,Completado,85014.36
+2266,238,,2025-05-10,Web,Tarjeta de débito,Completado,173734.2
+2267,116,,2026-07-18,App escritorio,Tarjeta de crédito,Completado,529189.94
+2268,332,,2025-06-25,App escritorio,PayPal,Completado,219876.06
+2269,371,6,2025-02-03,Web,Tarjeta de débito,Completado,350675.95
+2270,275,,2026-07-16,App móvil,PayPal,Completado,787987.06
+2271,354,,2026-08-12,App escritorio,Tarjeta de crédito,Completado,1297459.68
+2272,385,,2025-12-14,App escritorio,Tarjeta de débito,Cancelado,412284.24
+2273,35,,2026-03-14,App escritorio,Tarjeta de débito,Completado,122079.48
+2274,412,,2025-12-06,Web,Tarjeta de débito,Devuelto,280223.08
+2275,87,,2026-05-04,App escritorio,SINPE Móvil,Completado,819792.12
+2276,275,,2026-04-25,Web,SINPE Móvil,Completado,598749.87
+2277,143,,2026-06-08,App escritorio,Tarjeta de crédito,Completado,213311.43
+2278,34,,2026-06-20,App escritorio,,Completado,126296.7
+2279,65,,2025-09-30,Web,Tarjeta de débito,Completado,21681.52
+2280,113,,2025-05-14,Web,Tarjeta de crédito,Completado,1421590.3
+2281,125,,2025-07-18,Web,PayPal,Completado,370230.48
+2282,172,,2025-12-19,App escritorio,Tarjeta de crédito,Completado,398277.92
+2283,177,,2025-08-25,App móvil,Tarjeta de crédito,Devuelto,117631.35
+2284,313,,2025-06-10,App escritorio,Tarjeta de crédito,Completado,93979.19
+2285,213,,2025-03-17,App escritorio,Tarjeta de débito,Completado,160809.36
+2286,299,,2026-06-28,Web,SINPE Móvil,Completado,960062.91
+2287,35,,2026-03-31,Web,PayPal,Completado,429797.7
+2288,250,3,2025-08-06,App móvil,PayPal,Completado,909323.93
+2289,236,,2025-02-11,Web,PayPal,Completado,38104.37
+2290,186,,2026-05-23,App móvil,Tarjeta de crédito,Completado,741174.7
+2291,226,,2026-02-05,App escritorio,Tarjeta de débito,Devuelto,1036801.18
+2292,291,,2025-01-09,Web,Tarjeta de débito,Completado,1131730.63
+2293,434,3,2025-08-07,App móvil,SINPE Móvil,Cancelado,938870.16
+2294,111,,2026-03-17,App móvil,SINPE Móvil,Completado,322275.35
+2295,137,,2025-11-19,App escritorio,Tarjeta de crédito,Completado,258118.24
+2296,274,,2026-09-01,App escritorio,PayPal,Devuelto,845764.34
+2297,76,,2025-11-15,App escritorio,PayPal,Cancelado,231729.3
+2298,135,9,2025-06-30,App escritorio,SINPE Móvil,Completado,166247.88
+2299,236,,2025-07-11,App móvil,Tarjeta de débito,Cancelado,33954.8
+2300,126,,2026-05-26,App escritorio,Tarjeta de crédito,Devuelto,320571.88
+2301,362,,2026-06-26,,SINPE Móvil,Completado,404814.9
+2302,190,,2026-05-24,App móvil,PayPal,Cancelado,798624.8
+2303,206,,2025-10-02,App escritorio,Tarjeta de débito,Completado,322275.35
+2304,185,,2026-03-24,App móvil,PayPal,Completado,549286.55
+2305,414,4,2025-02-28,App móvil,Tarjeta de crédito,Completado,324498.17
+2306,294,14,2025-12-30,Web,Tarjeta de débito,Cancelado,160809.35
+2307,390,,2026-08-21,App escritorio,SINPE Móvil,Completado,548844.2
+2308,433,,2025-04-26,App móvil,SINPE Móvil,Cancelado,240429.4
+2309,70,13,2025-12-23,App móvil,SINPE Móvil,Devuelto,53881.76
+2310,27,,2026-08-24,Web,Tarjeta de débito,Completado,538821.32
+2311,213,,2025-11-05,Web,Tarjeta de crédito,Completado,700496.11
+2312,232,,2025-08-14,Web,Tarjeta de crédito,Completado,138994.59
+2313,16,,2025-06-28,App móvil,Tarjeta de débito,Completado,333567.97
+2314,62,,2026-08-28,App escritorio,Tarjeta de débito,Completado,689822.05
+2315,108,,2025-10-14,App escritorio,SINPE Móvil,Completado,277387.48
+2316,137,,2026-08-28,Web,Tarjeta de débito,Cancelado,32437.07
+2317,446,,2025-01-26,App móvil,Tarjeta de débito,Completado,1058559.74
+2318,114,,2026-04-19,App móvil,PayPal,Completado,162409.78
+2319,97,1,2025-01-08,Web,SINPE Móvil,Completado,305450.94
+2320,418,8,2025-05-07,App móvil,Tarjeta de crédito,Completado,918349.82
+2321,19,8,2025-05-06,Web,Tarjeta de débito,Cancelado,15015.8
+2322,164,,2026-08-26,Web,Tarjeta de débito,Devuelto,811242.42
+2323,294,,2025-05-07,App móvil,Tarjeta de crédito,Completado,126296.7
+2324,254,,2025-02-05,App escritorio,Tarjeta de débito,Completado,730899.08
+2325,266,,2025-06-30,,PayPal,Cancelado,605152.59
+2326,402,12,2025-12-02,App escritorio,Tarjeta de débito,Devuelto,503399.15
+2327,76,11,2025-11-29,App escritorio,Tarjeta de débito,Completado,952945.25
+2328,1,14,2025-12-29,Web,Tarjeta de débito,Completado,344112.48
+2329,67,7,2025-06-10,App móvil,Tarjeta de crédito,Completado,914494.71
+2330,283,,2026-05-01,App móvil,Tarjeta de crédito,Completado,81204.89
+2331,392,,2025-06-12,Web,PayPal,Completado,80404.68
+2332,64,3,2025-08-06,App escritorio,Tarjeta de débito,Completado,104233.51
+2333,362,14,2025-12-29,App móvil,SINPE Móvil,Completado,325713.73
+2334,274,,2026-02-17,App móvil,Tarjeta de débito,Completado,513900.34
+2335,111,,2026-08-27,App escritorio,Tarjeta de crédito,Completado,1019294.52
+2336,387,,2026-02-03,App escritorio,Tarjeta de débito,Devuelto,931254.75
+2337,368,,2025-07-08,App móvil,Tarjeta de débito,Completado,210854.4
+2338,421,,2025-12-12,App móvil,PayPal,Completado,701965.94
+2339,443,,2025-03-10,Web,PayPal,Cancelado,251701.36
+2340,142,4,2025-02-20,App escritorio,Tarjeta de crédito,Completado,136749.76
+2341,335,,2025-06-02,Web,Tarjeta de débito,Completado,455737.88
+2342,206,,2026-06-05,Web,PayPal,Completado,34359.46
+2343,337,,2025-03-06,App móvil,SINPE Móvil,Completado,311798.2
+2344,129,,2025-06-28,App móvil,SINPE Móvil,Devuelto,1130365.6
+2345,37,13,2025-12-15,App escritorio,Tarjeta de crédito,Completado,470338.92
+2346,296,,2026-08-30,App móvil,SINPE Móvil,Devuelto,286760.93
+2347,413,8,2025-05-05,,Tarjeta de débito,Completado,527973.09
+2348,342,14,2025-12-26,Web,Tarjeta de débito,Completado,185326.1
+2349,293,13,2025-12-24,App escritorio,Tarjeta de crédito,Completado,994320.16
+2350,290,,2026-05-01,App móvil,Tarjeta de débito,Completado,300635.64
+2351,41,,2025-07-09,App escritorio,PayPal,Completado,592941.04
+2352,174,,2026-06-28,App escritorio,Tarjeta de débito,Completado,507912.98
+2353,431,,2025-08-01,App escritorio,Tarjeta de débito,Devuelto,586288.6
+2354,60,,2026-08-13,Web,SINPE Móvil,Completado,421242.66
+2355,94,,2026-05-24,Web,Tarjeta de crédito,Completado,64874.14
+2356,397,13,2025-12-13,App móvil,SINPE Móvil,Devuelto,576068.82
+2357,246,1,2025-01-05,App móvil,SINPE Móvil,Completado,405980.04
+2358,279,,2026-03-22,App móvil,SINPE Móvil,Completado,142207.62
+2359,46,,2025-07-29,App escritorio,SINPE Móvil,Completado,971650.71
+2360,440,2,2025-02-13,Web,Tarjeta de crédito,Completado,63993.43
+2361,302,,2026-08-28,App móvil,Tarjeta de crédito,Completado,1641455.1
+2362,326,,2026-01-02,Web,Tarjeta de crédito,Completado,502496.2
+2363,356,,2026-04-23,App móvil,Tarjeta de débito,Completado,328950.41
+2364,237,,2025-07-31,Web,SINPE Móvil,Completado,55435.62
+2365,269,,2026-07-28,App escritorio,SINPE Móvil,Completado,1226989.35
+2366,212,,2026-08-08,App móvil,SINPE Móvil,Completado,1058542.53
+2367,382,8,2025-05-05,Web,Tarjeta de débito,Completado,518722.96
+2368,386,,2025-11-28,Web,SINPE Móvil,Completado,92663.06
+2369,450,,2025-07-24,App escritorio,Tarjeta de débito,Completado,162796.58
+2370,75,10,2025-09-15,App escritorio,Tarjeta de débito,Completado,660514.7
+2371,295,,2026-06-30,App escritorio,SINPE Móvil,Completado,5420.38
+2372,52,2,2025-02-07,App móvil,Tarjeta de débito,Devuelto,5811.44
+2373,59,,2025-02-14,App escritorio,SINPE Móvil,Completado,159757.81
+2374,323,,2026-05-30,App escritorio,Tarjeta de débito,Completado,156919.5
+2375,20,1,2025-01-14,App móvil,Tarjeta de crédito,Completado,75397.68
+2376,76,,2025-08-17,Web,SINPE Móvil,Completado,889234.53
+2377,55,2,2025-02-10,App móvil,PayPal,Completado,249110.71
+2378,98,7,2025-06-15,Web,PayPal,Completado,859864.2
+2379,413,10,2025-09-13,App móvil,Tarjeta de débito,Devuelto,19916.24
+2380,133,,2026-07-26,Web,SINPE Móvil,Completado,320571.88
+2381,25,,2025-10-31,App móvil,Tarjeta de débito,Cancelado,293144.3
+2382,18,,2025-12-25,App móvil,Tarjeta de crédito,Completado,1724241.21
+2383,10,,2026-08-27,App escritorio,PayPal,Completado,86206.34
+2384,401,,2026-08-03,App escritorio,Tarjeta de débito,Completado,266109.45
+2385,292,,2026-01-26,Web,Tarjeta de crédito,Completado,346734.35
+2386,332,,2026-05-14,App móvil,Tarjeta de crédito,Completado,548511.47
+2387,155,,2026-07-07,App móvil,Tarjeta de débito,Completado,724435.04
+2388,83,,2026-07-03,App móvil,SINPE Móvil,Devuelto,370166.36
+2389,374,,2025-06-13,Web,Tarjeta de débito,Completado,309320.49
+2390,5,,2026-07-23,Web,Tarjeta de crédito,Completado,266109.45
+2391,118,9,2025-06-29,App escritorio,PayPal,Completado,275000.8
+2392,402,,2025-11-27,App móvil,SINPE Móvil,Completado,199369.44
+2393,385,,2025-09-13,App móvil,Tarjeta de débito,Cancelado,155244.89
+2394,29,3,2025-08-15,App móvil,Tarjeta de débito,Completado,351388.05
+2395,121,5,2025-04-12,App móvil,Tarjeta de crédito,Completado,283115.52
+2396,47,,2025-06-16,Web,SINPE Móvil,Devuelto,91268.54
+2397,30,,2026-02-28,App escritorio,Tarjeta de crédito,Cancelado,139729.12
+2398,426,,2026-08-22,Web,Tarjeta de débito,Completado,81262.28
+2399,136,6,2025-02-04,App móvil,PayPal,Completado,180355.89
+2400,323,,2026-06-23,Web,Tarjeta de crédito,Cancelado,1502334.15
+2401,411,,2025-12-18,App móvil,Tarjeta de débito,Completado,633303.0
+2402,127,,2025-09-07,Web,Tarjeta de crédito,Completado,368715.35
+2403,67,1,2025-01-08,Web,SINPE Móvil,Completado,248657.62
+2404,353,,2025-04-28,Web,Tarjeta de crédito,Completado,73621.64
+2405,442,,2025-10-26,Web,SINPE Móvil,Completado,413789.66
+2406,54,,2026-08-30,Web,Tarjeta de crédito,Completado,644722.41
+2407,253,,2026-04-30,App móvil,Tarjeta de débito,Completado,577393.9
+2408,113,,2025-07-06,App móvil,Tarjeta de crédito,Completado,284415.24
+2409,193,10,2025-09-14,Web,Tarjeta de crédito,Completado,34463.43
+2410,355,,2025-07-20,App móvil,Tarjeta de crédito,Completado,731620.59
+2411,157,,2026-06-16,App móvil,,Completado,413893.23
+2412,238,3,2025-08-01,App móvil,SINPE Móvil,Cancelado,22902.28
+2413,37,,2025-11-17,App móvil,Tarjeta de débito,Completado,60711.88
+2414,204,,2025-08-11,App escritorio,Tarjeta de débito,Completado,208819.0
+2415,138,14,2025-12-29,App móvil,Tarjeta de crédito,Completado,376462.76
+2416,215,7,2025-06-12,App escritorio,SINPE Móvil,Completado,584410.07
+2417,294,,2025-06-11,Web,PayPal,Completado,157060.26
+2418,112,12,2025-12-02,App móvil,Tarjeta de débito,Completado,62893.7
+2419,238,,2025-06-07,App escritorio,Tarjeta de débito,Completado,730354.43
+2420,22,,2025-10-06,App escritorio,,Completado,445657.71
+2421,343,,2026-02-02,Web,Tarjeta de crédito,Completado,110482.81
+2422,23,,2026-08-11,Web,Tarjeta de crédito,Cancelado,809634.2
+2423,91,,2025-04-07,Web,SINPE Móvil,Devuelto,713962.91
+2424,262,,2026-07-13,Web,PayPal,Completado,420683.81
+2425,275,,2026-06-08,,Tarjeta de crédito,Completado,615312.07
+2426,272,9,2025-07-03,App móvil,Tarjeta de crédito,Completado,453645.28
+2427,22,,2025-11-27,App móvil,PayPal,Completado,214774.61
+2428,126,,2026-08-16,App móvil,SINPE Móvil,Completado,995401.91
+2429,446,,2025-11-15,App móvil,Tarjeta de débito,Completado,909524.72
+2430,152,,2026-02-26,App móvil,Tarjeta de débito,Completado,170306.71
+2431,39,1,2025-01-14,Web,Tarjeta de débito,Completado,77407.65
+2432,408,,2025-10-16,App escritorio,Tarjeta de crédito,Completado,36702.55
+2433,47,,2026-04-03,App escritorio,SINPE Móvil,Completado,1026102.64
+2434,295,,2025-04-09,Web,Tarjeta de crédito,Completado,1135091.48
+2435,30,7,2025-06-13,App escritorio,Tarjeta de crédito,Completado,375508.44
+2436,32,4,2025-02-25,App móvil,Tarjeta de crédito,Completado,776527.61
+2437,2,,2026-01-25,Web,Tarjeta de débito,Completado,128284.2
+2438,282,,2025-11-27,App móvil,Tarjeta de débito,Completado,17251.06
+2439,338,,2025-03-05,App escritorio,PayPal,Completado,587977.54
+2440,388,,2025-09-07,App escritorio,Tarjeta de débito,Cancelado,788888.92
+2441,447,,2026-01-30,Web,PayPal,Completado,524436.26
+2442,209,,2025-03-27,App escritorio,PayPal,Completado,302868.37
+2443,91,,2025-04-18,Web,,Completado,182630.01
+2444,39,11,2025-11-28,Web,Tarjeta de débito,Completado,14784.07
+2445,51,,2026-06-05,Web,Tarjeta de crédito,Completado,645530.43
+2446,271,,2025-12-29,App móvil,Tarjeta de crédito,Completado,355519.05
+2447,217,,2026-01-15,App escritorio,Tarjeta de crédito,Completado,16261.14
+2448,439,,2026-07-01,Web,PayPal,Completado,698537.92
+2449,210,9,2025-06-26,App escritorio,Tarjeta de débito,Completado,226261.64
+2450,278,,2025-12-25,App escritorio,,Completado,170441.45
+2451,367,,2025-06-04,App escritorio,PayPal,Completado,655155.6
+2452,274,,2025-06-24,Web,PayPal,Completado,786319.18
+2453,105,9,2025-07-04,App móvil,SINPE Móvil,Completado,526982.08
+2454,344,,2025-02-28,Web,Tarjeta de crédito,Completado,68176.58
+2455,228,8,2025-05-05,App escritorio,SINPE Móvil,Completado,100980.36
+2456,33,,2026-03-30,App escritorio,PayPal,Completado,630604.82
+2457,158,,2026-05-25,App escritorio,SINPE Móvil,Completado,491769.42
+2458,208,9,2025-06-28,App móvil,PayPal,Completado,135143.54
+2459,125,8,2025-05-07,App móvil,Tarjeta de crédito,Devuelto,699790.1
+2460,195,10,2025-09-18,Web,Tarjeta de débito,Completado,96665.1
+2461,340,,2026-02-08,Web,Tarjeta de crédito,Cancelado,464778.24
+2462,84,,2026-04-15,App escritorio,Tarjeta de crédito,Completado,324213.62
+2463,10,,2026-04-25,App móvil,Tarjeta de débito,Completado,665515.11
+2464,1,,2026-07-07,App escritorio,SINPE Móvil,Completado,368588.75
+2465,248,14,2025-12-30,App escritorio,Tarjeta de crédito,Completado,188210.16
+2466,284,5,2025-04-10,App móvil,Tarjeta de crédito,Completado,260050.75
+2467,1,11,2025-11-26,App móvil,SINPE Móvil,Completado,629966.22
+2468,331,6,2025-01-31,App escritorio,PayPal,Completado,260893.5
+2469,278,,2025-10-29,App escritorio,Tarjeta de crédito,Completado,139763.5
+2470,335,8,2025-05-05,Web,Tarjeta de débito,Completado,358364.54
+2471,219,,2025-05-06,App móvil,SINPE Móvil,Completado,150555.22
+2472,68,,2025-07-11,App móvil,PayPal,Completado,378984.46
+2473,420,,2025-12-16,Web,Tarjeta de débito,Completado,1637777.93
+2474,60,,2026-07-26,App móvil,PayPal,Completado,236622.37
+2475,394,,2026-04-17,,SINPE Móvil,Completado,815710.53
+2476,226,,2025-09-22,App móvil,SINPE Móvil,Completado,294137.96
+2477,351,,2026-01-17,App móvil,Tarjeta de débito,Completado,42771.43
+2478,274,1,2025-01-20,App móvil,SINPE Móvil,Completado,17686.3
+2479,112,3,2025-08-01,App escritorio,Tarjeta de crédito,Completado,29606.5
+2480,445,12,2025-12-02,Web,PayPal,Completado,589776.33
+2481,254,13,2025-12-13,Web,SINPE Móvil,Completado,260578.98
+2482,365,,2026-07-17,App móvil,SINPE Móvil,Completado,665151.15
+2483,72,,2025-11-17,App escritorio,SINPE Móvil,Completado,776999.3
+2484,315,11,2025-11-24,App escritorio,SINPE Móvil,Completado,673142.12
+2485,307,8,2025-05-06,App móvil,SINPE Móvil,Completado,531193.25
+2486,396,8,2025-05-07,App móvil,PayPal,Completado,49054.77
+2487,61,,2025-11-04,App móvil,SINPE Móvil,Completado,452479.52
+2488,434,,2025-07-28,App escritorio,Tarjeta de débito,Completado,280223.08
+2489,100,4,2025-03-05,App escritorio,Tarjeta de débito,Completado,568996.3
+2490,219,,2026-06-10,Web,Tarjeta de crédito,Completado,322664.29
+2491,181,,2026-05-07,App móvil,PayPal,Completado,1031334.65
+2492,95,,2026-06-10,App escritorio,SINPE Móvil,Completado,423536.64
+2493,426,,2026-05-28,App escritorio,Tarjeta de crédito,Completado,322105.92
+2494,183,,2026-07-19,App móvil,PayPal,Completado,55854.44
+2495,227,,2025-11-23,Web,Tarjeta de débito,Completado,640668.41
+2496,108,,2025-05-20,App móvil,PayPal,Completado,92859.66
+2497,135,,2025-12-16,App escritorio,Tarjeta de crédito,Completado,68176.58
+2498,58,,2026-07-13,App escritorio,,Completado,1061393.82
+2499,120,,2026-07-11,App escritorio,PayPal,Completado,361719.32
+2500,340,,2025-10-22,App móvil,SINPE Móvil,Completado,525740.97

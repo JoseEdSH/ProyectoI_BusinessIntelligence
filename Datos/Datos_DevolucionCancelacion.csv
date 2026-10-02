@@ -1,0 +1,481 @@
+id_evento,id_detalle,tipo_evento,motivo,fecha_evento,monto_reembolso
+1,517,Cancelación,Cliente cambió de opinión,2025-12-22,165482.12
+2,272,Cancelación,Pedido duplicado por error del sistema,2026-04-10,153403.57
+3,474,Cancelación,Error al realizar el pedido,2026-02-09,20807.42
+4,1620,Devolución,Talla o tamaño incorrecto,2026-03-06,389297.85
+5,63,Devolución,Producto defectuoso,2025-12-29,411585.42
+6,3208,Devolución,Producto defectuoso,2025-03-31,147243.28
+7,2216,Devolución,Producto defectuoso,2025-01-24,613614.28
+8,2835,Devolución,Producto dañado en tránsito,2026-01-17,148552.57
+9,3189,Cancelación,Error al realizar el pedido,2025-01-16,62098.98
+10,1281,Devolución,Producto dañado en tránsito,2026-01-13,117202.1
+11,3099,Devolución,Producto defectuoso,2025-10-25,470525.4
+12,3137,Devolución,Producto defectuoso,2025-12-28,124890.02
+13,2796,Devolución,No cumplió con las expectativas,2025-06-09,336870.96
+14,126,Cancelación,Error al realizar el pedido,2026-05-26,73743.07
+15,606,Cancelación,Producto fuera de stock,2026-08-27,566031.0
+16,3073,Cancelación,Error al realizar el pedido,2025-12-15,561236.75
+17,2972,Cancelación,Pedido duplicado por error del sistema,2025-05-16,106819.55
+18,2771,Devolución,Llegó tarde y ya no era necesario,2026-08-12,370166.36
+19,3111,Cancelación,Producto fuera de stock,2026-05-30,66539.35
+20,3248,Devolución,Producto defectuoso,2025-09-25,9250.35
+21,240,Devolución,Talla o tamaño incorrecto,2025-11-10,70292.61
+22,2179,Devolución,Talla o tamaño incorrecto,2025-05-01,89483.21
+23,2287,Devolución,Producto defectuoso,2025-07-11,148258.88
+24,2233,Devolución,No cumplió con las expectativas,2025-12-11,315403.08
+25,637,Cancelación,Error al realizar el pedido,2026-08-28,266060.46
+26,3982,Devolución,Producto dañado en tránsito,2025-04-08,102792.42
+27,3741,Cancelación,Error al realizar el pedido,2025-12-28,257878.62
+28,3820,Cancelación,Cliente cambió de opinión,2025-07-04,85468.6
+29,2942,Cancelación,Producto fuera de stock,2025-12-06,114977.22
+30,595,Cancelación,Error al realizar el pedido,2025-02-14,651186.32
+31,137,Cancelación,Producto fuera de stock,2025-06-14,219172.86
+32,804,Devolución,Llegó tarde y ya no era necesario,2025-08-04,341607.0
+33,3621,Devolución,Producto defectuoso,2026-08-18,306807.14
+34,177,Devolución,No cumplió con las expectativas,2026-06-02,272488.44
+35,2172,Cancelación,Cliente cambió de opinión,2025-07-26,304369.58
+36,972,Cancelación,Error al realizar el pedido,2025-06-28,189584.84
+37,2571,Cancelación,Cliente cambió de opinión,2025-10-21,34502.12
+38,2657,Cancelación,Error al realizar el pedido,2025-05-10,294972.28
+39,2728,Cancelación,Pedido duplicado por error del sistema,2025-12-25,360890.1
+40,677,Cancelación,Producto fuera de stock,2026-03-12,814512.3
+41,441,Devolución,Producto defectuoso,2025-06-12,181407.25
+42,73,Devolución,Producto dañado en tránsito,2025-09-19,295700.88
+43,1249,Cancelación,,2025-11-26,92663.06
+44,1781,Devolución,No cumplió con las expectativas,2025-01-31,771980.9
+45,3363,Cancelación,Producto fuera de stock,2026-03-14,91559.61
+46,3199,Devolución,Producto dañado en tránsito,2025-12-01,97525.6
+47,604,Cancelación,Producto fuera de stock,2026-09-02,336870.96
+48,1332,Cancelación,Pedido duplicado por error del sistema,2026-06-13,209991.44
+49,719,Cancelación,Error al realizar el pedido,2025-05-16,77881.76
+50,373,Cancelación,Error al realizar el pedido,2026-01-11,133551.6
+51,2737,Cancelación,Cliente cambió de opinión,2025-12-09,108833.56
+52,2485,Cancelación,Cliente cambió de opinión,2025-06-18,116314.29
+53,2711,Cancelación,Pedido duplicado por error del sistema,2025-01-18,124328.81
+54,3942,Cancelación,Producto fuera de stock,2026-06-24,681221.1
+55,3623,Devolución,Llegó tarde y ya no era necesario,2026-08-12,323851.92
+56,1331,Cancelación,Producto fuera de stock,2026-06-19,214785.52
+57,1749,Devolución,Llegó tarde y ya no era necesario,2025-02-11,429571.04
+58,3355,Devolución,Llegó tarde y ya no era necesario,2025-12-18,50932.2
+59,602,Cancelación,Pedido duplicado por error del sistema,2026-04-18,113934.47
+60,612,Devolución,Producto dañado en tránsito,2026-06-21,210854.4
+61,3512,Devolución,Producto defectuoso,2025-10-04,219172.86
+62,820,Devolución,Talla o tamaño incorrecto,2025-12-16,192343.52
+63,3804,Cancelación,Pedido duplicado por error del sistema,2026-09-11,32437.07
+64,3051,Cancelación,Error al realizar el pedido,2025-05-15,126296.7
+65,1388,Cancelación,Cliente cambió de opinión,2025-11-30,263915.9
+66,1329,Cancelación,Producto fuera de stock,2025-11-16,470525.4
+67,3943,Cancelación,Producto fuera de stock,2026-06-28,627747.84
+68,3771,Cancelación,Producto fuera de stock,2025-08-15,41331.53
+69,3168,Devolución,Producto defectuoso,2026-08-25,103819.5
+70,1744,Cancelación,Producto fuera de stock,2026-02-23,732513.15
+71,1524,Cancelación,Pedido duplicado por error del sistema,2025-06-20,261387.48
+72,876,Cancelación,Cliente cambió de opinión,2025-06-16,256981.05
+73,3492,Devolución,,2025-03-29,600157.56
+74,3030,Cancelación,Error al realizar el pedido,2025-12-25,150919.5
+75,2633,Cancelación,Producto fuera de stock,2025-07-04,464913.03
+76,1187,Cancelación,Cliente cambió de opinión,2026-08-25,297105.14
+77,3779,Cancelación,Pedido duplicado por error del sistema,2025-11-21,231729.3
+78,2816,Devolución,No cumplió con las expectativas,2025-09-23,249054.48
+79,256,Devolución,Producto dañado en tránsito,2026-01-03,167400.76
+80,2637,Cancelación,Error al realizar el pedido,2026-04-23,236151.0
+81,3064,Devolución,Producto dañado en tránsito,2026-01-30,648427.24
+82,1955,Devolución,Talla o tamaño incorrecto,2025-10-20,494903.2
+83,3357,Devolución,No cumplió con las expectativas,2025-12-18,303087.02
+84,3781,Cancelación,Producto fuera de stock,2025-07-24,33954.8
+85,3914,Cancelación,Cliente cambió de opinión,2025-11-12,293144.3
+86,141,Cancelación,Error al realizar el pedido,2026-08-20,651982.5
+87,84,Cancelación,Error al realizar el pedido,2026-07-26,466453.8
+88,300,Devolución,No cumplió con las expectativas,2026-05-22,293347.7
+89,2756,Cancelación,Pedido duplicado por error del sistema,2026-04-08,56663.68
+90,1719,Cancelación,Pedido duplicado por error del sistema,2025-07-17,41614.84
+91,238,Devolución,Llegó tarde y ya no era necesario,2025-11-15,208040.61
+92,1655,Devolución,Producto dañado en tránsito,2025-05-02,449161.28
+93,2680,Cancelación,Cliente cambió de opinión,2026-04-20,629145.6
+94,557,Devolución,No cumplió con las expectativas,2025-05-25,408732.66
+95,2055,Cancelación,Pedido duplicado por error del sistema,2026-04-03,120607.02
+96,356,Cancelación,Producto fuera de stock,2026-03-01,573181.04
+97,3568,Devolución,Producto defectuoso,2026-06-22,47108.1
+98,3654,Cancelación,Error al realizar el pedido,2025-10-11,279666.2
+99,3097,Devolución,Talla o tamaño incorrecto,2025-10-26,173032.5
+100,313,Cancelación,Error al realizar el pedido,2026-09-02,31211.13
+101,835,Devolución,No cumplió con las expectativas,2025-02-25,360511.36
+102,3778,Devolución,Talla o tamaño incorrecto,2026-09-14,553225.96
+103,1596,Devolución,Talla o tamaño incorrecto,2025-12-14,81090.42
+104,2859,Devolución,Producto defectuoso,2025-11-24,620979.56
+105,419,Devolución,Llegó tarde y ya no era necesario,2026-09-10,175246.99
+106,589,Devolución,Llegó tarde y ya no era necesario,2026-08-06,257820.28
+107,1837,Cancelación,Cliente cambió de opinión,2025-04-06,112921.84
+108,2685,Cancelación,Cliente cambió de opinión,2026-09-09,470810.88
+109,1250,Cancelación,Producto fuera de stock,2025-11-26,263787.62
+110,1392,Cancelación,Pedido duplicado por error del sistema,2025-07-18,462979.55
+111,3789,Cancelación,Error al realizar el pedido,2026-01-04,160809.35
+112,3793,Devolución,Producto defectuoso,2025-12-30,53881.76
+113,2779,Cancelación,Error al realizar el pedido,2026-08-16,238260.3
+114,2166,Cancelación,Producto fuera de stock,2026-08-06,532120.92
+115,2304,Devolución,Talla o tamaño incorrecto,2025-07-05,225319.6
+116,3626,Devolución,Llegó tarde y ya no era necesario,2026-04-08,119405.89
+117,715,Cancelación,Cliente cambió de opinión,2026-05-15,897296.75
+118,2710,Cancelación,,2025-01-20,579042.8
+119,242,Cancelación,Cliente cambió de opinión,2026-05-31,77881.76
+120,766,Cancelación,Error al realizar el pedido,2025-12-01,177117.48
+121,2349,Cancelación,Producto fuera de stock,2026-02-10,234678.16
+122,807,Devolución,,2026-01-03,73067.82
+123,3695,Cancelación,Cliente cambió de opinión,2025-02-08,221475.24
+124,3628,Cancelación,Pedido duplicado por error del sistema,2025-12-01,192205.56
+125,3725,Devolución,No cumplió con las expectativas,2025-08-29,355519.05
+126,1685,Cancelación,Error al realizar el pedido,2026-01-29,41763.8
+127,1510,Cancelación,Pedido duplicado por error del sistema,2026-09-05,160887.59
+128,687,Cancelación,Producto fuera de stock,2025-12-11,106885.54
+129,74,Devolución,No cumplió con las expectativas,2025-10-02,112921.84
+130,1472,Devolución,Producto defectuoso,2025-02-08,421708.8
+131,3874,Devolución,No cumplió con las expectativas,2025-12-15,285135.72
+132,605,Cancelación,Error al realizar el pedido,2026-08-28,70261.66
+133,301,Devolución,Llegó tarde y ya no era necesario,2026-05-28,178966.42
+134,759,Cancelación,Cliente cambió de opinión,2025-05-04,651186.32
+135,3156,Cancelación,Cliente cambió de opinión,2026-07-16,414919.47
+136,2100,Cancelación,Error al realizar el pedido,2026-01-22,201560.56
+137,751,Cancelación,Producto fuera de stock,2025-02-16,167147.38
+138,1150,Cancelación,Producto fuera de stock,2026-01-16,564609.2
+139,257,Devolución,Producto dañado en tránsito,2026-01-02,170336.6
+140,2886,Cancelación,Cliente cambió de opinión,2025-11-13,21681.52
+141,4047,Devolución,Llegó tarde y ya no era necesario,2025-05-11,369302.68
+142,1149,Devolución,Llegó tarde y ya no era necesario,2026-07-15,75277.61
+143,3629,Cancelación,Producto fuera de stock,2025-11-29,230628.2
+144,482,Devolución,Talla o tamaño incorrecto,2026-03-20,32437.07
+145,3112,Cancelación,Cliente cambió de opinión,2026-06-04,275928.82
+146,499,Cancelación,Cliente cambió de opinión,2026-08-05,403469.85
+147,2089,Cancelación,Cliente cambió de opinión,2026-02-03,538378.05
+148,2048,Cancelación,Pedido duplicado por error del sistema,2025-12-13,67909.6
+149,768,Devolución,No cumplió con las expectativas,2026-08-31,81090.42
+150,2338,Cancelación,Error al realizar el pedido,2026-03-15,322178.28
+151,718,Cancelación,,2025-05-16,230932.98
+152,1716,Devolución,Producto defectuoso,2025-11-21,600157.56
+153,2817,Cancelación,Pedido duplicado por error del sistema,2025-12-19,757103.25
+154,90,Devolución,Producto dañado en tránsito,2026-02-14,267213.85
+155,3979,Cancelación,Pedido duplicado por error del sistema,2026-08-22,276612.98
+156,661,Cancelación,Producto fuera de stock,2025-08-21,182727.86
+157,2985,Cancelación,Cliente cambió de opinión,2025-02-21,9653.01
+158,596,Cancelación,Producto fuera de stock,2025-05-09,85542.86
+159,1365,Cancelación,Cliente cambió de opinión,2025-12-10,285629.0
+160,2170,Cancelación,Cliente cambió de opinión,2025-05-24,167719.88
+161,1731,Cancelación,Error al realizar el pedido,2026-08-10,613614.28
+162,1723,Cancelación,Error al realizar el pedido,2026-08-13,76208.74
+163,2205,Cancelación,Pedido duplicado por error del sistema,2025-07-07,234678.16
+164,3980,Cancelación,Cliente cambió de opinión,2026-08-13,83859.94
+165,3453,Cancelación,Cliente cambió de opinión,2025-09-22,595839.76
+166,923,Cancelación,Cliente cambió de opinión,2025-04-20,121580.11
+167,2858,Cancelación,Error al realizar el pedido,2026-01-04,187742.52
+168,1664,Cancelación,Producto fuera de stock,2025-12-08,100780.28
+169,3209,Devolución,Producto dañado en tránsito,2025-03-31,784684.8
+170,1535,Devolución,No cumplió con las expectativas,2025-06-29,133078.7
+171,2848,Devolución,No cumplió con las expectativas,2026-08-30,294486.56
+172,1455,Devolución,Talla o tamaño incorrecto,2026-08-15,283329.06
+173,2523,Devolución,Producto dañado en tránsito,2025-05-02,60711.88
+174,2129,Devolución,Talla o tamaño incorrecto,2026-04-18,643550.36
+175,490,Devolución,Producto defectuoso,2025-04-25,84904.65
+176,2820,Cancelación,Producto fuera de stock,2026-04-18,58411.32
+177,182,Cancelación,Cliente cambió de opinión,2025-02-12,573181.04
+178,2726,Cancelación,Error al realizar el pedido,2026-01-03,181129.92
+179,434,Cancelación,Producto fuera de stock,2026-07-30,439429.24
+180,2671,Cancelación,Error al realizar el pedido,2025-08-14,43085.88
+181,3625,Devolución,Talla o tamaño incorrecto,2026-04-04,180803.5
+182,3478,Cancelación,Pedido duplicado por error del sistema,2026-06-24,15541.75
+183,1059,Cancelación,Error al realizar el pedido,2025-07-08,100510.14
+184,731,Devolución,Producto dañado en tránsito,2026-03-25,613614.28
+185,142,Cancelación,Producto fuera de stock,2026-08-26,277105.38
+186,3978,Cancelación,Cliente cambió de opinión,2026-08-16,449161.28
+187,2986,Cancelación,Producto fuera de stock,2025-06-22,322178.28
+188,2510,Cancelación,Producto fuera de stock,2026-05-06,292230.48
+189,2357,Cancelación,Cliente cambió de opinión,2025-05-12,300858.4
+190,2592,Cancelación,Pedido duplicado por error del sistema,2026-08-01,415658.07
+191,3719,Cancelación,Error al realizar el pedido,2025-01-20,42831.62
+192,3374,Devolución,Producto dañado en tránsito,2026-08-29,70292.61
+193,139,Cancelación,Producto fuera de stock,2026-06-19,162796.58
+194,2425,Cancelación,Pedido duplicado por error del sistema,2026-08-13,377340.72
+195,1093,Devolución,No cumplió con las expectativas,2025-04-23,42773.26
+196,3392,Devolución,Llegó tarde y ya no era necesario,2025-07-20,251275.35
+197,3681,Cancelación,Error al realizar el pedido,2026-08-16,730099.7
+198,2097,Cancelación,Cliente cambió de opinión,2026-08-03,225832.83
+199,2684,Cancelación,Producto fuera de stock,2026-08-31,125838.21
+200,2022,Cancelación,Producto fuera de stock,2025-02-13,159665.66
+201,239,Devolución,Producto defectuoso,2025-11-20,73405.1
+202,4045,Devolución,Talla o tamaño incorrecto,2025-05-12,251243.08
+203,2537,Cancelación,Producto fuera de stock,2026-06-12,128314.29
+204,1471,Devolución,Producto defectuoso,2025-02-04,138693.74
+205,1299,Cancelación,Error al realizar el pedido,2025-07-16,98897.76
+206,1750,Devolución,Llegó tarde y ya no era necesario,2025-02-19,464298.3
+207,1650,Devolución,Llegó tarde y ya no era necesario,2025-03-07,413705.3
+208,1667,Devolución,Producto defectuoso,2025-11-26,61039.74
+209,3230,Devolución,No cumplió con las expectativas,2026-02-28,112659.8
+210,2634,Cancelación,Producto fuera de stock,2026-09-12,527575.24
+211,1554,Cancelación,Error al realizar el pedido,2026-05-09,421708.8
+212,621,Devolución,Talla o tamaño incorrecto,2025-08-20,604191.05
+213,3275,Cancelación,Producto fuera de stock,2025-08-02,393315.04
+214,2818,Devolución,Llegó tarde y ya no era necesario,2026-09-09,210784.98
+215,3852,Devolución,Producto dañado en tránsito,2025-07-03,472302.0
+216,2632,Cancelación,Producto fuera de stock,2025-07-16,202726.05
+217,905,Devolución,Llegó tarde y ya no era necesario,2026-08-04,750196.95
+218,1362,Cancelación,Producto fuera de stock,2025-12-22,85819.5
+219,3981,Devolución,No cumplió con las expectativas,2025-04-20,398277.92
+220,2521,Devolución,Producto dañado en tránsito,2025-05-05,111028.71
+221,2427,Cancelación,Pedido duplicado por error del sistema,2026-08-27,222057.42
+222,2993,Devolución,Talla o tamaño incorrecto,2025-09-11,299959.95
+223,2150,Devolución,Producto dañado en tránsito,2025-10-02,50390.14
+224,1422,Cancelación,Pedido duplicado por error del sistema,2025-11-24,4272.78
+225,2729,Cancelación,Error al realizar el pedido,2025-12-28,79311.21
+226,3029,Cancelación,Cliente cambió de opinión,2026-01-05,88780.28
+227,2614,Devolución,,2025-05-04,38940.88
+228,3066,Devolución,Producto dañado en tránsito,2026-01-07,82258.1
+229,2456,Devolución,Llegó tarde y ya no era necesario,2025-08-28,28515.51
+230,2621,Cancelación,Cliente cambió de opinión,2026-08-02,68234.19
+231,415,Devolución,Llegó tarde y ya no era necesario,2025-07-18,306807.14
+232,2088,Cancelación,Error al realizar el pedido,2026-02-03,320933.1
+233,3814,Devolución,Producto dañado en tránsito,2026-08-28,590377.5
+234,2950,Cancelación,Error al realizar el pedido,2025-10-21,438807.57
+235,430,Devolución,No cumplió con las expectativas,2025-03-11,427343.0
+236,1839,Cancelación,,2025-06-26,308819.56
+237,3869,Devolución,No cumplió con las expectativas,2025-08-13,586288.6
+238,4050,Cancelación,Producto fuera de stock,2026-02-22,325049.12
+239,3569,Devolución,Producto dañado en tránsito,2026-06-17,170937.2
+240,3707,Devolución,Llegó tarde y ya no era necesario,2026-02-20,104625.48
+241,2545,Cancelación,Pedido duplicado por error del sistema,2025-08-03,464298.3
+242,1908,Devolución,No cumplió con las expectativas,2026-08-15,34359.46
+243,1517,Devolución,No cumplió con las expectativas,2026-03-23,370230.48
+244,2221,Devolución,Producto defectuoso,2026-08-10,73405.1
+245,3369,Cancelación,Pedido duplicado por error del sistema,2026-08-20,162796.58
+246,210,Devolución,Producto defectuoso,2025-03-22,195824.74
+247,2361,Devolución,No cumplió con las expectativas,2025-07-20,848312.55
+248,2475,Cancelación,Producto fuera de stock,2025-03-13,620979.56
+249,1718,Cancelación,Error al realizar el pedido,2025-07-19,95304.12
+250,3840,Devolución,Llegó tarde y ya no era necesario,2026-02-04,510920.13
+251,960,Cancelación,Error al realizar el pedido,2026-07-07,742762.85
+252,3720,Cancelación,Producto fuera de stock,2025-01-15,400144.71
+253,2215,Cancelación,Cliente cambió de opinión,2026-08-18,183512.75
+254,1745,Cancelación,,2026-03-07,561451.6
+255,2654,Cancelación,Error al realizar el pedido,2025-04-23,784684.8
+256,3934,Cancelación,Pedido duplicado por error del sistema,2025-09-15,155244.89
+257,894,Cancelación,Pedido duplicado por error del sistema,2026-06-19,195824.74
+258,354,Devolución,Producto defectuoso,2026-09-02,270321.76
+259,2786,Devolución,No cumplió con las expectativas,2025-08-14,105607.02
+260,717,Cancelación,Cliente cambió de opinión,2025-05-21,621938.4
+261,1884,Devolución,No cumplió con las expectativas,2026-04-18,577332.45
+262,2564,Cancelación,Error al realizar el pedido,2026-03-28,88703.15
+263,3851,Devolución,,2025-06-30,333014.48
+264,3181,Cancelación,Pedido duplicado por error del sistema,2025-06-25,316213.62
+265,792,Cancelación,Pedido duplicado por error del sistema,2026-03-10,125204.64
+266,826,Cancelación,Cliente cambió de opinión,2025-10-19,210854.4
+267,3077,Cancelación,Cliente cambió de opinión,2026-05-17,76926.8
+268,3427,Cancelación,Error al realizar el pedido,2026-05-29,125838.21
+269,2987,Cancelación,Pedido duplicado por error del sistema,2026-05-25,166306.86
+270,3617,Cancelación,,2025-12-10,12369.41
+271,3938,Cancelación,Cliente cambió de opinión,2026-03-01,139729.12
+272,2815,Devolución,Talla o tamaño incorrecto,2025-09-26,77407.65
+273,1078,Cancelación,,2026-07-08,289867.5
+274,2497,Devolución,,2025-04-27,4097.7
+275,541,Cancelación,Cliente cambió de opinión,2025-12-27,712839.3
+276,89,Devolución,No cumplió con las expectativas,2026-02-03,416268.1
+277,544,Devolución,No cumplió con las expectativas,2025-02-26,31272.16
+278,7,Cancelación,Error al realizar el pedido,2025-09-19,90401.75
+279,1958,Cancelación,Cliente cambió de opinión,2025-12-02,197300.36
+280,2044,Devolución,Producto defectuoso,2025-06-27,171231.6
+281,3160,Cancelación,Cliente cambió de opinión,2025-06-26,487120.96
+282,2099,Cancelación,Cliente cambió de opinión,2026-01-26,68176.58
+283,3031,Cancelación,Error al realizar el pedido,2026-01-05,757103.25
+284,895,Cancelación,Cliente cambió de opinión,2026-06-06,102822.62
+285,2252,Cancelación,Pedido duplicado por error del sistema,2025-12-12,628241.04
+286,1163,Devolución,Producto dañado en tránsito,2026-01-13,117202.1
+287,3856,Devolución,Producto defectuoso,2026-09-04,46331.53
+288,583,Cancelación,Cliente cambió de opinión,2025-04-16,91268.54
+289,1606,Devolución,Producto dañado en tránsito,2026-04-10,41734.88
+290,638,Cancelación,Error al realizar el pedido,2026-09-04,193245.0
+291,3665,Cancelación,Cliente cambió de opinión,2025-07-09,531915.45
+292,2686,Cancelación,Error al realizar el pedido,2026-03-23,131893.81
+293,2057,Devolución,Llegó tarde y ya no era necesario,2025-12-09,227754.3
+294,3576,Devolución,Producto dañado en tránsito,2026-04-01,61541.44
+295,904,Devolución,No cumplió con las expectativas,2026-07-26,171085.72
+296,3188,Cancelación,Pedido duplicado por error del sistema,2025-01-13,16549.87
+297,1730,Cancelación,Error al realizar el pedido,2026-08-14,210234.72
+298,149,Cancelación,Producto fuera de stock,2025-04-29,479174.88
+299,2618,Cancelación,Pedido duplicado por error del sistema,2025-12-24,398277.92
+300,3937,Devolución,No cumplió con las expectativas,2025-06-28,91268.54
+301,3356,Devolución,No cumplió con las expectativas,2025-12-28,260793.0
+302,772,Devolución,Llegó tarde y ya no era necesario,2025-05-29,56991.42
+303,1366,Devolución,No cumplió con las expectativas,2026-02-19,155899.1
+304,2563,Cancelación,Producto fuera de stock,2026-03-31,628241.04
+305,3901,Devolución,Talla o tamaño incorrecto,2025-02-19,5811.44
+306,2992,Devolución,Talla o tamaño incorrecto,2025-09-20,210333.86
+307,2780,Cancelación,Producto fuera de stock,2026-08-06,25876.59
+308,1597,Devolución,No cumplió con las expectativas,2025-12-04,400847.52
+309,2027,Cancelación,Producto fuera de stock,2025-01-31,294724.2
+310,1051,Devolución,Producto dañado en tránsito,2025-09-17,144213.13
+311,483,Devolución,Talla o tamaño incorrecto,2026-03-09,554210.76
+312,3274,Cancelación,Pedido duplicado por error del sistema,2025-07-31,102264.87
+313,2072,Devolución,Llegó tarde y ya no era necesario,2025-02-22,630501.95
+314,3841,Devolución,Producto defectuoso,2026-02-17,420334.62
+315,1170,Devolución,,2026-08-01,92541.59
+316,3370,Cancelación,Cliente cambió de opinión,2026-08-22,384393.54
+317,2651,Devolución,No cumplió con las expectativas,2026-01-06,314841.3
+318,1092,Devolución,No cumplió con las expectativas,2025-04-19,78469.12
+319,3396,Devolución,Llegó tarde y ya no era necesario,2026-08-24,247451.6
+320,1334,Devolución,Producto dañado en tránsito,2025-06-13,456819.65
+321,3682,Cancelación,Error al realizar el pedido,2026-08-17,28515.51
+322,2253,Cancelación,,2025-12-14,350506.9
+323,2628,Devolución,No cumplió con las expectativas,2025-09-20,80276.57
+324,1291,Devolución,Talla o tamaño incorrecto,2025-03-08,177394.0
+325,2672,Devolución,Producto defectuoso,2025-06-23,302489.78
+326,2851,Devolución,Producto dañado en tránsito,2025-03-15,256746.5
+327,3664,Cancelación,Pedido duplicado por error del sistema,2025-07-12,119940.74
+328,2350,Cancelación,Error al realizar el pedido,2026-02-07,199138.96
+329,3813,Devolución,No cumplió con las expectativas,2026-09-08,220864.92
+330,1014,Cancelación,Pedido duplicado por error del sistema,2025-06-27,216580.64
+331,2860,Devolución,Llegó tarde y ya no era necesario,2025-11-25,136902.81
+332,3691,Cancelación,Cliente cambió de opinión,2026-01-20,376538.05
+333,2121,Devolución,Producto dañado en tránsito,2025-12-16,322507.4
+334,1015,Cancelación,Producto fuera de stock,2025-06-30,151415.22
+335,4046,Devolución,Talla o tamaño incorrecto,2025-05-21,79244.34
+336,2251,Cancelación,Producto fuera de stock,2025-12-16,205645.24
+337,2178,Devolución,Talla o tamaño incorrecto,2025-05-03,416268.1
+338,2903,Devolución,Producto dañado en tránsito,2025-12-08,309427.95
+339,3309,Devolución,Producto defectuoso,2026-07-11,85542.86
+340,958,Cancelación,Pedido duplicado por error del sistema,2026-07-06,51396.21
+341,2483,Cancelación,Producto fuera de stock,2025-06-17,158902.46
+342,1724,Cancelación,Error al realizar el pedido,2026-08-20,58411.32
+343,1125,Devolución,Llegó tarde y ya no era necesario,2026-06-27,128910.14
+344,2819,Cancelación,Error al realizar el pedido,2026-04-15,352894.05
+345,893,Cancelación,Error al realizar el pedido,2026-06-18,443515.75
+346,2426,Cancelación,Pedido duplicado por error del sistema,2026-08-19,208819.0
+347,3308,Devolución,Talla o tamaño incorrecto,2026-07-20,631483.5
+348,3100,Devolución,Talla o tamaño incorrecto,2025-10-14,187335.03
+349,1748,Devolución,Talla o tamaño incorrecto,2025-02-19,34088.29
+350,2785,Devolución,Talla o tamaño incorrecto,2025-08-13,134763.5
+351,597,Cancelación,Producto fuera de stock,2025-05-07,341583.1
+352,2544,Cancelación,Cliente cambió de opinión,2025-08-06,247451.6
+353,1390,Cancelación,,2026-08-02,137195.14
+354,2401,Devolución,Producto defectuoso,2026-03-18,334872.48
+355,2841,Devolución,Producto dañado en tránsito,2025-02-18,219253.2
+356,1584,Cancelación,Producto fuera de stock,2025-08-01,213771.08
+357,2973,Cancelación,Error al realizar el pedido,2025-05-16,73497.0
+358,2693,Cancelación,Error al realizar el pedido,2025-11-08,548780.56
+359,898,Devolución,No cumplió con las expectativas,2025-12-23,284626.7
+360,2390,Devolución,Talla o tamaño incorrecto,2026-01-01,292369.58
+361,3819,Cancelación,Producto fuera de stock,2025-07-07,53230.19
+362,3767,Devolución,No cumplió con las expectativas,2026-02-08,320324.88
+363,91,Devolución,Llegó tarde y ya no era necesario,2026-02-10,67580.44
+364,2271,Devolución,Producto dañado en tránsito,2025-09-27,229773.48
+365,3299,Cancelación,Pedido duplicado por error del sistema,2025-12-02,164687.19
+366,1921,Cancelación,,2026-06-20,136902.81
+367,3518,Devolución,No cumplió con las expectativas,2026-07-24,64455.07
+368,1849,Devolución,Llegó tarde y ya no era necesario,2025-07-29,40202.34
+369,186,Cancelación,Error al realizar el pedido,2025-09-02,221229.21
+370,2496,Devolución,Producto dañado en tránsito,2025-04-15,31211.12
+371,2840,Devolución,Producto defectuoso,2025-02-26,149676.18
+372,1121,Cancelación,Pedido duplicado por error del sistema,2025-11-16,151543.51
+373,1292,Devolución,Producto defectuoso,2025-09-28,43686.78
+374,3078,Cancelación,Cliente cambió de opinión,2026-05-17,21681.52
+375,2543,Cancelación,Producto fuera de stock,2025-08-14,118075.5
+376,2665,Devolución,Producto defectuoso,2025-10-01,30355.94
+377,2688,Devolución,No cumplió con las expectativas,2026-06-17,320324.88
+378,1780,Devolución,No cumplió con las expectativas,2025-02-08,45228.66
+379,1113,Cancelación,Cliente cambió de opinión,2026-08-13,564609.2
+380,2277,Cancelación,Pedido duplicado por error del sistema,2025-02-27,180910.55
+381,1845,Devolución,,2025-09-22,551163.16
+382,2917,Devolución,Producto defectuoso,2026-03-17,400847.52
+383,2904,Cancelación,Pedido duplicado por error del sistema,2026-05-09,627747.84
+384,2591,Cancelación,Cliente cambió de opinión,2026-08-02,355713.92
+385,2522,Devolución,Llegó tarde y ya no era necesario,2025-05-09,136633.24
+386,3718,Cancelación,Error al realizar el pedido,2025-08-05,733847.5
+387,543,Cancelación,,2025-12-14,168343.52
+388,3723,Devolución,Llegó tarde y ya no era necesario,2025-09-03,38104.37
+389,845,Devolución,Producto defectuoso,2026-03-31,162902.46
+390,1546,Devolución,Talla o tamaño incorrecto,2025-06-17,79253.62
+391,545,Devolución,Producto defectuoso,2025-02-17,350368.05
+392,420,Devolución,No cumplió con las expectativas,2026-09-03,150039.39
+393,579,Cancelación,Pedido duplicado por error del sistema,2025-01-13,220602.12
+394,2014,Devolución,Talla o tamaño incorrecto,2025-12-29,335439.76
+395,2026,Cancelación,Pedido duplicado por error del sistema,2025-01-31,239705.04
+396,1710,Devolución,Producto defectuoso,2026-01-10,415251.04
+397,1389,Cancelación,Error al realizar el pedido,2025-12-02,10000.48
+398,1370,Cancelación,Error al realizar el pedido,2025-08-20,88819.5
+399,1269,Cancelación,Pedido duplicado por error del sistema,2025-02-12,296469.88
+400,3630,Cancelación,Cliente cambió de opinión,2025-11-29,380906.84
+401,2801,Cancelación,Cliente cambió de opinión,2026-05-13,548780.56
+402,1120,Cancelación,Producto fuera de stock,2025-05-26,80562.9
+403,542,Cancelación,Pedido duplicado por error del sistema,2025-12-14,768624.8
+404,582,Cancelación,Producto fuera de stock,2025-04-28,438807.57
+405,83,Cancelación,Error al realizar el pedido,2026-07-28,272488.44
+406,2232,Devolución,Talla o tamaño incorrecto,2025-12-05,234427.08
+407,2689,Devolución,Producto defectuoso,2026-06-26,377487.36
+408,618,Cancelación,Producto fuera de stock,2025-08-27,252178.1
+409,2362,Devolución,Producto defectuoso,2025-07-13,462707.95
+410,2098,Cancelación,Error al realizar el pedido,2026-01-28,584079.76
+411,2474,Cancelación,Cliente cambió de opinión,2025-03-18,96171.76
+412,3622,Devolución,No cumplió con las expectativas,2026-08-22,27101.9
+413,1972,Devolución,Llegó tarde y ya no era necesario,2026-08-19,187335.03
+414,2652,Devolución,Talla o tamaño incorrecto,2026-01-10,354226.5
+415,1550,Cancelación,Producto fuera de stock,2025-12-17,147403.57
+416,2589,Cancelación,Error al realizar el pedido,2025-04-26,100867.46
+417,3927,Devolución,Talla o tamaño incorrecto,2026-07-11,370166.36
+418,2644,Cancelación,Error al realizar el pedido,2025-12-22,162902.46
+419,3273,Cancelación,Pedido duplicado por error del sistema,2025-09-24,301092.54
+420,619,Cancelación,Producto fuera de stock,2025-08-21,36539.19
+421,1374,Devolución,Producto dañado en tránsito,2025-05-21,280284.25
+422,531,Cancelación,Error al realizar el pedido,2025-09-16,112109.74
+423,3234,Cancelación,Producto fuera de stock,2026-08-09,126405.89
+424,3056,Cancelación,Producto fuera de stock,2025-04-11,67112.41
+425,1024,Cancelación,Producto fuera de stock,2026-07-27,325804.92
+426,1424,Cancelación,Cliente cambió de opinión,2025-11-11,188432.4
+427,2627,Devolución,Llegó tarde y ya no era necesario,2025-09-20,188481.12
+428,2590,Cancelación,Cliente cambió de opinión,2025-04-30,57902.11
+429,1094,Devolución,Producto dañado en tránsito,2025-04-26,89554.42
+430,3433,Devolución,Talla o tamaño incorrecto,2026-08-22,275928.82
+431,570,Devolución,Producto defectuoso,2026-02-01,249211.8
+432,1452,Devolución,Llegó tarde y ya no era necesario,2026-02-03,536963.8
+433,3963,Cancelación,Error al realizar el pedido,2025-08-13,22902.28
+434,3153,Cancelación,Error al realizar el pedido,2026-07-21,419290.5
+435,513,Cancelación,Error al realizar el pedido,2025-09-21,133807.55
+436,3857,Devolución,No cumplió con las expectativas,2026-09-14,240429.4
+437,211,Devolución,Producto defectuoso,2025-03-13,494061.57
+438,2457,Devolución,No cumplió con las expectativas,2025-09-03,93723.48
+439,3709,Devolución,Talla o tamaño incorrecto,2025-09-20,220602.12
+440,3777,Devolución,No cumplió con las expectativas,2026-09-15,292538.38
+441,1545,Devolución,Producto dañado en tránsito,2025-06-24,5441.4
+442,3067,Devolución,Producto dañado en tránsito,2026-01-10,129748.3
+443,674,Cancelación,Cliente cambió de opinión,2026-08-11,236151.0
+444,152,Devolución,No cumplió con las expectativas,2026-06-27,279527.0
+445,3005,Cancelación,,2026-03-26,665151.15
+446,3743,Devolución,No cumplió con las expectativas,2025-12-08,280223.08
+447,814,Cancelación,Cliente cambió de opinión,2025-02-25,225832.83
+448,2834,Devolución,Producto defectuoso,2026-01-12,221775.66
+449,30,Devolución,No cumplió con las expectativas,2025-07-11,46906.68
+450,580,Cancelación,Pedido duplicado por error del sistema,2025-01-10,314641.4
+451,608,Cancelación,Error al realizar el pedido,2025-04-03,230932.98
+452,85,Cancelación,Producto fuera de stock,2026-07-28,141659.2
+453,241,Cancelación,Producto fuera de stock,2026-05-21,429885.78
+454,1838,Cancelación,Pedido duplicado por error del sistema,2025-06-13,235701.36
+455,716,Cancelación,Cliente cambió de opinión,2026-05-06,193245.0
+456,1702,Devolución,Llegó tarde y ya no era necesario,2025-04-01,251950.7
+457,1920,Cancelación,Cliente cambió de opinión,2026-06-24,429885.78
+458,2043,Devolución,Talla o tamaño incorrecto,2025-07-08,65666.6
+459,2391,Devolución,Llegó tarde y ya no era necesario,2026-01-04,63346.87
+460,747,Cancelación,Error al realizar el pedido,2026-08-02,621660.88
+461,3039,Cancelación,Pedido duplicado por error del sistema,2026-03-08,125204.64
+462,1112,Cancelación,Producto fuera de stock,2026-08-15,137195.14
+463,2949,Cancelación,Error al realizar el pedido,2025-10-27,67580.44
+464,3258,Cancelación,Cliente cambió de opinión,2026-08-24,50390.14
+465,3278,Cancelación,Error al realizar el pedido,2025-12-17,230633.92
+466,2021,Cancelación,Pedido duplicado por error del sistema,2025-02-19,208556.35
+467,3567,Devolución,Producto dañado en tránsito,2026-02-10,100510.14
+468,1454,Cancelación,Producto fuera de stock,2025-10-18,823435.95
+469,3784,Cancelación,Pedido duplicado por error del sistema,2026-06-06,798624.8
+470,2090,Cancelación,Pedido duplicado por error del sistema,2026-02-04,341583.1
+471,2288,Cancelación,Producto fuera de stock,2026-02-08,377340.72
+472,357,Cancelación,Pedido duplicado por error del sistema,2026-03-08,114313.11
+473,569,Devolución,No cumplió con las expectativas,2026-02-01,282005.92
+474,3543,Devolución,Producto dañado en tránsito,2026-05-14,202726.05
+475,2906,Devolución,Talla o tamaño incorrecto,2025-12-28,173734.2
+476,588,Devolución,Talla o tamaño incorrecto,2026-08-11,45489.46
+477,65,Devolución,No cumplió con las expectativas,2025-12-20,140202.76
+478,1505,Cancelación,Cliente cambió de opinión,2026-09-03,83312.91
+479,2653,Cancelación,Producto fuera de stock,2025-04-16,171085.72
+480,3667,Cancelación,Error al realizar el pedido,2026-02-25,312225.05
