@@ -40,6 +40,7 @@ flowchart LR
 - Jose Eduardo Soto Hernández
 - Alexandra Pamela Cruz Segura
 - Francisco Alejandro Díaz Palma
+- Sharon Sánchez
 
 ## Herramientas utilizadas
 
