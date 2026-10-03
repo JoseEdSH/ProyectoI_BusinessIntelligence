@@ -13,7 +13,7 @@ Contenido de la carpeta ETL: proceso ETL que traslada los datos desde la fuente 
 | `Workflow KNIME/consultas_nodos_knime.sql` | Consultas de extracción (E01-E12) y de lookup de llaves subrogadas (L01-L11) usadas en los nodos. |
 | `Workflow KNIME/V01_validacion_para_knime.sql` | Consulta de validación lista para el nodo V01. |
 | `Documentacion/Reglas_transformacion_ETL.md` | Cuadro de reglas: campo destino, campo origen, regla aplicada y comentarios. |
-| `Evidencias/` | Capturas de la ejecución y registro `validacion_etl.csv`. |
+| `Evidencias/` |  `validacion_etl.csv`. |
 
 ## Instrucciones de ejecución
 
