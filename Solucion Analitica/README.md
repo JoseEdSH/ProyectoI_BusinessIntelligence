@@ -49,3 +49,46 @@ Requisitos: haber ejecutado antes el ETL (ver `ETL/README.md`), de modo que la b
 3. Si el servidor no está en `localhost:5432`, ajustar la URL del nodo **DB Connector** (`jdbc:postgresql://localhost:5432/ecommerce_bi`).
 4. Ejecutar con **Execute all**.
 5. Seleccionar cualquier nodo Bar Chart o Table View para ver su resultado en el panel inferior.
+
+
+## Persona 5 — Preguntas 3 y 4 e indicador adicional
+
+Estudiante: Alexandra Pamela Cruz Segura
+
+- **Pregunta 3.** ¿Qué productos presentan mayores tasas de cancelación o devolución y cuáles son las razones más frecuentes?
+- **Pregunta 4.** ¿Cómo varían el ticket promedio y la recurrencia de compra según segmento de cliente, dispositivo y método de pago?
+- **Indicador adicional.** Margen bruto promedio por pedido.
+
+### Estructura
+
+| **Carpeta / archivo** | **Contenido** |
+| ----------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| `Workflow KNIME/Persona5_Analisis.knwf` | Workflow exportado desde KNIME con las consultas y visualizaciones correspondientes a Q3, Q4 y el indicador adicional. |
+| `Evidencias/Persona 5/` | Capturas de las vistas generadas para Q3, Q4 y el indicador de rentabilidad por pedido. |
+
+### Vistas del workflow
+
+| **Pregunta / indicador** | **Vista** | **Captura** |
+| ------------ | ---------------------------------------- | ------------------------------------------ |
+| Q3 | Top 5 productos por tasa de cancelación | `Top 5 productos por tasa de cancelación.png` |
+| Q3 | Top 5 productos por tasa de devolución | `Top 5 productos por tasa de devolución.png` |
+| Q3 | Principales razones de cancelación y devolución | `Principales razones de cancelación y devolución.png` |
+| Q4 | Ticket promedio por segmento de cliente | `Ticket promedio por segmento de cliente.png` |
+| Q4 | Recurrencia por segmento de cliente | `Recurrencia por segmento de cliente.png` |
+| Q4 | Ticket promedio por dispositivo | `Ticket promedio por dispositivo.png` |
+| Q4 | Recurrencia de compra por dispositivo | `Recurrencia de compra por dispositivo.png` |
+| Q4 | Ticket promedio por método de pago | `Ticket promedio por método de pago.png` |
+| Q4 | Recurrencia de compra por método de pago | `Recurrencia de compra por método de pago.png` |
+| Indicador | Margen bruto promedio por pedido | `Indicador rentabilidad por pedido.png` |
+
+### Indicador adicional
+
+Como indicador complementario se calculó el **margen bruto promedio por pedido**, utilizando el margen bruto registrado en `fact_detalle_venta` y el total de pedidos de `fact_pedido`.
+
+El análisis considera 2 500 pedidos, con un margen bruto total de ₡364 812 244,93 y un margen bruto promedio de **₡145 924,90 por pedido**.
+
+> Nota: el margen bruto promedio por pedido corresponde a un indicador de rentabilidad bruta y no debe interpretarse como utilidad neta.
+
+### Ejecución
+
+El workflow de Persona 5 utiliza el esquema `dw` cargado previamente por el ETL. Las consultas se ejecutan mediante los nodos de consulta de KNIME y las salidas se visualizan mediante gráficos de barras y Table View.
