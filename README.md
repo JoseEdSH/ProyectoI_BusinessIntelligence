@@ -32,7 +32,19 @@ flowchart LR
 | Fuente transaccional | Base `ecommerce_bi`, esquema `public`: Cliente, Categoria, Marca, Campania, OperadorLogistico, Producto, Pedido, DetallePedido, Envio y DevolucionCancelacion (10.287 registros). |
 | Modelo dimensional | Esquema `dw` con una constelación de hechos: `fact_pedido`, `fact_detalle_venta`, `fact_envio` y `fact_devolucion_cancelacion`, con dimensiones conformadas (`dim_tiempo`, `dim_cliente`, `dim_producto`, `dim_campania`, `dim_contexto_pedido`, `dim_operador_logistico`, `dim_contexto_envio`, `dim_motivo_evento`) y llaves subrogadas. |
 | ETL | Workflow de KNIME que vacía `dw`, carga dimensiones, resuelve llaves subrogadas y carga los hechos; termina con 32 controles de calidad. |
-| Solución analítica | Workflows de KNIME que consultan únicamente el esquema `dw` y presentan los resultados en gráficos de barras y tablas. |
+| Solución analítica | Dos workflows de KNIME, `Persona4_Analisis` (Q1 y Q2) y `Persona5_Analisis` (Q3, Q4 e indicador adicional), que consultan únicamente el esquema `dw` y presentan los resultados en gráficos de barras y tablas. |
+
+### Respuesta a las preguntas de negocio
+
+| Pregunta | Workflow | Evidencias |
+|---|---|---|
+| Q1. Pedidos, ingresos y margen por categoría, producto, marca, campaña y periodo | `Persona4_Analisis.knwf` | `Solucion Analitica/Evidencias/Persona 4/` (Q1_01 a Q1_09) |
+| Q2. Tiempos de entrega y % de entregas a tiempo por operador, región y tipo de envío | `Persona4_Analisis.knwf` | `Solucion Analitica/Evidencias/Persona 4/` (Q2_01 a Q2_07) |
+| Q3. Tasas de cancelación y devolución por producto y razones más frecuentes | `Persona5_Analisis.knwf` | `Solucion Analitica/Evidencias/Persona 5/` |
+| Q4. Ticket promedio y recurrencia por segmento, dispositivo y método de pago | `Persona5_Analisis.knwf` | `Solucion Analitica/Evidencias/Persona 5/` |
+| Indicador adicional: margen bruto promedio por pedido (₡145.924,90 sobre 2.500 pedidos) | `Persona5_Analisis.knwf` | `Solucion Analitica/Evidencias/Persona 5/` |
+
+La interpretación de los resultados, las conclusiones, las limitaciones y las mejoras futuras se desarrollan en el informe del proyecto.
 
 ## Integrantes
 
@@ -61,7 +73,11 @@ flowchart LR
    2. `ETL/Scripts SQL/01_carga_datos_fuente.sql`: carga los datos de la carpeta `Datos`.
    3. `Data Warehouse/modelo_dimensional.sql`: crea el esquema `dw`.
 3. En KNIME, importar y ejecutar `ETL/Workflow KNIME/ETL_Ecommerce_Grupo02.knwf` (detalle en `ETL/README.md`). Al terminar, los 32 controles de validación deben quedar en `OK`.
-4. Importar y ejecutar los workflows de `Solucion Analitica/Workflow KNIME/` (detalle en `Solucion Analitica/README.md`). Cada vista se consulta seleccionando el nodo Bar Chart o Table View correspondiente.
+4. Importar y ejecutar con **Execute all** los workflows de la solución analítica (detalle en `Solucion Analitica/README.md`):
+   - `Solucion Analitica/Workflow KNIME/Persona4_Analisis.knwf`: preguntas 1 y 2.
+   - `Solucion Analitica/Workflow KNIME/Persona5_Analisis.knwf`: preguntas 3 y 4 e indicador adicional.
+
+   En cada workflow se deben indicar el usuario y la contraseña de PostgreSQL de la computadora local. Cada vista se consulta seleccionando el nodo Bar Chart o Table View correspondiente.
 
 Resultado esperado del Data Warehouse: 2.500 pedidos, 4.117 líneas de venta, 2.500 envíos y 480 eventos de devolución o cancelación.
 
@@ -73,7 +89,10 @@ ProyectoI_BusinessIntelligence/
 ├── Datos/                    Datos sintéticos en CSV (10 tablas)
 ├── Data Warehouse/           Script del modelo dimensional y diagrama
 ├── ETL/                      Scripts SQL, workflow de KNIME, reglas de transformación y evidencias
-├── Solucion Analitica/       Workflows de análisis, consultas SQL y capturas de las preguntas de negocio
+├── Solucion Analitica/       Solución analítica de las preguntas de negocio
+│   ├── Workflow KNIME/       Persona4_Analisis.knwf (Q1 y Q2) y Persona5_Analisis.knwf (Q3, Q4 e indicador)
+│   ├── Consultas SQL/        Consultas de las preguntas 1 y 2
+│   └── Evidencias/           Capturas de las vistas: Persona 4/ y Persona 5/
 └── README.md
 ```
 
